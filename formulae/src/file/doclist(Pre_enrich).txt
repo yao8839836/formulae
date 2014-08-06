@@ -1,0 +1,3428 @@
+E:\pre_enrich\伤科方\一粒金丹,栝楼 栝楼子 .txt
+E:\pre_enrich\伤科方\七厘散,三七 红花 乌梅 孩儿茶 .txt
+E:\pre_enrich\伤科方\七厘散.txt
+E:\pre_enrich\伤科方\东瓜皮散,冬瓜皮 牛皮 黄明胶 冬瓜 .txt
+E:\pre_enrich\伤科方\九仙丹,骨碎补 白及 白蔹 乳香 没药 血竭 孩儿茶 三七 .txt
+E:\pre_enrich\伤科方\九分散,乳香 马钱子 麻黄 .txt
+E:\pre_enrich\伤科方\九龙丹,山海螺 .txt
+E:\pre_enrich\伤科方\九龙丹,牛黄 梅花冰片 麝香 硼砂 朱砂 雄黄 消石 荜茇 金箔 .txt
+E:\pre_enrich\伤科方\乳香散,乳香 当归 血竭 酒 醋 没药 硼砂 骨碎补 蕨 .txt
+E:\pre_enrich\伤科方\五灵散,乳香 川贝母 血竭 没药 海螵蛸 .txt
+E:\pre_enrich\伤科方\交感丹,小茴香 苍术 食盐 花椒 .txt
+E:\pre_enrich\伤科方\伤丸,厚朴 山羊血 乳香 羊血 肉桂 自然铜 骨碎补 当归 木瓜 朱砂 杜仲 血竭 三七 牛膝 甜瓜 甜瓜子 红花 陆英 续断 .txt
+E:\pre_enrich\伤科方\伤药方,党参 地龙 乳香 当归 三七 铁棒锤 雪乌 .txt
+E:\pre_enrich\伤科方\保命丹,大黄 朱砂 血竭 麝香 牵牛子 .txt
+E:\pre_enrich\伤科方\保命丹,肉桂 青皮 香附 鹰骨 木香 枳实 柴胡 桃仁 苏木 莪术 蒲黄 三棱 甘草 红花 细辛 鹅毛 川乌头 铁棒锤 大黄 五灵脂 花椒 乌药 蚺蛇胆 露蜂房 雪乌 .txt
+E:\pre_enrich\伤科方\保婴丹,大黄 乌药 肉桂 青皮 香附 鹅毛 鹰骨 木香 枳实 柴胡 桃仁 苏木 莪术 蒲黄 蚺蛇胆 三七 三棱 甘草 红花 细辛 五灵脂 铁棒锤 雪乌 .txt
+E:\pre_enrich\伤科方\保婴丹,牵牛子 大黄 血竭 朱砂 麝香 .txt
+E:\pre_enrich\伤科方\全鹿丸,金樱子 菟丝 菟丝子 酒 牛乳 黄柏 秋石 车前子 五味子 .txt
+E:\pre_enrich\伤科方\八仙丹,乳香 没药 骨碎补 半夏 当归 硼砂 大黄 血竭 自然铜 无名异 .txt
+E:\pre_enrich\伤科方\八厘散,半夏 当归 蜇虫 甜瓜子 血竭 冷水花 山羊血 .txt
+E:\pre_enrich\伤科方\八厘散,半夏 甜瓜 甜瓜子 蜇虫 乳香 没药 血竭 当归 砂仁 雄黄 巴豆 .txt
+E:\pre_enrich\伤科方\八宝丹,荸荠 珍珠 滑石 炉甘石 硼砂 乳香 薄荷 .txt
+E:\pre_enrich\伤科方\八宝丹,龙骨 铅 铅粉 乳香 没药 血竭 轻粉 孩儿茶 梅花冰片 豨莶 珍珠 .txt
+E:\pre_enrich\伤科方\养筋活血丹,威灵仙 乌药 续断 羌活 青皮 香附 川芎 当归 木瓜 杜仲 枳壳 桂枝 赤芍 三七 甘草 秦艽 小茴香 五加皮 木蝴蝶 补骨脂 .txt
+E:\pre_enrich\伤科方\军门方,厚朴 大黄 韭菜 当归 枳壳 桃仁 茜草 蒲黄 甘草 红花 山海螺 韭子 .txt
+E:\pre_enrich\伤科方\刘氏跌打损伤膏,川芎 当归 赤芍 红花 乳香 没药 防风 羌活 肉桂 骨碎补 川牛膝 川芎 当归 杜仲 莪术 赤芍 三棱 牛膝 独活 白芷 秦艽 红花 五加皮 龙骨 血竭 刘寄奴 续断 大果巴戟 广防己 .txt
+E:\pre_enrich\伤科方\十大功,藤黄 .txt
+E:\pre_enrich\伤科方\升降饮,韭菜 .txt
+E:\pre_enrich\伤科方\双龙膏,独活 金银花 铅丹 .txt
+E:\pre_enrich\伤科方\君臣散,姜黄 甘草 肉桂 红花 当归 赤芍 牡丹皮 乌药 桃仁 川牛膝 杜仲 川芎 骨碎补 续断 五加皮 防风 羌活 天花粉 樟柳头 .txt
+E:\pre_enrich\伤科方\和伤活血汤,乌药 三棱 五加皮 茜草 刘寄奴 红花 铁牛钻石 枳壳 莪术 桃仁 赤芍 当归 土木香 .txt
+E:\pre_enrich\伤科方\和伤活血汤,当归 苏木 红花 胡桃仁 .txt
+E:\pre_enrich\伤科方\和伤活血汤,百部 刘寄奴 骨碎补 苏木 乳香 甘草 没药 金银花 甘草 山佩兰 .txt
+E:\pre_enrich\伤科方\和营止痛汤,乌药 乳香 续断 川芎 木通 桃仁 苏木 赤芍 没药 甘草 山海螺 当归 .txt
+E:\pre_enrich\伤科方\和血散瘀汤,乌药 三棱 五加皮 茜草 刘寄奴 红花 铁牛钻石 枳壳 莪术 桃仁 赤芍 当归 白芍 土木香 .txt
+E:\pre_enrich\伤科方\咽醋丸,韭菜 石灰 .txt
+E:\pre_enrich\伤科方\四生散,松香 半夏 石膏 铅丹 .txt
+E:\pre_enrich\伤科方\四症神方,降香 地龙 乳香 自然铜 松节 水蛭 苏木 龙骨 血竭 没药 川乌头 蝼蛄 .txt
+E:\pre_enrich\伤科方\回生丹,干姜 当归 蒲黄 赤芍 肉桂 黑大豆 .txt
+E:\pre_enrich\伤科方\国寿散,百草霜 生姜 鹿梨 .txt
+E:\pre_enrich\伤科方\地鳖紫金丹,蜇虫 硼砂 血竭 自然铜 乌药 蝼蛄 延胡索 当归 桃仁 威灵仙 川牛膝 麝香 香附 木香 五加皮 苏木 川贝母 泽兰 五灵脂 菟丝子 续断 食盐 新疆延胡索 .txt
+E:\pre_enrich\伤科方\复元活血汤.txt
+E:\pre_enrich\伤科方\大宝红药方,琥珀 血竭 朱砂 .txt
+E:\pre_enrich\伤科方\定痛散,乳香 龙骨 蟾酥 酒 酥 没药 铁棒锤 雪乌 .txt
+E:\pre_enrich\伤科方\将军复战丹,山芝麻 乳香 血竭 酒 没药 .txt
+E:\pre_enrich\伤科方\小元门,麻黄 川芎 乳香 没药 穿山甲 马钱子 .txt
+E:\pre_enrich\伤科方\小惊药,金箔 防风 附子 铁 羌活 山药 川芎 朱砂 茯神 茯苓 荆芥 蝉蜕 远志 麻黄 甘草 白芷 白附子 白僵蚕 代赭石 .txt
+E:\pre_enrich\伤科方\延寿丹,党参 地龙 乳香 当归 三七 铁棒锤 雪乌 .txt
+E:\pre_enrich\伤科方\当归羊肉汤,金箔 银箔 冰 朱砂 细辛 麝香 兖州卷柏 千层塔 .txt
+E:\pre_enrich\伤科方\当门吹鼻丹,冰 麝香 朱砂 土大黄叶 细辛 金箔 银箔 梅花冰片 兖州卷柏 .txt
+E:\pre_enrich\伤科方\急救散,雄黄 大黄 乳香 自然铜 骨碎补 鹰骨 当归 朱砂 桃仁 血竭 酒 醋 没药 麻皮 红花 麝香 山海螺 蕨 .txt
+E:\pre_enrich\伤科方\护心七厘散,闹羊花 当归 桔梗 酒 酱 甘草 人参 六轴子 大枣 .txt
+E:\pre_enrich\伤科方\损伤膏,川芎 乌药 骨碎补 当归 白杨树皮 香附 红花 桑寄生 牛膝 合欢皮 茜草 续断 刘寄奴 地榆 木瓜 小蓟 川乌头 苏木 羌活 泽兰 铁棒锤 雪乌 .txt
+E:\pre_enrich\伤科方\接骨丹,乳香 自然铜 当归 血竭 醋 没药 川乌头 .txt
+E:\pre_enrich\伤科方\接骨丹,五灵脂 小茴香 .txt
+E:\pre_enrich\伤科方\接骨丹,天南星 木鳖子 没药 乳香 肉桂 .txt
+E:\pre_enrich\伤科方\接骨丹,鳖甲 生姜 蜇虫 自然铜 血竭 孩儿茶 乳香 没药 吊灯花 当归 .txt
+E:\pre_enrich\伤科方\接骨丹,黄粱米 皂荚 .txt
+E:\pre_enrich\伤科方\接骨仙方,鸡冠花 .txt
+E:\pre_enrich\伤科方\接骨散,血竭 半夏 乳香 没药 当归 蜇虫 巴豆 蕨 .txt
+E:\pre_enrich\伤科方\接骨灵丹,千里马 老龙皮 海螺 双肾藤 鹿梨 .txt
+E:\pre_enrich\伤科方\接骨至宝七厘散,雀 木香 沉香 乳香 没药 韭子 血竭 王瓜子 甜瓜子 人参 .txt
+E:\pre_enrich\伤科方\接骨金丹,乳香 甜瓜 甜瓜子 .txt
+E:\pre_enrich\伤科方\救死活命丹,自然铜 朱砂 鸡子 .txt
+E:\pre_enrich\伤科方\散瘀活血丹,续断 血竭 当归 赤芍 乳香 没药 木瓜 番红花 三七 .txt
+E:\pre_enrich\伤科方\散结安枕汤,续断 血竭 当归 赤芍 乳香 没药 木瓜 番红花 三七 .txt
+E:\pre_enrich\伤科方\暑汤,厚朴 乌梅 香薷 木瓜 檀香 苍术 茯苓 藿香 滑石 甘草 白术 伏龙肝 山海螺 白扁豆 .txt
+E:\pre_enrich\伤科方\桃花散,乳香 血竭 没药 .txt
+E:\pre_enrich\伤科方\正骨烫药,防风 乳香 羌活 骨碎补 当归 木瓜 没药 白芷 红花 凤仙透骨草 续断 .txt
+E:\pre_enrich\伤科方\泽兰汤,泽兰 当归 红花 牡丹皮 铁牛钻石 桃仁 赤芍 土木香 .txt
+E:\pre_enrich\伤科方\活血丹,刘寄奴 青皮 枳实 降香 三棱 蜇虫 五加皮 桃仁 山楂 大黄 延胡索 莪术 牡丹皮 当归 牛膝 红花 香附 凌霄花 苏木 赤芍 威灵仙 槟榔 川芎 乳香 没药 山海螺 蕨 .txt
+E:\pre_enrich\伤科方\活血止痛散,当归 羌活 独活 荆芥 木通 乌药 续断 红花 防风 苏木 乳香 没药 甘草 川芎 桃仁 五加皮 山海螺 .txt
+E:\pre_enrich\伤科方\活血止痛饮,当归 防风 枳实 甘草 五加皮 乳香 没药 羌活 青皮 苏木 红花 川芎 白芍 续断 山海螺 .txt
+E:\pre_enrich\伤科方\活血汤,地骨皮 青皮 香附 红花 当归 槐花 乌药 白芷 木通 山海螺 豨莶 .txt
+E:\pre_enrich\伤科方\活血祛风散,当归 羌活 独活 荆芥 木通 乌药 续断 红花 防风 苏木 乳香 没药 甘草 川芎 桃仁 五加皮 山海螺 .txt
+E:\pre_enrich\伤科方\消风散,人参 防风 川芎 厚朴 桔梗 肉桂 当归 羌活 独活 柴胡 甘草 半夏 黄芩 白芷 天南星 蝉蜕 .txt
+E:\pre_enrich\伤科方\玉灵丹,香附 苏木 莱菔子 桃仁 当归 降香 红花 沉香 木香 乳香 没药 藿香 白豆蔻 青皮 枳实 槟榔 莪术 山海螺 .txt
+E:\pre_enrich\伤科方\玉真散,附子 半夏 白附子 天麻 天南星 白芷 防风 梅花冰片 羌活 .txt
+E:\pre_enrich\伤科方\玉龙膏,象皮 白蔹 升麻 当归 川芎 连翘 金银花 穿山甲 乳香 没药 轻粉 梅花冰片 麝香 川乌头 .txt
+E:\pre_enrich\伤科方\生肌长肉膏,金银花 露蜂房 天花粉 天麻 肉桂 当归 荆芥 血余 牛蒡子 独活 甘草 白芷 白蔹 穿山甲 五倍子 白芍 刺蒺藜 山慈菇 .txt
+E:\pre_enrich\伤科方\生血补髓汤,防风 续断 羌活 香附 川芎 干姜 当归 杜仲 枳壳 茯苓 荆芥 牛膝 独活 甘草 白术 红花 白芍 铅丹 食盐 .txt
+E:\pre_enrich\伤科方\知母丸,乌药 乳香 续断 川芎 木通 桃仁 苏木 赤芍 没药 甘草 山海螺 当归 .txt
+E:\pre_enrich\伤科方\祛伤散,续断 羌活 独活 五加皮 川芎 牛膝 肉桂 铁棒锤 细辛 乌药 红花 川乌头 甘草 大活 雪乌 .txt
+E:\pre_enrich\伤科方\祛毒膏,乌药 羌活 肉桂 川芎 牛膝 独活 甘草 红花 细辛 铁棒锤 雪乌 .txt
+E:\pre_enrich\伤科方\神异红药丹,山羊血 琥珀 人参 兔骨 没药 麝香 酥 金银花 .txt
+E:\pre_enrich\伤科方\神效散,肉桂 红花 铁棒锤 雪乌 .txt
+E:\pre_enrich\伤科方\紫参丸,昆明山海棠 紫荆皮 .txt
+E:\pre_enrich\伤科方\紫金散,昆明山海棠 紫荆皮 .txt
+E:\pre_enrich\伤科方\经验正骨丹,自然铜 蜇虫 水蛭 地龙 龙骨 苏木 蝼蛄 川乌头 没药 血竭 木香 白芍 麝香 降香 乳香 松节 蕨 .txt
+E:\pre_enrich\伤科方\药酒,乌药 乳香 防风 紫荆皮 当归 肉桂 海桐皮 没药 牛膝 牡丹皮 红花 独活 杜仲 五加皮 川芎 干姜 姜黄 三七 豨莶 .txt
+E:\pre_enrich\伤科方\行气活血汤,羌活 青皮 川芎 木通 木香 杜仲 苏木 甘草 红花 铅丹 山海螺 .txt
+E:\pre_enrich\伤科方\调经散,乌药 乳香 青皮 川芎 当归 熟地黄 山海螺 荸荠 .txt
+E:\pre_enrich\伤科方\败毒至坚散,大血藤 乳香 .txt
+E:\pre_enrich\伤科方\跌打十三味煎,乌药 青皮 香附 骨碎补 木香 桃仁 苏木 赤芍 酒 三棱 红花 当归 莪术 .txt
+E:\pre_enrich\伤科方\跌打损伤膏,防风 刘寄奴 续断 羌活 肉桂 骨碎补 川牛膝 川芎 当归 杜仲 莪术 赤芍 三棱 牛膝 独活 白芷 秦艽 红花 五加皮 大果巴戟 广防己 .txt
+E:\pre_enrich\伤科方\跌打损伤药酒,羌活 骨碎补 川芎 当归 木香 杜仲 桃仁 莪术 薏苡仁 酥 紫荆皮 五加皮 刺黄芩 功劳叶 .txt
+E:\pre_enrich\伤科方\跌打活命丹,当归 红花 牡丹皮 铁牛钻石 桃仁 赤芍 山佩兰 .txt
+E:\pre_enrich\伤科方\跌打药酒,琥珀 党参 骨碎补 山羊血 续断 地龙 无名异 赤芍 红花 羌活 天花粉 赤石脂 桃仁 乳香 没药 苏木 峨参 蕨 .txt
+E:\pre_enrich\伤科方\边臣十八味,生姜 甘草 乌药 枳实 苏木 赤芍 石斛 秦艽 乳香 没药 当归 桃仁 红花 紫草 骨碎补 大黄 甘草 金银花 铅丹 .txt
+E:\pre_enrich\伤科方\金液含化灵丹,金箔 银朱 朱砂 人中黄 .txt
+E:\pre_enrich\伤科方\金雀万应膏,防风 雀 续断 自然铜 骨碎补 松香 桃仁 苏木 荆芥 莪术 葱汁 赤芍 醋 三棱 狗胆 甘松 红花 五加皮 金银花 铁棒锤 .txt
+E:\pre_enrich\伤科方\集灵接骨膏,闹羊花 大戟 大黄 肉桂 当归 芫花 鼠 血余 甘草 甘遂 紫荆皮 红花 五灵脂 铁棒锤 雪乌 .txt
+E:\pre_enrich\伤科方\韭叶散,韭菜 石灰 .txt
+E:\pre_enrich\伤科方\飞龙夺命丹,前胡 乌药 羌活 肉桂 自然铜 青皮 韭子 当归 木香 杜仲 枳壳 桃仁 桑寄生 苏木 葛根 蒲黄 血竭 赤芍 酒 醋 三棱 硼砂 秦艽 五加皮 五灵脂 麝香 食盐 延胡索 .txt
+E:\pre_enrich\伤科方\鸡血藤膏,鸡血 鸡血藤 .txt
+E:\pre_enrich\伤科方\麦斗金,半夏 乳香 巴豆 朱砂 没药 蕨 蜇虫 .txt
+E:\pre_enrich\和解剂\三参养心汤,人参 丹参 苦参 当归 川芎 白芍 玄参 木香 酸枣仁 甘草 .txt
+E:\pre_enrich\和解剂\三棱莪术汤,香附 川芎 桂枝 桃仁 水蛭 茯苓 莪术 菟丝 菟丝子 赤芍 三棱 牛膝 穿山甲 白芍 红花岩黄芪 .txt
+E:\pre_enrich\和解剂\丹栀逍遥散.txt
+E:\pre_enrich\和解剂\乌沉汤,全蝎 天麻 木香 沉香 甘草 人参 天南星 川乌头 .txt
+E:\pre_enrich\和解剂\乌玄芍甘汤,瓦楞子 甘草 白及 白芍 慈乌 海螵蛸 .txt
+E:\pre_enrich\和解剂\乌药散,乌药 当归 杜衡 .txt
+E:\pre_enrich\和解剂\乌药泽兰汤,乌药 香附 川芎 当归 木香 桃仁 蒲黄 赤芍 泽兰 甘草 红花 五灵脂 铅丹 山海螺 .txt
+E:\pre_enrich\和解剂\乌蛇丸,牛黄 雄黄 麝香 朱砂 雀瓮 天麻 天南星 白附子 附子 防风 半夏 慈乌 .txt
+E:\pre_enrich\和解剂\乳毒散,斑蝥 蛇蜕 蜈蚣 蝉蜕 全蝎 化橘红 .txt
+E:\pre_enrich\和解剂\二母安嗽片,罂粟 罂粟壳 杏仁 款冬花 浙贝母 玄参 百合 知母 紫菀 .txt
+E:\pre_enrich\和解剂\五服丹,雌黄 硫黄 阳起石 雄黄 朱砂 .txt
+E:\pre_enrich\和解剂\五生散,附子 半夏 白附子 铁棒锤 雪乌 .txt
+E:\pre_enrich\和解剂\五香丸,木香 沉香 降香 肉桂 檀香 .txt
+E:\pre_enrich\和解剂\五香丸,硫黄 阳起石 雄黄 雌黄 朱砂 .txt
+E:\pre_enrich\和解剂\健中温胃汤,乌药 香附 桂枝 甘松 甘草 白芍 大高良姜 红花岩黄芪 .txt
+E:\pre_enrich\和解剂\健胃灵,木香 藿香 神曲 黄连 山海螺 .txt
+E:\pre_enrich\和解剂\养血安神汤,太子参 丹参 川芎 当归 苦参 甘草 五味子 .txt
+E:\pre_enrich\和解剂\利膈汤,党参 厚朴 大黄 当归 木香 枳实 桃仁 槟榔 郁金 甘草 红花 火麻仁 .txt
+E:\pre_enrich\和解剂\加减平胃散,厚朴 苍术 茯苓 甘草 人参 山海螺 .txt
+E:\pre_enrich\和解剂\加味和中散,人参 白术 半夏 全蝎 天麻 细辛 薄荷 甘草 茯苓 山海螺 .txt
+E:\pre_enrich\和解剂\加味炙甘草汤,生姜 人参 鲜地黄 桂枝 阿胶 麦门冬 火麻仁 大枣 苦参 茵陈蒿 甘草 干地黄 .txt
+E:\pre_enrich\和解剂\加味磁朱丸,天南星 半夏 磁石 代赭石 朱砂 全蝎 蜈蚣 白芍 神曲 甘草 甘草 柚 .txt
+E:\pre_enrich\和解剂\加味蒿芩清胆汤,甘草 青黛 青蒿 黄芩 枳壳 竹茹 半夏 茯苓 滑石 柴胡 大黄 耳草 车前子 茵陈蒿 厚叶素馨 .txt
+E:\pre_enrich\和解剂\加味逍遥散.txt
+E:\pre_enrich\和解剂\化瘀消痰汤,半夏 丝瓜络 青皮 延胡索 当归 旋覆花 板蓝根 柴胡 芥子 败酱 连翘 酱 白芥 白芥子 丝瓜 大叶苣荬菜 山苦荬 .txt
+E:\pre_enrich\和解剂\化瘀通络汤,丹参 川芎 当归 桃仁 赤芍 王不留行 穿山甲 红花 .txt
+E:\pre_enrich\和解剂\十香丸,沉香 檀香 槟榔 茯苓 枳壳 乌药 大腹皮 青皮 肉桂 .txt
+E:\pre_enrich\和解剂\半夏泻心汤.txt
+E:\pre_enrich\和解剂\厚朴散,厚朴 大枣 甘草 生姜 .txt
+E:\pre_enrich\和解剂\参术半夏汤,全蝎 半夏 天麻 茯苓 薄荷 甘草 白术 细辛 人参 山海螺 .txt
+E:\pre_enrich\和解剂\参茵汤,人参 苦参 茵陈蒿 琥珀 丹参 荡皮参 .txt
+E:\pre_enrich\和解剂\合欢保元膏,附子 当归 枸杞子 白术 人参 卜芥 花椒 .txt
+E:\pre_enrich\和解剂\四逆散.txt
+E:\pre_enrich\和解剂\回春兴阳散,熟地黄 山药 巴戟天 五味子 白术 茯苓 阳起石 露蜂房 .txt
+E:\pre_enrich\和解剂\回魂煎,天南星 金箔 附子 白附子 蜈蚣 水银 乳香 麝香 牛黄 雀瓮 铅丹 .txt
+E:\pre_enrich\和解剂\夏枯草煎,夏枯草 浙贝母 牡蛎 玄参 甘草 白芍 .txt
+E:\pre_enrich\和解剂\大蒜丸,巴豆 .txt
+E:\pre_enrich\和解剂\天南星煎丸,附子 天麻 天南星 白附子 .txt
+E:\pre_enrich\和解剂\天浆子散,雀瓮 白僵蚕 桑蠹虫 .txt
+E:\pre_enrich\和解剂\天麻散,甘草 大黄 黄芩 天麻 防风 麻黄 甘草 羌活 .txt
+E:\pre_enrich\和解剂\奇效丸,胡椒 胡黄连 木香 杨梅 莪术 熊胆 人参 黄连 杨梅树皮 .txt
+E:\pre_enrich\和解剂\姜橘丸,生姜 神曲 山海螺 .txt
+E:\pre_enrich\和解剂\宁痫散,郁金 木香 香附 蚤休 白矾 朱砂 .txt
+E:\pre_enrich\和解剂\宁神灵,半夏 大黄 柴胡 桂枝 龙骨 牡蛎 黄芩 甘草 .txt
+E:\pre_enrich\和解剂\安中散,干姜 甘草 小麦 山海螺 神曲 .txt
+E:\pre_enrich\和解剂\安神丸,铁 附子 人参 白术 当归 朱砂 茯神 远志 半夏 薄荷 天花粉 胆星 黄连 朱砂 人参 茯神 茯苓 白术 远志 铁锈 山海螺 .txt
+E:\pre_enrich\和解剂\宣通三焦气化汤,通草 杏仁 薏苡仁 厚朴 半夏 滑石 竹叶 .txt
+E:\pre_enrich\和解剂\宽中理气丸,附子 香附 木香 枳实 槟榔 苍术 荜澄茄 葛根 神曲 铁牛钻石 土木香 .txt
+E:\pre_enrich\和解剂\封脐固阳膏,附子 蟾酥 麝香 卜芥 海芋 .txt
+E:\pre_enrich\和解剂\小天南星丸,附子 全蝎 .txt
+E:\pre_enrich\和解剂\小建中汤,干姜 甘草 山海螺 肉桂 .txt
+E:\pre_enrich\和解剂\小柴胡汤.txt
+E:\pre_enrich\和解剂\川香柴郁散,香附 川芎 木香 柴胡 赤芍 郁金 .txt
+E:\pre_enrich\和解剂\干地黄汤,附子 乳香 青黛 白附子 细辛 桑蠹虫 .txt
+E:\pre_enrich\和解剂\干葛天麻散,天南星 葛根 天麻 乳香 铅丹 鹿梨 .txt
+E:\pre_enrich\和解剂\干蝎散,附子 白附子 青黛 细辛 乳香 桑蠹虫 .txt
+E:\pre_enrich\和解剂\延龄丹,金樱子 冬青子 石莲 马蔺花 马蔺 鹿茸 川芎 枸杞子 楮实 母丁香 沉香 芡实 莲子 远志 酒 酥 醋 丁香 石燕 石莲子 何首乌 白芍 八角茴香 天门冬 .txt
+E:\pre_enrich\和解剂\开郁导气汤,香附 川芎 干姜 栀子 苍术 茯苓 滑石 甘草 白芷 神曲 山海螺 .txt
+E:\pre_enrich\和解剂\当归丸,当归 苦楝子 蒲黄 赤芍 硇砂 白芍 .txt
+E:\pre_enrich\和解剂\恒山丸,鸡子 常山 虫白蜡 .txt
+E:\pre_enrich\和解剂\愈疟散,代赭石 朱砂 砒霜 荭草 .txt
+E:\pre_enrich\和解剂\扶脾愈溃汤,乌梅 黄精 茯苓 补骨脂 三七 淫羊藿 甘草 白及 白术 山海螺 荸荠 .txt
+E:\pre_enrich\和解剂\抗痫灵方（何世英）,天竹黄 胆星 白僵蚕 白附子 全蝎 钩藤 白矾 郁金 青礞石 朱砂 半夏 菊花 耳草 竹沥 神曲 紫石英 磁石 沉香 牛黄 羚羊角 厚叶素馨 .txt
+E:\pre_enrich\和解剂\振痿灵,香附 当归 枳壳 枸杞子 柴胡 藜 蜈蚣 甘草 仙茅 白芍 刺蒺藜 淫羊藿 .txt
+E:\pre_enrich\和解剂\振阳丹,海狗肾 狗肾 .txt
+E:\pre_enrich\和解剂\振阳汤,牛膝 远志 鹿角霜 肉苁蓉 枸杞子 菟丝子 茯神 补骨脂 杜仲 大枣 杜衡 木蝴蝶 .txt
+E:\pre_enrich\和解剂\振阳灵药酒,淫羊藿 红花岩黄芪 枸杞子 蛇床子 阳起石 菟丝子 益智仁 蜈蚣 海狗肾 酒 酒 柚 .txt
+E:\pre_enrich\和解剂\捏头散,牛膝 远志 鹿角霜 肉苁蓉 枸杞子 菟丝子 茯神 补骨脂 杜仲 大枣 杜衡 木蝴蝶 .txt
+E:\pre_enrich\和解剂\救痫丸,丹参 石菖蒲 山药 人参 远志 防风 紫石英 茯神 龙齿 细辛 五味子 珍珠 朱砂 .txt
+E:\pre_enrich\和解剂\旋生春散,川楝子 麝香 没药 朱砂 紫草茸 丁香 木香 没食子 阳起石 灵香草 乳香 蛤蚧 小茴香 手掌参 .txt
+E:\pre_enrich\和解剂\木香散,木香 檀香 丁香 沉香 茯苓 人参 槟榔 甘草 .txt
+E:\pre_enrich\和解剂\朱砂膏,乳香 朱砂 人参 大枣 赤茯苓 .txt
+E:\pre_enrich\和解剂\杀鬼五邪丸,人参 白术 枸杞子 花椒 当归 附子 卜芥 海芋 .txt
+E:\pre_enrich\和解剂\枳实芍药散.txt
+E:\pre_enrich\和解剂\柴胡枳桔汤.txt
+E:\pre_enrich\和解剂\柴胡桂枝汤.txt
+E:\pre_enrich\和解剂\柴胡达原饮.txt
+E:\pre_enrich\和解剂\柴胡退热止咳冲剂,大枣 石膏 鱼腥草 杏仁 柴胡 葛根 连翘 麻黄 黄芩 甘草 .txt
+E:\pre_enrich\和解剂\桂朴散,厚朴 肉桂 干姜 当归 甘草 白术 .txt
+E:\pre_enrich\和解剂\桂香膏,肉桂 牡蛎 蛇床子 细辛 灵香草 胡椒 麝香 五月霜 .txt
+E:\pre_enrich\和解剂\沉香汤,干漆 芫花 醋 没药 琥珀 五灵脂 .txt
+E:\pre_enrich\和解剂\沉香降气丸,附子 半夏 乌药 青皮 香附 木香 枳壳 枳实 沉香 茯苓 荜澄茄 生姜 白术 白豆蔻 砂仁 黄连 山海螺 芜菁 .txt
+E:\pre_enrich\和解剂\没药散,干漆 芫花 醋 没药 琥珀 五灵脂 .txt
+E:\pre_enrich\和解剂\清脾饮,半夏 厚朴 青皮 香附 川芎 枳壳 柴胡 苍术 茯苓 草果 黄芩 甘草 山海螺 .txt
+E:\pre_enrich\和解剂\清脾饮.txt
+E:\pre_enrich\和解剂\溃疡宁,瓦楞子 党参 白术 红花岩黄芪 救必应 香附 蒲公英 丹参 海螵蛸 甘草 三七 .txt
+E:\pre_enrich\和解剂\熊胆丸,熊胆 天南星 铁粉 朱砂 雄黄 粉霜 .txt
+E:\pre_enrich\和解剂\牵牛子散,牵牛子 石菖蒲 地龙 .txt
+E:\pre_enrich\和解剂\琥珀丸,琥珀 天南星 牛黄 梅花冰片 麝香 朱砂 铅丹 .txt
+E:\pre_enrich\和解剂\甘草泻心汤.txt
+E:\pre_enrich\和解剂\甘麦散,甘草 大麦 .txt
+E:\pre_enrich\和解剂\生姜泻心汤.txt
+E:\pre_enrich\和解剂\甲亢煎,白芍 乌梅 木瓜 沙参 石斛 白扁豆 莲子 昆布 柴胡 桑叶 栀子 .txt
+E:\pre_enrich\和解剂\疗疡汤,乌药 乳香 当归 蒲公英 郁金 没药 甘草 白术 白芍 延胡索 佛手柑 .txt
+E:\pre_enrich\和解剂\痛泻要方.txt
+E:\pre_enrich\和解剂\益胃汤,乌药 木香 白芍 甘草 山海螺 .txt
+E:\pre_enrich\和解剂\益脑定痫散,人参 白术 茯苓 山茱萸 熟地黄 菟丝子 丹参 白僵蚕 钩藤 石菖蒲 半夏 硼砂 山海螺 .txt
+E:\pre_enrich\和解剂\真珠丸,珍珠 朱砂 珍珠 牛黄 朱砂 雄黄 轻粉 .txt
+E:\pre_enrich\和解剂\真珠丹,珍珠 牛黄 朱砂 雄黄 轻粉 珍珠 .txt
+E:\pre_enrich\和解剂\睡惊丸,附子 雄黄 全蝎 天麻 天南星 青黛 朱砂 白矾 白附子 麝香 卜芥 梅花冰片 .txt
+E:\pre_enrich\和解剂\睡惊膏,青黛 巴豆 全蝎 轻粉 水银 .txt
+E:\pre_enrich\和解剂\睡脾散,半夏 天南星 山药 桑螵蛸 荷叶 薄荷 生姜 人参 桑蠹虫 .txt
+E:\pre_enrich\和解剂\矾朱散,郁金 白矾 朱砂 .txt
+E:\pre_enrich\和解剂\神仙补老丸,常山 鹿梨 .txt
+E:\pre_enrich\和解剂\神效截药,常山 鹿梨 .txt
+E:\pre_enrich\和解剂\神效散,丁香 桑蠹虫 朱砂 红药子 .txt
+E:\pre_enrich\和解剂\神效肚痛丸,巴豆 杏仁 铅丹 蜂蜡 .txt
+E:\pre_enrich\和解剂\秘传加减调中汤,半夏 厚朴 木香 枳壳 苍术 茯苓 甘草 砂仁 山海螺 .txt
+E:\pre_enrich\和解剂\立消散,生姜 .txt
+E:\pre_enrich\和解剂\紫白散,白及 延胡索 新疆延胡索 .txt
+E:\pre_enrich\和解剂\聚宝丹,附子 全蝎 白附子 人参 茯神 琥珀 天麻 防风 天南星 朱砂 慈乌 .txt
+E:\pre_enrich\和解剂\胃宁,甘草 白芍 黄精 延胡索 .txt
+E:\pre_enrich\和解剂\胃康灵,人参 蜂胶 .txt
+E:\pre_enrich\和解剂\胃溃疡片,半夏 海螵蛸 蒲公英 山药 黄花独蒜 洋金花 骨碎补 草乌头 .txt
+E:\pre_enrich\和解剂\胃疡散,石膏 海螵蛸 白及 大黄 慈乌 .txt
+E:\pre_enrich\和解剂\胃苏饮,香附 鸡内金 枳壳 槟榔 酥 紫苏叶 .txt
+E:\pre_enrich\和解剂\胎乌灵,海螵蛸 白及 三七 慈乌 .txt
+E:\pre_enrich\和解剂\胡桃排石汤,车前子 川牛膝 牛膝 甘草 胡桃仁 冬葵子 石韦 滑石 瞿麦 鸡内金 白茅根 .txt
+E:\pre_enrich\和解剂\胡氏癫痫病方（胡建华）,铁落 全蝎 地龙 丹参 铁 蜈蚣 远志 白芍 天南星 石菖蒲 .txt
+E:\pre_enrich\和解剂\胡黄连散,胡黄连 柴胡 槟榔 草果 甘草 人参 黄连 .txt
+E:\pre_enrich\和解剂\腹痛丹,附子 乌药 乳香 胡椒 干姜 木香 枳壳 草果 五灵脂 吴茱萸 山海螺 .txt
+E:\pre_enrich\和解剂\芍药汤,干地黄 茯苓 甘草 人参 荸荠 白芍 .txt
+E:\pre_enrich\和解剂\芎汤,甘草 蒲黄 女萎 白芍 大黄 当归 桃仁 前胡 鲜地黄 肉桂 .txt
+E:\pre_enrich\和解剂\芫花散,芫花根 芫花 .txt
+E:\pre_enrich\和解剂\茱连散,黄连 吴茱萸 黄连 吴茱萸 竹茹 鲃鱼 水玉簪 .txt
+E:\pre_enrich\和解剂\茹连散,黄连 吴茱萸 竹茹 .txt
+E:\pre_enrich\和解剂\草豆蔻汤,枳壳 橘 草豆蔻 藿香 丁香 白术 卜芥 山海螺 .txt
+E:\pre_enrich\和解剂\荡石汤,金钱草 海金沙 鸡内金 茺蔚子 王不留行 鳖甲 莪术 三棱 滑石 延胡索 石韦 乌药 川牛膝 车前子 三七 .txt
+E:\pre_enrich\和解剂\菖姜汤,半夏 肉桂 茯神 白术 人参 大高良姜 石菖蒲 .txt
+E:\pre_enrich\和解剂\萎胃乐,党参 大黄 乌梅 九香虫 干姜 莪术 甘草 白花蛇舌草 神曲 白芍 延胡索 新疆延胡索 .txt
+E:\pre_enrich\和解剂\蒿芩清胆汤.txt
+E:\pre_enrich\和解剂\虚风汤,附子 天南星 白附子 .txt
+E:\pre_enrich\和解剂\补肾消石汤,金钱草 续断 木香 杜仲 滑石 牛膝 王不留行 石韦 延胡索 新疆延胡索 .txt
+E:\pre_enrich\和解剂\解郁活血汤,川芎 红花 当归 柴胡 川芎 红花 桃仁 郁金 石菖蒲 牛膝 甘草 .txt
+E:\pre_enrich\和解剂\起阴汤,丹参 熟地黄 红花岩黄芪 白术 巴戟天 山茱萸 柏子仁 五味子 远志 肉桂 枸杞子 乌药 枸杞子 熟地黄 大枣 .txt
+E:\pre_enrich\和解剂\达原饮.txt
+E:\pre_enrich\和解剂\过敏煎,全蝎 川芎 青礞石 沉香 浮海石 天南星 牵牛子 大黄 酒 半夏 骨碎补 金钱白花蛇 .txt
+E:\pre_enrich\和解剂\连芨汤,黄连 黄花独蒜 海螵蛸 甘草 珍珠 峨参 草乌头 .txt
+E:\pre_enrich\和解剂\逍遥散.txt
+E:\pre_enrich\和解剂\逐痫丸,灵砂 乳香 胆星 黄连 天南星 .txt
+E:\pre_enrich\和解剂\通乳汤,金银花 丝瓜络 当归 蒲公英 赤芍 王不留行 皂角刺 丝瓜 山海螺 穿山甲 .txt
+E:\pre_enrich\和解剂\阳痿验方,雀 淫羊藿 地龙 蜈蚣 柚 .txt
+E:\pre_enrich\和解剂\青橘散,木香 枳壳 橘 甘草 白芷 肉桂 青皮 .txt
+E:\pre_enrich\和解剂\香砂养胃汤,香附 附子 厚朴 半夏 茯苓 苍术 藿香 枳实 砂仁 豨莶 山海螺 .txt
+E:\pre_enrich\和解剂\鲤鱼鳞散,鲤鱼鳞 血余 .txt
+E:\pre_enrich\和解剂\黄连汤.txt
+E:\pre_enrich\和解剂\黑逍遥散.txt
+E:\pre_enrich\固涩剂\万安丸,胡椒 木香 小茴香 牛口涎 .txt
+E:\pre_enrich\固涩剂\三味建中汤,白芍 甘草 肉桂 .txt
+E:\pre_enrich\固涩剂\乌艾丸,乌药 香附 艾叶 .txt
+E:\pre_enrich\固涩剂\乌金丸,艾叶 莪术 川乌头 .txt
+E:\pre_enrich\固涩剂\九仙散.txt
+E:\pre_enrich\固涩剂\乳香散,乳香 草果 .txt
+E:\pre_enrich\固涩剂\二气丹,附子 卜芥 .txt
+E:\pre_enrich\固涩剂\五郁散,郁金 五倍子 .txt
+E:\pre_enrich\固涩剂\刘刺史丸,防风 肉苁蓉 川芎 当归 艾叶 菟丝 菟丝子 蛇床子 覆盆子 酒 牡蛎 黄芩 五味子 白芍 食盐 慈乌 .txt
+E:\pre_enrich\固涩剂\加减芍药汤,阿胶 地榆 川芎 当归 木香 黄芩 甘草 黄连 山海螺 荸荠 .txt
+E:\pre_enrich\固涩剂\十九号大畜方,大腹皮 川芎 当归 木通 桔梗 葱白 赤芍 连翘 淡竹叶 甘草 竹叶 红花 铅丹 灯心草 .txt
+E:\pre_enrich\固涩剂\参耆汤,人参 白术 茯苓 当归 熟地黄 甘草 蜂蜜 .txt
+E:\pre_enrich\固涩剂\四倍汤,赤石脂 石菖蒲 牡蛎 人参 食盐 .txt
+E:\pre_enrich\固涩剂\四神丸.txt
+E:\pre_enrich\固涩剂\固冲汤.txt
+E:\pre_enrich\固涩剂\固经丸,苦参 黄柏 香附 栀子 苦参 白术 白芍 山茱萸 橘叶巴戟 川贝母 干姜 桑白皮 椿白皮 .txt
+E:\pre_enrich\固涩剂\固经汤.txt
+E:\pre_enrich\固涩剂\夺命丹,滑石 白矾 .txt
+E:\pre_enrich\固涩剂\完带汤.txt
+E:\pre_enrich\固涩剂\密蒙散,党参 山药 杜仲 柴胡 棉花 棉花子 茯苓 龙骨 覆盆子 赤石脂 酒 牡蛎 车前子 山海螺 鲜地黄 .txt
+E:\pre_enrich\固涩剂\带下汤,白术 当归 升麻 柴胡 苍术 半夏 熟地黄 .txt
+E:\pre_enrich\固涩剂\延年断汗汤,肉桂 茯苓 牡蛎 甘草 人参 荸荠 蜂蜜 .txt
+E:\pre_enrich\固涩剂\归芪调经汤,当归 生姜 大枣 淫羊藿 菟丝子 当归 红花岩黄芪 .txt
+E:\pre_enrich\固涩剂\愈带丸,寒水石 .txt
+E:\pre_enrich\固涩剂\扑汗方,牡蛎 黄连 川贝母 .txt
+E:\pre_enrich\固涩剂\断下丸,龙骨 牡蛎 山药 杜仲 棉花 棉花子 枸杞子 覆盆子 车前子 党参 茯苓 柴胡 赤石脂 鲜地黄 干地黄 .txt
+E:\pre_enrich\固涩剂\易黄汤.txt
+E:\pre_enrich\固涩剂\柏棉饮,棉花子 柏子仁 .txt
+E:\pre_enrich\固涩剂\桃花汤.txt
+E:\pre_enrich\固涩剂\桑螵蛸散.txt
+E:\pre_enrich\固涩剂\梅蜜饮,白梅 山海螺 .txt
+E:\pre_enrich\固涩剂\止汗温粉,川芎 藁本 白芷 .txt
+E:\pre_enrich\固涩剂\止汗红粉,麻黄根 牡蛎 龙骨 赤石脂 .txt
+E:\pre_enrich\固涩剂\水陆二仙丹.txt
+E:\pre_enrich\固涩剂\清带汤.txt
+E:\pre_enrich\固涩剂\清气固真汤,香附 川芎 当归 茯苓 醋 甘草 白术 白芍 山海螺 续断 .txt
+E:\pre_enrich\固涩剂\牡蛎散.txt
+E:\pre_enrich\固涩剂\猪肚丸,川楝子 母丁香 莲子 丁香 猪肚 八角茴香 木蝴蝶 .txt
+E:\pre_enrich\固涩剂\猪膏煎,酒 猪肉 .txt
+E:\pre_enrich\固涩剂\玉屏风散.txt
+E:\pre_enrich\固涩剂\白带丸,千年艾 当归 熟地黄 香附 川芎 人参 白芍 白术 苍术 阿胶 黄柏 地榆 白石脂 桑白皮 艾叶 .txt
+E:\pre_enrich\固涩剂\白马毛散,鳖甲 牡蛎 马鬃 .txt
+E:\pre_enrich\固涩剂\益气导水汤,莪术 桃仁 党参 白术 茯苓 桂枝 鸐雉 .txt
+E:\pre_enrich\固涩剂\真人养脏汤.txt
+E:\pre_enrich\固涩剂\破故纸散,石菖蒲 木蝴蝶 补骨脂 .txt
+E:\pre_enrich\固涩剂\禹余粮丸,禹余粮 赤石脂 干姜 麦门冬 .txt
+E:\pre_enrich\固涩剂\禹余粮丸,附子 干姜 禹余粮 赤石脂 .txt
+E:\pre_enrich\固涩剂\秋霜丹,秋石 .txt
+E:\pre_enrich\固涩剂\秘传加味四君子汤,人参 甘草 黄连 茯苓 黄柏 黄连 甘草 白术 人参 大枣 桂枝 茯苓 山海螺 鲜地黄 .txt
+E:\pre_enrich\固涩剂\秘金丹,鲜地黄 蒲黄 川芎 乌骨麻 熟地黄 肉苁蓉 五味子 菟丝子 远志 鹿茸 木香 丁香 天雄 白芍 鸡头 莲花 当归 九眼独活 肉桂 .txt
+E:\pre_enrich\固涩剂\缩泉丸.txt
+E:\pre_enrich\固涩剂\自汗汤,山药 牡蛎 玉 玉竹 白术 大枣 酸枣仁 .txt
+E:\pre_enrich\固涩剂\芩芍汤,黄芩 白芍 甘草 .txt
+E:\pre_enrich\固涩剂\苁蓉菟丝丸,肉苁蓉 菟丝子 覆盆子 蛇床子 当归 川芎 牡蛎 海螵蛸 黄芩 艾叶 白芍 防风 五味子 慈乌 .txt
+E:\pre_enrich\固涩剂\苍曲樗皮丸,白芍 苍术 神曲 黄柏 滑石 枳壳 桑白皮 椿白皮 .txt
+E:\pre_enrich\固涩剂\萆丸,肉苁蓉 鹿茸 杜仲 茯苓 菟丝 菟丝子 狗脊 益智仁 红升麻 羊角藤 .txt
+E:\pre_enrich\固涩剂\蒲根汤,粟米 .txt
+E:\pre_enrich\固涩剂\螵蛸散,桑螵蛸 .txt
+E:\pre_enrich\固涩剂\调经琥珀汤,刘寄奴 延胡索 当归 莪术 蒲黄 三棱 甘菊 白芍 肉桂 熟地黄 .txt
+E:\pre_enrich\固涩剂\赤白煎,白术 茯苓 车前子 鸡冠花 白术 .txt
+E:\pre_enrich\固涩剂\赤石脂禹余粮汤.txt
+E:\pre_enrich\固涩剂\透关散,大枣 桂枝 茯苓 黄柏 黄连 甘草 白术 人参 山海螺 鲜地黄 .txt
+E:\pre_enrich\固涩剂\金樱子煎膏,金樱子 刺猬皮 .txt
+E:\pre_enrich\固涩剂\金锁固精丸.txt
+E:\pre_enrich\固涩剂\镇元饮,肉苁蓉 麦门冬 山茱萸 当归 黄柏 白术 五味子 人参 莲子 .txt
+E:\pre_enrich\固涩剂\镇液丹,附子 防风 白术 白芍 卜芥 肉桂 .txt
+E:\pre_enrich\固涩剂\附子大建中汤,干地黄 白芍 附子 白术 甘草 当归 木香 肉桂 蜂蜜 .txt
+E:\pre_enrich\固涩剂\震灵丹.txt
+E:\pre_enrich\固涩剂\香白芷散,附子 乌药 香附 当归 百草霜 伏龙肝 昆明山海棠 紫荆皮 .txt
+E:\pre_enrich\固涩剂\香积丸,升麻 半夏 当归 柴胡 苍术 白术 熟地黄 .txt
+E:\pre_enrich\固涩剂\香连丸,肉豆蔻 木香 甘草 黄连 芜菁 酸模 .txt
+E:\pre_enrich\固涩剂\香连丸,黄连 木香 山楂 厚朴 青皮 小青 甘草 白芍 枳壳 槟榔 当归 红花 大黄 黄芩 地榆 桃仁 橘红 山海螺 骨碎补 .txt
+E:\pre_enrich\固涩剂\香附子散,附子 香附 百草霜 当归 昆明山海棠 乌药 伏龙肝 香附 紫荆皮 .txt
+E:\pre_enrich\安神剂\交泰丸.txt
+E:\pre_enrich\安神剂\养阴镇静丸,当归 茯苓 玄参 柏子仁 丹参 五味子 党参 桔梗 夜交藤 珍珠母 远志 朱砂 .txt
+E:\pre_enrich\安神剂\和中交泰汤,酸枣仁 夜交藤 枸杞子 佛手柑 茯神 黄连 肉桂 半夏 白术 香附 甘草 .txt
+E:\pre_enrich\安神剂\大黄一物汤,大黄 .txt
+E:\pre_enrich\安神剂\天王补心丹.txt
+E:\pre_enrich\安神剂\定志丸.txt
+E:\pre_enrich\安神剂\朱砂安神丸.txt
+E:\pre_enrich\安神剂\枕中丹.txt
+E:\pre_enrich\安神剂\枣参丸,人参 大枣 .txt
+E:\pre_enrich\安神剂\柏子养心丸.txt
+E:\pre_enrich\安神剂\柴胡龙骨牡蛎汤.txt
+E:\pre_enrich\安神剂\桂枝加龙骨牡蛎汤.txt
+E:\pre_enrich\安神剂\清心养血汤,人参 白术 茯神 远志 酸枣仁 当归 川芎 鲜地黄 甘草 干地黄 .txt
+E:\pre_enrich\安神剂\清心汤,当归 人参 白术 茯苓 远志 酸枣仁 川芎 石菖蒲 甘草 甘草 茯苓 人参 .txt
+E:\pre_enrich\安神剂\牛黄清心丸,防风 雄黄 冰 羚羊角 胆星 薄荷 牛黄 麝香 天竹黄 山海螺 .txt
+E:\pre_enrich\安神剂\珍珠母丸.txt
+E:\pre_enrich\安神剂\甘麦大枣汤.txt
+E:\pre_enrich\安神剂\生铁落饮.txt
+E:\pre_enrich\安神剂\痰迷心窍灵丹,甘遂 朱砂 硫黄 芫花 海藻 .txt
+E:\pre_enrich\安神剂\癫狂梦醒汤.txt
+E:\pre_enrich\安神剂\矾石滑石散,人参 大枣 .txt
+E:\pre_enrich\安神剂\磁朱丸.txt
+E:\pre_enrich\安神剂\苓甘姜附龙骨汤,附子 半夏 干姜 茯苓 龙骨 牡蛎 甘草 .txt
+E:\pre_enrich\安神剂\补心丹.txt
+E:\pre_enrich\安神剂\酸枣仁汤.txt
+E:\pre_enrich\安神剂\龙骨散,干姜 龙骨 甘草 肉桂 .txt
+E:\pre_enrich\开窍剂\二圣饮,黑大豆 皂荚 .txt
+E:\pre_enrich\开窍剂\五福丸,柚 铅丹 .txt
+E:\pre_enrich\开窍剂\保生丸,乌梅 香薷 草果 甘草 白扁豆 砂仁 骨碎补 葛根 .txt
+E:\pre_enrich\开窍剂\六味顺气散,茯苓 白术 人参 甘草 青皮 山海螺 .txt
+E:\pre_enrich\开窍剂\冠心苏合丸.txt
+E:\pre_enrich\开窍剂\加减香薷饮,厚朴 香薷 木瓜 橘 橘红 茯苓 葛根 薄荷 红花 天花粉 骨碎补 .txt
+E:\pre_enrich\开窍剂\加味凉膈散,连翘 栀子 枳实 前胡 大黄 薄荷 甘草 .txt
+E:\pre_enrich\开窍剂\加味地黄丸,防风 羌活 山茱萸 山药 茯苓 泽泻 牡丹皮 山海螺 .txt
+E:\pre_enrich\开窍剂\加味导赤散,防风 麦门冬 木通 栀子 荷叶 薄荷 甘草 金丝梅 山海螺 .txt
+E:\pre_enrich\开窍剂\千里梅花丸,乌梅 枇杷叶 百药煎 蜡梅花 甘草 葛根 .txt
+E:\pre_enrich\开窍剂\千里水壶芦,杨梅 薄荷 白沙糖 乌梅 百药煎 天门冬 麦门冬 毛白杨 檀香 .txt
+E:\pre_enrich\开窍剂\和中丸,干姜 木瓜 甘草 白术 益智仁 人参 山海螺 .txt
+E:\pre_enrich\开窍剂\大海金砂散,水银 铅丹 朱砂 铅粉 硫黄 硇砂 曾青 铅 铅霜 雄黄 山梗菜 .txt
+E:\pre_enrich\开窍剂\大祛风丹,羚羊角 牛黄 珍珠 防风 石膏 天南星 玳瑁 全蝎 金钱白花蛇 阳起石 .txt
+E:\pre_enrich\开窍剂\大通水银丸,水银 铅丹 朱砂 铅粉 硫黄 硇砂 曾青 铅 铅霜 雄黄 山梗菜 .txt
+E:\pre_enrich\开窍剂\大通青金丹,曾青 金箔 朱砂 紫石英 水银 铅粉 铅丹 .txt
+E:\pre_enrich\开窍剂\天生白虎汤,西瓜 .txt
+E:\pre_enrich\开窍剂\安宫牛黄丸.txt
+E:\pre_enrich\开窍剂\定命丹,蜣螂 牛黄 雀瓮 雄黄 朱砂 天竹黄 麝香 青黛 天南星 白附子 轻粉 龙胆 桑螵蛸 蟾酥 豇豆 酥 全蝎 .txt
+E:\pre_enrich\开窍剂\小儿回春丹.txt
+E:\pre_enrich\开窍剂\开关散,酒 马钱子 木鳖子 .txt
+E:\pre_enrich\开窍剂\开关散.txt
+E:\pre_enrich\开窍剂\开心肥健方,猪肉 人参 .txt
+E:\pre_enrich\开窍剂\必胜散,巴豆 麝香 全蝎 天南星 轻粉 甘遂 铅丹 朱砂 .txt
+E:\pre_enrich\开窍剂\恶实根粥,牛蒡根 生姜 橘 山海螺 牛蒡子 .txt
+E:\pre_enrich\开窍剂\惺松饮,天麻 川芎 当归 桂枝 薄荷 白术 山海螺 天南星 .txt
+E:\pre_enrich\开窍剂\愈风丹,半夏 大黄 天麻 石膏 羌活 川芎 枳实 栀子 桔梗 橘 橘红 芒消 茯苓 荆芥 薄荷 赤芍 连翘 滑石 独活 麻黄 黄柏 黄芩 甘草 甘菊 白术 细辛 黄连 天南星 当归 .txt
+E:\pre_enrich\开窍剂\截风散,钩藤 附子 全蝎 半夏 天麻 胆星 茯神 黄芩 白附子 石菖蒲 白僵蚕 .txt
+E:\pre_enrich\开窍剂\搜风汤,麝香 人参 半夏 石膏 防风 白僵蚕 柿霜 党参 .txt
+E:\pre_enrich\开窍剂\新定枇杷叶饮,砂仁 枇杷叶 白扁豆 茯苓 麦门冬 木香 甘草 山海螺 .txt
+E:\pre_enrich\开窍剂\桂枝加知母石膏升麻汤,桂枝 知母 石膏 升麻 .txt
+E:\pre_enrich\开窍剂\桂枝石膏汤,石膏 桂枝 .txt
+E:\pre_enrich\开窍剂\桃红散,天南星 桑蠹虫 蜈蚣 黄精 骨碎补 .txt
+E:\pre_enrich\开窍剂\桑枝饮子,桑枝 黑大豆 独活 生姜 羌活 .txt
+E:\pre_enrich\开窍剂\水银丸,水银 天南星 大枣 .txt
+E:\pre_enrich\开窍剂\消暑至神汤,半夏 石膏 青蒿 茯苓 甘草 竹叶 人参 黄连 .txt
+E:\pre_enrich\开窍剂\清暑饮子,葛根 枇杷叶 茯苓 藿香 白扁豆 黄连 甘草 乌梅 .txt
+E:\pre_enrich\开窍剂\清热镇惊汤,枳实 滑石 连翘 柴胡 地骨皮 耳草 钩藤 黄连 栀子 木通 赤茯苓 车前子 甘草 薄荷 灯心草 淡竹叶 山海螺 厚叶素馨 .txt
+E:\pre_enrich\开窍剂\清膈汤,荆芥 甘草 天花粉 桔梗 紫苏叶 牛蒡子 栝楼 .txt
+E:\pre_enrich\开窍剂\灵神膏,茯神 茯神 朱砂 麦门冬 麝香 赤茯苓 .txt
+E:\pre_enrich\开窍剂\灵黍汤,肉豆蔻 草豆蔻 甘草 生姜 小麦 食盐 干姜 .txt
+E:\pre_enrich\开窍剂\牛黄丸,半夏 天南星 朱砂 三七 牛黄 麝香 雀瓮 轻粉 .txt
+E:\pre_enrich\开窍剂\牛黄清心丸,防风 雄黄 冰 羚羊角 胆星 薄荷 牛黄 麝香 天竹黄 山海螺 .txt
+E:\pre_enrich\开窍剂\牛黄清心丸.txt
+E:\pre_enrich\开窍剂\玉壶丸,硫黄 消石 滑石 白矾 .txt
+E:\pre_enrich\开窍剂\玉壶丹,绿豆 硫黄 消石 .txt
+E:\pre_enrich\开窍剂\甘菊花散,石斛 甘草 鲜地黄 天门冬 黄芩 金银花 川贝母 浙地黄 .txt
+E:\pre_enrich\开窍剂\甘露饮,石斛 甘草 鲜地黄 天门冬 黄芩 金银花 川贝母 浙地黄 .txt
+E:\pre_enrich\开窍剂\痰迷心窍灵丹,甘遂 朱砂 硫黄 芫花 海藻 .txt
+E:\pre_enrich\开窍剂\百灵丸,铅 水银 天南星 白附子 天麻 蝉蜕 麝香 牛黄 桑蠹虫 .txt
+E:\pre_enrich\开窍剂\皂荚芽菹方,皂荚 .txt
+E:\pre_enrich\开窍剂\省风汤,全蝎 天南星 .txt
+E:\pre_enrich\开窍剂\省风汤,附子 独活 天南星 防风 天南星 防风 全蝎 甘草 .txt
+E:\pre_enrich\开窍剂\神仙解毒万病丹,附子 白附子 附子 半夏 天南星 全蝎 轻粉 乌头附子尖 .txt
+E:\pre_enrich\开窍剂\神效蝎尾散,全蝎 轻粉 附子 白附子 附子 半夏 天南星 乌头附子尖 .txt
+E:\pre_enrich\开窍剂\秘传加减省风汤,防风 半夏 羌活 茯苓 黄芩 甘草 白术 白芷 红花 山海螺 红药子 .txt
+E:\pre_enrich\开窍剂\秘传祛风散,防风 半夏 威灵仙 羌活 当归 苍术 苍耳 苍耳子 茯苓 荆芥 独活 甘草 白芍 大果巴戟 山海螺 .txt
+E:\pre_enrich\开窍剂\秘授神效散,防风 半夏 威灵仙 羌活 当归 苍术 苍耳 苍耳子 茯苓 荆芥 独活 甘草 白芍 大果巴戟 山海螺 .txt
+E:\pre_enrich\开窍剂\竹沥枳术丸,半夏 山楂 当归 木香 枳实 芥子 苍术 茯苓 酒 生姜 白术 白矾 白芥 白芥子 人参 白芍 黄连 山海螺 天南星 .txt
+E:\pre_enrich\开窍剂\紫金锭.txt
+E:\pre_enrich\开窍剂\紫雪丹.txt
+E:\pre_enrich\开窍剂\红龙散,全蝎 朱砂 茯神 五灵脂 .txt
+E:\pre_enrich\开窍剂\羊肚食方,葱白 羊肚 粳米 生姜 江南玄胡 淡豆豉 .txt
+E:\pre_enrich\开窍剂\羌活益气汤,防风 半夏 羌活 川芎 当归 龙胆 薄荷 独活 黄芩 甘草 厚叶素馨 山海螺 .txt
+E:\pre_enrich\开窍剂\脾风白术汤,附子 麻黄 白术 茯苓 防风 大果巴戟 人参 甘草 白芍 薏苡仁 广防己 .txt
+E:\pre_enrich\开窍剂\至宝丹.txt
+E:\pre_enrich\开窍剂\苏合香丸.txt
+E:\pre_enrich\开窍剂\荆黄汤,防风 大黄 荆芥 .txt
+E:\pre_enrich\开窍剂\蒜浆饮,大蒜 .txt
+E:\pre_enrich\开窍剂\虎胫骨酒,防风 续断 羌活 鳖甲 当归 杜仲 松节 枸杞子 苍耳 苍耳子 茄根 蚕沙 酥 牛膝 白术 石斛 秦艽 五加皮 羊角藤 巴戟天 .txt
+E:\pre_enrich\开窍剂\蚱蜢汤,蚱蜢 小麦 .txt
+E:\pre_enrich\开窍剂\蝎尾散,附子 天南星 全蝎 白附子 铅 水银 半夏 乌头附子尖 .txt
+E:\pre_enrich\开窍剂\行军散.txt
+E:\pre_enrich\开窍剂\诃子散,防风 半夏 羌活 川芎 当归 龙胆 薄荷 独活 黄芩 甘草 厚叶素馨 山海螺 .txt
+E:\pre_enrich\开窍剂\谷神散,皂荚 .txt
+E:\pre_enrich\开窍剂\越桃散,石膏 金丝梅 连翘 白芍 当归 鲜地黄 甘草 大黄 麻黄 当归 甘草 川芎 草龙 龙胆 蔓荆子 何首乌 荆芥 荷叶 薄荷 山飘儿草 大果巴戟 .txt
+E:\pre_enrich\开窍剂\返魂丸子,蜣螂 白僵蚕 牛黄 白附子 天南星 青黛 干姜 朱砂 慈乌 .txt
+E:\pre_enrich\开窍剂\返魂丹,雄黄 朱砂 芥子 玳瑁 白芥 白芥子 .txt
+E:\pre_enrich\开窍剂\金枣化痰丸,朱砂 麝香 水银 .txt
+E:\pre_enrich\开窍剂\钓藤散,甘草 甘遂 钩藤 天竹黄 .txt
+E:\pre_enrich\开窍剂\银朱丸,朱砂 轻粉 梅花冰片 水银 甘遂 皂荚子 铅丹 .txt
+E:\pre_enrich\开窍剂\附子补汤,干姜 地骨皮 附子 石膏 独活 白术 肉桂 芦根 .txt
+E:\pre_enrich\开窍剂\青黛丸,半夏 铁 青黛 柳叶 蟾酥 酥 白僵蚕 .txt
+E:\pre_enrich\开窍剂\青黛丸,半夏 青黛 蟾酥 酥 甘遂 麝香 梅花冰片 轻粉 .txt
+E:\pre_enrich\开窍剂\青黛丸,青黛 半夏 白僵蚕 巴豆 .txt
+E:\pre_enrich\开窍剂\香枨汤,甘草 食盐 白檀 .txt
+E:\pre_enrich\开窍剂\香薷缩脾饮,砂仁 草果 乌梅 香薷 甘草 白扁豆 骨碎补 葛根 .txt
+E:\pre_enrich\开窍剂\香郁散,青皮 橘 香附 郁金 .txt
+E:\pre_enrich\开窍剂\骊龙珠,马钱子 半夏 麻黄 乳香 寒水石 孩儿茶 没药 食盐 金钱白花蛇 .txt
+E:\pre_enrich\开窍剂\黄龙丸,半夏 甘草 .txt
+E:\pre_enrich\止吐剂（中药）\丁香二陈汤,茯苓 半夏 甘草 藿香 丁香 山海螺 .txt
+E:\pre_enrich\止吐剂（中药）\半夏干姜汤.txt
+E:\pre_enrich\止吐剂（中药）\咳逆丸,花椒 .txt
+E:\pre_enrich\止吐剂（中药）\宣中降逆汤,刀豆 半夏 旋覆花 枇杷 枇杷叶 沉香 代赭石 .txt
+E:\pre_enrich\止吐剂（中药）\小半夏茯苓汤,半夏 茯苓 黄芩 甘草 山海螺 .txt
+E:\pre_enrich\止吐剂（中药）\柿蒂酒,柿蒂 .txt
+E:\pre_enrich\止吐剂（中药）\柿蒂饮,柿蒂 .txt
+E:\pre_enrich\止吐剂（中药）\胡桃丸,胡桃仁 杜仲 桃仁 木蝴蝶 补骨脂 .txt
+E:\pre_enrich\止吐剂（中药）\镇逆汤,代赭石 竹茹 枇杷叶 .txt
+E:\pre_enrich\止痛剂（中药）\九痛丸.txt
+E:\pre_enrich\治燥剂\一捻金,铜绿 黄柏 白芷 隔山香 滇白芷 .txt
+E:\pre_enrich\治燥剂\一提金,黄瓜 朴消 柚 .txt
+E:\pre_enrich\治燥剂\三仙膏,马兰 车前草 金刚散 乌蔹莓 .txt
+E:\pre_enrich\治燥剂\不卧散,青黛 猪肉 .txt
+E:\pre_enrich\治燥剂\丹砂牛黄丸,牛黄 甘草 硼砂 铅丹 食盐 .txt
+E:\pre_enrich\治燥剂\五香散,青黛 猪肉 .txt
+E:\pre_enrich\治燥剂\交泰散,天南星 .txt
+E:\pre_enrich\治燥剂\人参甘草汤,甘草 桔梗 人参 .txt
+E:\pre_enrich\治燥剂\养阴清肺汤.txt
+E:\pre_enrich\治燥剂\冰梅散,朴消 甘草 白矾 半夏 桔梗 甘草 大青盐 乌梅 .txt
+E:\pre_enrich\治燥剂\冰硼利喉散,王瓜 黄连 白矾 荷叶 薄荷 人中白 冰 青黛 玄明粉 白僵蚕 硼砂 梅花冰片 .txt
+E:\pre_enrich\治燥剂\决明子散,决明子 .txt
+E:\pre_enrich\治燥剂\决明散,决明子 .txt
+E:\pre_enrich\治燥剂\加减十全大补汤,党参 白术 茯苓 乌梅 当归 醋 白芍 豨莶 .txt
+E:\pre_enrich\治燥剂\加味甘桔汤,防风 桔梗 牛蒡子 玄参 甘草 射干 .txt
+E:\pre_enrich\治燥剂\千金汤,升麻 射干 山海螺 .txt
+E:\pre_enrich\治燥剂\半夏丸,川乌头 铁棒锤 川芎 石膏 荆芥 鸢根 雪乌 .txt
+E:\pre_enrich\治燥剂\半字散,川乌头 铁棒锤 川芎 石膏 荆芥 鸢根 雪乌 .txt
+E:\pre_enrich\治燥剂\南木香丸,木香 枳壳 槟榔 金狮藤 鼻血雷 .txt
+E:\pre_enrich\治燥剂\吹喉散,朴消 甘草 .txt
+E:\pre_enrich\治燥剂\吹喉散,猪胆 .txt
+E:\pre_enrich\治燥剂\吹喉散,硼砂 雄黄 白僵蚕 梅花冰片 .txt
+E:\pre_enrich\治燥剂\吹喉散,青黛 芒消 白僵蚕 甘草 甘草 .txt
+E:\pre_enrich\治燥剂\四味如圣汤,麦门冬 枳壳 桔梗 甘草 .txt
+E:\pre_enrich\治燥剂\地肤子汤,地肤子 赤芍 红花 白僵蚕 赤沙糖 芜菁 .txt
+E:\pre_enrich\治燥剂\地黄煎,山海螺 马齿 .txt
+E:\pre_enrich\治燥剂\增液汤.txt
+E:\pre_enrich\治燥剂\大下汤,当归 黄连 枳壳 大黄 芒消 火麻仁 蜂蜜 .txt
+E:\pre_enrich\治燥剂\天萝饼子,白梅 白僵蚕 防风 山海螺 胆矾 .txt
+E:\pre_enrich\治燥剂\太白散,石膏 川芎 甘草 .txt
+E:\pre_enrich\治燥剂\头痛宁,天麻 丹参 三七 红花岩黄芪 .txt
+E:\pre_enrich\治燥剂\头痛饮,川芎 当归 蜈蚣 柚 .txt
+E:\pre_enrich\治燥剂\如意散,朴消 甘草 .txt
+E:\pre_enrich\治燥剂\如神丸,消石 硫黄 .txt
+E:\pre_enrich\治燥剂\导气丸,木香 枳壳 槟榔 火麻仁 .txt
+E:\pre_enrich\治燥剂\射干散,射干 玄参 牛蒡子 升麻 桔梗 甘草 .txt
+E:\pre_enrich\治燥剂\川芎羌活散,羌活 细辛 川芎 藁本 荆芥 白芷 防风 .txt
+E:\pre_enrich\治燥剂\急喉一匙金,雅丽千金藤 北豆根 .txt
+E:\pre_enrich\治燥剂\搐鼻散,雄黄 石膏 川芎 细辛 消石 皂荚 .txt
+E:\pre_enrich\治燥剂\暖阳汤,白术 肉苁蓉 附子 .txt
+E:\pre_enrich\治燥剂\朱砂饼子,巴豆 朱砂 水银 .txt
+E:\pre_enrich\治燥剂\杏苏散.txt
+E:\pre_enrich\治燥剂\桑杏汤.txt
+E:\pre_enrich\治燥剂\梅砂丸,硼砂 乌梅 白梅 .txt
+E:\pre_enrich\治燥剂\沙参麦冬汤.txt
+E:\pre_enrich\治燥剂\消肿利咽汤,荷叶 薄荷 天花粉 连翘 金银花 丹参 射干 玄参 乳香 没药 穿山甲 .txt
+E:\pre_enrich\治燥剂\清彻膏,川芎 蔓荆子 薄荷 甘草 细辛 .txt
+E:\pre_enrich\治燥剂\清气香芎汤,半夏 甘草 生姜 细辛 人参 .txt
+E:\pre_enrich\治燥剂\清热代茶饮,芦根 橄榄 .txt
+E:\pre_enrich\治燥剂\清燥救肺汤.txt
+E:\pre_enrich\治燥剂\独神饮,艾叶 .txt
+E:\pre_enrich\治燥剂\独蒜通便方,艾叶 .txt
+E:\pre_enrich\治燥剂\猪胆套药方,猪胆 黄连 青黛 薄荷 白僵蚕 白矾 玄明粉 .txt
+E:\pre_enrich\治燥剂\玉液汤.txt
+E:\pre_enrich\治燥剂\玉钥匙散,白僵蚕 梅花冰片 硼砂 .txt
+E:\pre_enrich\治燥剂\琼玉膏.txt
+E:\pre_enrich\治燥剂\甘露散,天南星 白僵蚕 .txt
+E:\pre_enrich\治燥剂\痛风饼子,全蝎 蝼蛄 五倍子 狗肝 .txt
+E:\pre_enrich\治燥剂\痧气丸,全蝎 蝼蛄 五倍子 狗肝 .txt
+E:\pre_enrich\治燥剂\白芷散,白芷 荷叶 薄荷 郁金 石膏 芒消 隔山香 滇白芷 .txt
+E:\pre_enrich\治燥剂\百合固金汤.txt
+E:\pre_enrich\治燥剂\知母饮,知母 甘草 黄芩 人参 黄芩 栀子 茯苓 赤茯苓 知母 麦门冬 人参 甘草 天门冬 金丝梅 皮袋香 .txt
+E:\pre_enrich\治燥剂\石膏汤,石膏 天麻 莎草 香叶 藿香 香附 鲩鱼 .txt
+E:\pre_enrich\治燥剂\破棺丹,白梅 硼砂 .txt
+E:\pre_enrich\治燥剂\碧玉散,青黛 蒲黄 薄荷 甘草 芒消 白僵蚕 .txt
+E:\pre_enrich\治燥剂\祛风蠲麻洗药,薄荷 天麻 防风 白芷 白僵蚕 藁本 留兰香 .txt
+E:\pre_enrich\治燥剂\神朱石膏丸,石膏 梅花冰片 .txt
+E:\pre_enrich\治燥剂\绿云散,冰 青黛 消石 硼砂 寒水石 雅丽千金藤 北豆根 .txt
+E:\pre_enrich\治燥剂\羌活导气汤,羌活 白僵蚕 甘菊 白附子 朱砂 麝香 藜 刺蒺藜 .txt
+E:\pre_enrich\治燥剂\羌活散,附子 羌活 朱砂 藜 甘菊 白附子 麝香 刺蒺藜 白僵蚕 .txt
+E:\pre_enrich\治燥剂\羌活清空膏,蔓荆子 黄连 羌活 防风 甘草 黄芩 .txt
+E:\pre_enrich\治燥剂\翘荷汤.txt
+E:\pre_enrich\治燥剂\肺痈饮,绿矾 朴消 铜绿 轻粉 金果榄 长叶柄野扇花 .txt
+E:\pre_enrich\治燥剂\芎荆散,川芎 蔓荆子 .txt
+E:\pre_enrich\治燥剂\茶煎散,防风 羌活 川芎 荆芥 薄荷 藁本 辛夷 甘草 白芷 细辛 .txt
+E:\pre_enrich\治燥剂\覆花散,旋覆花 白僵蚕 石膏 .txt
+E:\pre_enrich\治燥剂\诃子散,胆矾 川芎 诃子 砂仁 细辛 人参 麝香 .txt
+E:\pre_enrich\治燥剂\通幽润燥汤,升麻 大黄 当归 枳壳 桃仁 火麻仁 红花 .txt
+E:\pre_enrich\治燥剂\通肠散,枳壳 当归 大黄 黑芝麻 牛膝 .txt
+E:\pre_enrich\治燥剂\通脉降逆汤,大黄 丹参 川牛膝 川芎 赤芍 牛膝 红花岩黄芪 .txt
+E:\pre_enrich\治燥剂\金消丸,荆芥 黄柏 黄芩 射干 .txt
+E:\pre_enrich\治燥剂\金鼠矢,荆芥 黄柏 黄芩 射干 .txt
+E:\pre_enrich\治燥剂\铅霜散,铅 柿霜 硼砂 铅粉 铅霜 .txt
+E:\pre_enrich\治燥剂\附子方,附子 石膏 .txt
+E:\pre_enrich\治燥剂\霜梅,半夏 食盐 桔梗 天南星 甘草 朴消 防风 白矾 雪里见 乌梅 .txt
+E:\pre_enrich\治燥剂\青衿散,青黛 薄荷 .txt
+E:\pre_enrich\治燥剂\香枳汤  ,枳壳 防风 槟榔 甘草 甘草 防风 .txt
+E:\pre_enrich\治燥剂\魏莪散,半夏 食盐 桔梗 天南星 甘草 朴消 防风 白矾 白矾 雪里见 乌梅 .txt
+E:\pre_enrich\治燥剂\鱼胆破关散,绿矾 朴消 铜绿 轻粉 金果榄 长叶柄野扇花 .txt
+E:\pre_enrich\治燥剂\麦门冬汤.txt
+E:\pre_enrich\治燥剂\龙脑丸,梅花冰片 白芍 鹿梨 .txt
+E:\pre_enrich\治燥剂\龙脑饮,梅花冰片 白芍 鹿梨 .txt
+E:\pre_enrich\治风剂\一字散,蜈蚣 草乌头 天麻 全蝎 隔山香 芦根 .txt
+E:\pre_enrich\治风剂\七星丸,附子 半夏 地龙 天南星 石膏 香附 白附子 .txt
+E:\pre_enrich\治风剂\万病丸,天麻 川乌头 铁棒锤 雄黄 雪乌 .txt
+E:\pre_enrich\治风剂\万病丸,当归 川芎 白芷 人参 茯苓 麦门冬 防风 荆芥 薄荷 蔓荆子 秦艽 甘草 天竹黄 附子 香附 苍耳 苍耳子 .txt
+E:\pre_enrich\治风剂\三甲复脉汤.txt
+E:\pre_enrich\治风剂\乌头丸,川乌头 桑根 白皮 食盐 桑白皮 .txt
+E:\pre_enrich\治风剂\二圣饮,黑大豆 皂荚 .txt
+E:\pre_enrich\治风剂\五虎追风散,天麻 蝉蜕 天南星 全蝎 白僵蚕 柚 .txt
+E:\pre_enrich\治风剂\五虎追风散.txt
+E:\pre_enrich\治风剂\五虫四藤汤,蜈蚣 地龙 忍冬藤 钩藤 蜇虫 全蝎 鸡血藤 络石藤 红花岩黄芪 丹参 柚 慈乌 .txt
+E:\pre_enrich\治风剂\全蝎散,全蝎 .txt
+E:\pre_enrich\治风剂\八味消风饮,地肤子 桃仁 蝉蜕 连翘 白鲜皮 红花 白僵蚕 .txt
+E:\pre_enrich\治风剂\六味顺气散,茯苓 白术 人参 甘草 青皮 山海螺 .txt
+E:\pre_enrich\治风剂\六气散,大黄 石膏 乳香 龙骨 没药 铅丹 .txt
+E:\pre_enrich\治风剂\六龙丹,大黄 石膏 乳香 龙骨 没药 铅丹 .txt
+E:\pre_enrich\治风剂\十生丸,干姜 半夏 天南星 白僵蚕 川乌头 白附子 全蝎 人参 葛根 附子 .txt
+E:\pre_enrich\治风剂\千金散.txt
+E:\pre_enrich\治风剂\南星散,雄黄 半夏 天麻 天南星 .txt
+E:\pre_enrich\治风剂\发表雄黄散,雄黄 防风 铁棒锤 雪乌 .txt
+E:\pre_enrich\治风剂\取渊汤,当归 柴胡 栀子 辛夷 玄参 川贝母 .txt
+E:\pre_enrich\治风剂\嗅鼻渊方,防风 大黄 石膏 羌活 川芎 当归 木通 栀子 沉香 苍耳 苍耳子 荆芥 荷叶 薄荷 赤芍 连翘 酒 滑石 黄芩 甘草 白术 白芷 黄连 皂荚 .txt
+E:\pre_enrich\治风剂\圣饼子,防风 天南星 川乌头 川芎 干姜 甘草 广东土牛膝 .txt
+E:\pre_enrich\治风剂\地黄饮子.txt
+E:\pre_enrich\治风剂\塞鼻瓜蒂散,甜瓜蒂 .txt
+E:\pre_enrich\治风剂\大活络丹.txt
+E:\pre_enrich\治风剂\大海金砂散,水银 铅丹 朱砂 铅粉 硫黄 硇砂 曾青 铅 铅霜 雄黄 山梗菜 .txt
+E:\pre_enrich\治风剂\大祛风丹,羚羊角 牛黄 珍珠 防风 石膏 天南星 玳瑁 全蝎 金钱白花蛇 阳起石 .txt
+E:\pre_enrich\治风剂\大秦艽汤.txt
+E:\pre_enrich\治风剂\大通水银丸,水银 铅丹 朱砂 铅粉 硫黄 硇砂 曾青 铅 铅霜 雄黄 山梗菜 .txt
+E:\pre_enrich\治风剂\大通青金丹,曾青 金箔 朱砂 紫石英 水银 铅粉 铅丹 .txt
+E:\pre_enrich\治风剂\天竺黄丸,当归 川芎 白芷 人参 茯苓 麦门冬 防风 荆芥 薄荷 蔓荆子 秦艽 甘草 天竹黄 附子 香附 苍耳 苍耳子 .txt
+E:\pre_enrich\治风剂\天门冬丸,天门冬 防风 茯神 川芎 白芷 人参 .txt
+E:\pre_enrich\治风剂\天门冬酒,天门冬 糯米 .txt
+E:\pre_enrich\治风剂\天麻丸,天麻 川乌头 铁棒锤 雄黄 雪乌 .txt
+E:\pre_enrich\治风剂\天麻注射液,天麻 .txt
+E:\pre_enrich\治风剂\天麻钩藤饮.txt
+E:\pre_enrich\治风剂\夺命丹,川乌头 雄黄 .txt
+E:\pre_enrich\治风剂\宣肺散,柴胡 黄芩 紫菀 白芍 当归 茯苓 白芥子 甘草 款冬花 辛夷 酥 .txt
+E:\pre_enrich\治风剂\导气丸,附子 半夏 木香 茯苓 赤茯苓 白附子 紫苏叶 金狮藤 鼻血雷 .txt
+E:\pre_enrich\治风剂\小定风珠.txt
+E:\pre_enrich\治风剂\小活络丹.txt
+E:\pre_enrich\治风剂\小续命汤.txt
+E:\pre_enrich\治风剂\川芎茶调散.txt
+E:\pre_enrich\治风剂\川附散,附子 川芎 荆芥 牛蒡子 白附子 .txt
+E:\pre_enrich\治风剂\左龙丸,白僵蚕 鱼鳔 雄黄 鼠妇 .txt
+E:\pre_enrich\治风剂\干蝎丸,天麻 蟾酥 桑蠹虫 .txt
+E:\pre_enrich\治风剂\建瓴汤.txt
+E:\pre_enrich\治风剂\开关散,酒 马钱子 木鳖子 .txt
+E:\pre_enrich\治风剂\开关散,附子 香附 川芎 荆芥 细辛 猪肉 白僵蚕 .txt
+E:\pre_enrich\治风剂\开心肥健方,猪肉 人参 .txt
+E:\pre_enrich\治风剂\急风一字散,雄黄 天南星 川芎 全蝎 白附子 白芷 川乌头 朱砂 雄黄 .txt
+E:\pre_enrich\治风剂\惺松饮,天麻 川芎 当归 桂枝 薄荷 白术 山海螺 天南星 .txt
+E:\pre_enrich\治风剂\愈风丹,半夏 大黄 天麻 石膏 羌活 川芎 枳实 栀子 桔梗 橘 橘红 芒消 茯苓 荆芥 薄荷 赤芍 连翘 滑石 独活 麻黄 黄柏 黄芩 甘草 甘菊 白术 细辛 黄连 天南星 当归 .txt
+E:\pre_enrich\治风剂\戎盐汤,防风 雄黄 铁棒锤 雪乌 .txt
+E:\pre_enrich\治风剂\抽刀一字散,川芎 蝉蜕 生姜 细辛 食盐 川乌头 .txt
+E:\pre_enrich\治风剂\搜风汤,麝香 人参 半夏 石膏 防风 白僵蚕 柿霜 党参 .txt
+E:\pre_enrich\治风剂\撮风散.txt
+E:\pre_enrich\治风剂\杏仁散,杏仁 .txt
+E:\pre_enrich\治风剂\柴牡三角汤（陈苏生）,山羊角 柴胡 水牛角 牡蛎 .txt
+E:\pre_enrich\治风剂\梅煎散,附子 半夏 石膏 白附子 天南星 川乌头 .txt
+E:\pre_enrich\治风剂\止痉散.txt
+E:\pre_enrich\治风剂\治破伤风散,苍术 铁棒锤 雪乌 .txt
+E:\pre_enrich\治风剂\洗药方,防风 葛根 天麻 金银花 石膏 花椒 乳香 白芷 防风 白芷 隔山香 滇白芷 .txt
+E:\pre_enrich\治风剂\消疹汤,防风 杏仁 桑白皮 蝉蜕 赤小豆 赤芍 连翘 浮萍 甘草 白术 白皮 紫花地丁 蒲公英 .txt
+E:\pre_enrich\治风剂\消风散.txt
+E:\pre_enrich\治风剂\消风清热汤,石膏 防风 荆芥 刺蒺藜 蝉蜕 当归 赤芍 川芎 桃仁 红花 金银花 连翘 蛇蜕 .txt
+E:\pre_enrich\治风剂\清肺饮,石膏 川芎 栀子 苍耳 苍耳子 黄芩 知母 铅丹 牡丹皮 .txt
+E:\pre_enrich\治风剂\清膈汤,荆芥 甘草 天花粉 桔梗 紫苏叶 牛蒡子 栝楼 .txt
+E:\pre_enrich\治风剂\滴鼻灵,鹅不食草 .txt
+E:\pre_enrich\治风剂\点头散,附子 香附 川芎 .txt
+E:\pre_enrich\治风剂\牵正散.txt
+E:\pre_enrich\治风剂\独圣散,苏木 .txt
+E:\pre_enrich\治风剂\玉真散.txt
+E:\pre_enrich\治风剂\王瓜散,荆芥 木香 川芎 天麻 麻黄 防风 细辛 甘草 王瓜 芦根 灯心草 .txt
+E:\pre_enrich\治风剂\琥珀彻底汤,独活 人指甲 全蝎 白僵蚕 蝉蜕 天南星 大黄 常春藤 .txt
+E:\pre_enrich\治风剂\瓜石汤,黄柏 黄芩 栝楼子 滑石 天南星 苍术 赤芍 黄连 白芷 甘草 山海螺 .txt
+E:\pre_enrich\治风剂\甘桔玄参汤,天花粉 枳壳 桔梗 玄参 黄芩 甘草 川贝母 .txt
+E:\pre_enrich\治风剂\疏风活血散,赤芍 防风 红花 川芎 苏木 甘草 生姜 大枣 当归 甘草 当归 .txt
+E:\pre_enrich\治风剂\白及丸,白及 .txt
+E:\pre_enrich\治风剂\白散子,牡蛎 寒水石 天南星 龙骨 .txt
+E:\pre_enrich\治风剂\皂荚芽菹方,皂荚 .txt
+E:\pre_enrich\治风剂\省风汤,全蝎 天南星 .txt
+E:\pre_enrich\治风剂\省风汤,附子 独活 天南星 防风 天南星 防风 全蝎 甘草 .txt
+E:\pre_enrich\治风剂\石膏黄芩汤,石膏 桑白皮 桔梗 荆芥 黄芩 甘草 白皮 水苏 藿香 .txt
+E:\pre_enrich\治风剂\破伤风散,苍术 铁棒锤 雪乌 .txt
+E:\pre_enrich\治风剂\碧桃浸液,桃叶 .txt
+E:\pre_enrich\治风剂\祛风汤,苍耳 甘草 土茯苓 .txt
+E:\pre_enrich\治风剂\神力散,草乌头 .txt
+E:\pre_enrich\治风剂\神授羊肝丸,青黛 川芎 薄荷 郁金 黄粱米 秫米 .txt
+E:\pre_enrich\治风剂\神效宣脑散,青黛 川芎 薄荷 郁金 黄粱米 秫米 .txt
+E:\pre_enrich\治风剂\神效方,蛴螬 柚 豨莶 .txt
+E:\pre_enrich\治风剂\秘传加减省风汤,防风 半夏 羌活 茯苓 黄芩 甘草 白术 白芷 红花 山海螺 红药子 .txt
+E:\pre_enrich\治风剂\秘传祛风散,防风 半夏 威灵仙 羌活 当归 苍术 苍耳 苍耳子 茯苓 荆芥 独活 甘草 白芍 大果巴戟 山海螺 .txt
+E:\pre_enrich\治风剂\秘授神效散,防风 半夏 威灵仙 羌活 当归 苍术 苍耳 苍耳子 茯苓 荆芥 独活 甘草 白芍 大果巴戟 山海螺 .txt
+E:\pre_enrich\治风剂\立效散,雄黄 白芷 隔山香 松香 .txt
+E:\pre_enrich\治风剂\立效散,鸡子 血余 .txt
+E:\pre_enrich\治风剂\竹沥枳术丸,半夏 山楂 当归 木香 枳实 芥子 苍术 茯苓 酒 生姜 白术 白矾 白芥 白芥子 人参 白芍 黄连 山海螺 天南星 .txt
+E:\pre_enrich\治风剂\红龙散,全蝎 朱砂 茯神 五灵脂 .txt
+E:\pre_enrich\治风剂\细辛散,细辛 铅粉 白芍 川芎 柴胡 黄芩 酒 黄连 酒 黄芩 豨莶 .txt
+E:\pre_enrich\治风剂\羊肚食方,葱白 羊肚 粳米 生姜 江南玄胡 淡豆豉 .txt
+E:\pre_enrich\治风剂\羌活益气汤,防风 半夏 羌活 川芎 当归 龙胆 薄荷 独活 黄芩 甘草 厚叶素馨 山海螺 .txt
+E:\pre_enrich\治风剂\羚角钩藤汤.txt
+E:\pre_enrich\治风剂\脾风白术汤,附子 麻黄 白术 茯苓 防风 大果巴戟 人参 甘草 白芍 薏苡仁 广防己 .txt
+E:\pre_enrich\治风剂\苍术膏,苍术 .txt
+E:\pre_enrich\治风剂\苍耳子散,鱼腥草 苍耳 苍耳子 蚤休 黄芩 甘草 白芷 .txt
+E:\pre_enrich\治风剂\苍耳子散.txt
+E:\pre_enrich\治风剂\苓泽姜苏汤,茯苓 泽泻 生姜 杏仁 甘草 酥 .txt
+E:\pre_enrich\治风剂\茱萸丸,独活 甘草 川楝子 苍术 八角茴香 .txt
+E:\pre_enrich\治风剂\茴香丸,八角茴香 川楝子 苍术 角茴香 酒 独活 甘草 .txt
+E:\pre_enrich\治风剂\荆防化疹汤,防风 地肤子 苦参 茯苓 荆芥 蝉蜕 牛蒡子 甘草 白芷 白鲜皮 .txt
+E:\pre_enrich\治风剂\荆黄汤,防风 大黄 荆芥 .txt
+E:\pre_enrich\治风剂\菊花茶调散.txt
+E:\pre_enrich\治风剂\薄荷牛蒡汤,大青 大青叶 马勃 桔梗 荷叶 薄荷 赤芍 连翘 牛蒡子 玄参 玉 兰花根 板蓝根 .txt
+E:\pre_enrich\治风剂\虎胫骨酒,防风 续断 羌活 鳖甲 当归 杜仲 松节 枸杞子 苍耳 苍耳子 茄根 蚕沙 酥 牛膝 白术 石斛 秦艽 五加皮 羊角藤 巴戟天 .txt
+E:\pre_enrich\治风剂\蜈蚣散,蜈蚣 柚 .txt
+E:\pre_enrich\治风剂\蜈蚣散,蜈蚣 鱼鳔 鼠妇 .txt
+E:\pre_enrich\治风剂\蜈蚣散,附子 蜈蚣 川乌头 桑蠹虫 .txt
+E:\pre_enrich\治风剂\蜈蚣星风散,蜈蚣 天南星 防风 柚 鱼鳔 .txt
+E:\pre_enrich\治风剂\蝎梢散,全蝎 .txt
+E:\pre_enrich\治风剂\螵蛸一字散,防风 附子 雄黄 桑螵蛸 麻黄 白附子 铁棒锤 雪乌 .txt
+E:\pre_enrich\治风剂\蠲痉汤,羌活 独活 防风 地榆 杏仁 .txt
+E:\pre_enrich\治风剂\诃子散,防风 半夏 羌活 川芎 当归 龙胆 薄荷 独活 黄芩 甘草 厚叶素馨 山海螺 .txt
+E:\pre_enrich\治风剂\谷神散,皂荚 .txt
+E:\pre_enrich\治风剂\越桃散,石膏 金丝梅 连翘 白芍 当归 鲜地黄 甘草 大黄 麻黄 当归 甘草 川芎 草龙 龙胆 蔓荆子 何首乌 荆芥 荷叶 薄荷 山飘儿草 大果巴戟 .txt
+E:\pre_enrich\治风剂\追风散,天雄 半夏 川乌头 天南星 密陀僧 肉桂 .txt
+E:\pre_enrich\治风剂\追风散,蝉蜕 .txt
+E:\pre_enrich\治风剂\追魂散,五灵脂 .txt
+E:\pre_enrich\治风剂\通应散,天南星 白僵蚕 鱼鳔 桑蠹虫 .txt
+E:\pre_enrich\治风剂\金刀如圣散,川芎 苍术 薄荷 麻黄 白芷 细辛 铁棒锤 雪乌 .txt
+E:\pre_enrich\治风剂\金珠化痰丸,川芎 苍术 薄荷 麻黄 白芷 细辛 铁棒锤 雪乌 .txt
+E:\pre_enrich\治风剂\金花一字散,草乌头 防风 雄黄 白芷 隔山香 滇白芷 .txt
+E:\pre_enrich\治风剂\钩藤饮.txt
+E:\pre_enrich\治风剂\镇肝熄风汤.txt
+E:\pre_enrich\治风剂\阿胶鸡子黄汤.txt
+E:\pre_enrich\治风剂\附子补汤,干姜 地骨皮 附子 石膏 独活 白术 肉桂 芦根 .txt
+E:\pre_enrich\治风剂\雄朱散,雄黄 半夏 天麻 朱砂 铁棒锤 雪乌 .txt
+E:\pre_enrich\治风剂\雄黄散,雄黄 半夏 天麻 天南星 .txt
+E:\pre_enrich\治风剂\露蜂房汤,露蜂房 冬瓜 丹参 川芎 苍耳 苍耳子 薄荷 黄芩 白芷 石菖蒲 红花 金银花 冬瓜子 .txt
+E:\pre_enrich\治风剂\骊龙珠,马钱子 半夏 麻黄 乳香 寒水石 孩儿茶 没药 食盐 金钱白花蛇 .txt
+E:\pre_enrich\治风剂\鱼腥草合剂,桔梗 甘草 鱼腥草 甘草 .txt
+E:\pre_enrich\治风剂\鱼腥草液,鱼腥草 .txt
+E:\pre_enrich\治风剂\麝香丸,麝香 牛黄 防风 干姜 肉桂 川乌头 朱砂 天南星 铅丹 .txt
+E:\pre_enrich\治风剂\麝香散,麝香 桑蠹虫 .txt
+E:\pre_enrich\治风剂\麝香绵灰散,乌梅 防风 何首乌 地肤子 地龙 牡丹皮 甘草 红花岩黄芪 .txt
+E:\pre_enrich\治风剂\麻黄蝉蜕汤,麻黄 蝉蜕 槐花 黄连 浮萍 甘草 .txt
+E:\pre_enrich\泻下剂\三物备急丸.txt
+E:\pre_enrich\泻下剂\五仁丸.txt
+E:\pre_enrich\泻下剂\十枣汤.txt
+E:\pre_enrich\泻下剂\半夏丸,半夏 牵牛子 木通 橘 青皮 .txt
+E:\pre_enrich\泻下剂\半夏天麻汤,橘 升麻 地骨皮 款冬花 半夏 川贝母 柴胡 杏仁 桑白皮 麦门冬 马兜铃 甘草 青皮 骨碎补 .txt
+E:\pre_enrich\泻下剂\半夏散,升麻 地骨皮 款冬花 橘 半夏 川贝母 柴胡 杏仁 桑白皮 麦门冬 马兜铃 甘草 青皮 骨碎补 .txt
+E:\pre_enrich\泻下剂\南木香丸,木香 枳壳 槟榔 金狮藤 鼻血雷 .txt
+E:\pre_enrich\泻下剂\参归汤,人参 甘草 草豆蔻 当归 甘草 鲜地黄 柴胡 升麻 熟地黄 人参 吊灯花 干地黄 .txt
+E:\pre_enrich\泻下剂\商陆煮豆方,商陆 大戟 .txt
+E:\pre_enrich\泻下剂\四倍汤,赤石脂 石菖蒲 牡蛎 人参 食盐 .txt
+E:\pre_enrich\泻下剂\增液承气汤.txt
+E:\pre_enrich\泻下剂\复方大承气汤.txt
+E:\pre_enrich\泻下剂\大下汤,当归 黄连 枳壳 大黄 芒消 火麻仁 蜂蜜 .txt
+E:\pre_enrich\泻下剂\大承气汤.txt
+E:\pre_enrich\泻下剂\大陷胸丸.txt
+E:\pre_enrich\泻下剂\大陷胸汤.txt
+E:\pre_enrich\泻下剂\大黄丸,大黄 火麻仁 广东土牛膝 .txt
+E:\pre_enrich\泻下剂\大黄附子汤.txt
+E:\pre_enrich\泻下剂\宣积丸,韭子 巴豆 干姜 槟榔 甘遂 硫黄 大高良姜 .txt
+E:\pre_enrich\泻下剂\宣积药,生姜 巴豆 美人蕉根 赤茯苓 五灵脂 干姜 .txt
+E:\pre_enrich\泻下剂\导气丸,木香 枳壳 槟榔 火麻仁 .txt
+E:\pre_enrich\泻下剂\导气丸,附子 半夏 木香 茯苓 赤茯苓 白附子 紫苏叶 金狮藤 鼻血雷 .txt
+E:\pre_enrich\泻下剂\小承气汤.txt
+E:\pre_enrich\泻下剂\己椒苈黄丸.txt
+E:\pre_enrich\泻下剂\承气养营汤.txt
+E:\pre_enrich\泻下剂\控涎丹.txt
+E:\pre_enrich\泻下剂\新加黄龙汤.txt
+E:\pre_enrich\泻下剂\暖阳汤,白术 肉苁蓉 附子 .txt
+E:\pre_enrich\泻下剂\更衣丸,朱砂 芦荟 .txt
+E:\pre_enrich\泻下剂\木瓜分气丸,木瓜 橘 姜黄 黑牵牛 莪术 莱菔子 山海螺 莱菔 .txt
+E:\pre_enrich\泻下剂\木香化滞汤,木香 诃子 .txt
+E:\pre_enrich\泻下剂\木香粗散,木香 诃子 .txt
+E:\pre_enrich\泻下剂\朱砂饼子,巴豆 朱砂 水银 .txt
+E:\pre_enrich\泻下剂\柏花丸,冰 款冬花 百合 川贝母 梅花冰片 .txt
+E:\pre_enrich\泻下剂\济川煎.txt
+E:\pre_enrich\泻下剂\润肠丸,当归 枳壳 桃仁 山海螺 鲜地黄 .txt
+E:\pre_enrich\泻下剂\润肠丸.txt
+E:\pre_enrich\泻下剂\温脾汤.txt
+E:\pre_enrich\泻下剂\牛黄丸,大黄 牛黄 麝香 .txt
+E:\pre_enrich\泻下剂\猪肚丸,川楝子 母丁香 莲子 丁香 猪肚 八角茴香 木蝴蝶 .txt
+E:\pre_enrich\泻下剂\甘遂散,木香 甘遂 .txt
+E:\pre_enrich\泻下剂\疏凿饮子.txt
+E:\pre_enrich\泻下剂\白散.txt
+E:\pre_enrich\泻下剂\膏,食盐 蜂蜜 .txt
+E:\pre_enrich\泻下剂\舟车丸.txt
+E:\pre_enrich\泻下剂\荆芥散,大黄 荆芥 .txt
+E:\pre_enrich\泻下剂\药酒,鹿茸 当归 酒 酥 淫羊藿 仙茅 芜菁 酸模 .txt
+E:\pre_enrich\泻下剂\萆丸,肉苁蓉 鹿茸 杜仲 茯苓 菟丝 菟丝子 狗脊 益智仁 红升麻 羊角藤 .txt
+E:\pre_enrich\泻下剂\葶苈大枣泻肺汤.txt
+E:\pre_enrich\泻下剂\调胃承气汤.txt
+E:\pre_enrich\泻下剂\通仙五宝汤,厚朴 大黄 当归 木香 枳壳 槟榔 .txt
+E:\pre_enrich\泻下剂\通关导滞散,厚朴 大黄 当归 木香 枳壳 槟榔 .txt
+E:\pre_enrich\泻下剂\通幽润燥汤,升麻 大黄 当归 枳壳 桃仁 火麻仁 红花 .txt
+E:\pre_enrich\泻下剂\通肠散,枳壳 当归 大黄 黑芝麻 牛膝 .txt
+E:\pre_enrich\泻下剂\通肠饮,朴消 葱白 芜菁 蜂蜜 .txt
+E:\pre_enrich\泻下剂\霹雳煎,食盐 蜂蜜 .txt
+E:\pre_enrich\泻下剂\香枳汤  ,枳壳 防风 槟榔 甘草 甘草 防风 .txt
+E:\pre_enrich\泻下剂\麻子仁丸.txt
+E:\pre_enrich\泻下剂\黄金丸,橘 葶苈子 半夏 干姜 大黄 大枣 青皮 .txt
+E:\pre_enrich\泻下剂\黄龙汤.txt
+E:\pre_enrich\消导化积剂\三建丸,天雄 附子 川乌头 阳起石 钟乳石 .txt
+E:\pre_enrich\消导化积剂\三神丹,巴豆 乌梅 肉豆蔻 .txt
+E:\pre_enrich\消导化积剂\三黄丸,巴豆 乌梅 肉豆蔻 .txt
+E:\pre_enrich\消导化积剂\下膈散,荆芥 苦参 莪术 龙眼肉 益智仁 .txt
+E:\pre_enrich\消导化积剂\乳香丸,乳香 胡椒 巴豆 丁香 没药 .txt
+E:\pre_enrich\消导化积剂\二妙香连丸,木香 黄连 吴茱萸 芫花 .txt
+E:\pre_enrich\消导化积剂\五灵丸,丹参 灵芝 五味子 .txt
+E:\pre_enrich\消导化积剂\保和丸.txt
+E:\pre_enrich\消导化积剂\健脾丸.txt
+E:\pre_enrich\消导化积剂\健脾养胃丸,茯苓 白芍 人参 白术 当归 麦芽 木香 山药 枳实 山海螺 半夏 .txt
+E:\pre_enrich\消导化积剂\健脾糖浆,党参 山楂 麦芽 枳实 白术 山海螺 .txt
+E:\pre_enrich\消导化积剂\健脾肥儿丸,人参 茯苓 甘草 薏苡仁 白扁豆 山药 山楂 神曲 麦芽 泽泻 芡实 藿香 桔梗 炮姜 糯米 白沙糖 白术 .txt
+E:\pre_enrich\消导化积剂\健脾解郁汤,红花岩黄芪 党参 白芍 党参 板蓝根 白术 丹参 白芍 柴胡 郁金 红花岩黄芪 茵陈蒿 半夏 .txt
+E:\pre_enrich\消导化积剂\八子养肝汤,决明子 女贞子 枸杞子 桑椹子 菟丝 菟丝子 车前子 五味子 二色内风消 川楝子 .txt
+E:\pre_enrich\消导化积剂\八等散,白术 厚朴 人参 茯苓 吴茱萸 神曲 山海螺 .txt
+E:\pre_enrich\消导化积剂\加味养元粉,山楂 山药 条参 芡实 花椒 茯苓 .txt
+E:\pre_enrich\消导化积剂\加味四妙勇安汤,甘草 玄参 当归 忍冬藤 升麻 土茯苓 白茅根 红花岩黄芪 .txt
+E:\pre_enrich\消导化积剂\半夏丸,半夏 牵牛子 木通 橘 青皮 .txt
+E:\pre_enrich\消导化积剂\南木香丸,木香 枳壳 槟榔 金狮藤 鼻血雷 .txt
+E:\pre_enrich\消导化积剂\厚脾散,山药 龙骨 赤石脂 薏苡仁 白扁豆 .txt
+E:\pre_enrich\消导化积剂\参苓平胃丸,人参 苍术 甘草 茯苓 白术 人参 茯苓 厚朴 蛇眼草 苍术 骨碎补 山海螺 .txt
+E:\pre_enrich\消导化积剂\商陆煮豆方,商陆 大戟 .txt
+E:\pre_enrich\消导化积剂\大下汤,当归 黄连 枳壳 大黄 芒消 火麻仁 蜂蜜 .txt
+E:\pre_enrich\消导化积剂\大安丸.txt
+E:\pre_enrich\消导化积剂\大效厚朴煎丸,厚朴 干姜 小茴香 附子 黄精 豨莶 .txt
+E:\pre_enrich\消导化积剂\大效牡丹皮散,厚朴 干姜 小茴香 附子 黄精 豨莶 .txt
+E:\pre_enrich\消导化积剂\大黄丸,大黄 火麻仁 广东土牛膝 .txt
+E:\pre_enrich\消导化积剂\大黄酊,大黄 .txt
+E:\pre_enrich\消导化积剂\姜桂苓砂汤,茯苓 甘草 干姜 桂枝 白芍 砂仁 .txt
+E:\pre_enrich\消导化积剂\宣积丸,韭子 巴豆 干姜 槟榔 甘遂 硫黄 大高良姜 .txt
+E:\pre_enrich\消导化积剂\宣积药,生姜 巴豆 美人蕉根 赤茯苓 五灵脂 干姜 .txt
+E:\pre_enrich\消导化积剂\导气丸,木香 枳壳 槟榔 火麻仁 .txt
+E:\pre_enrich\消导化积剂\射干汤,人参 白术 当归 麦芽 木香 山药 枳实 茯苓 白芍 酒 山海螺 半夏 .txt
+E:\pre_enrich\消导化积剂\开胃健脾丸,木香 党参 茯苓 柑皮 白术 砂仁 甘草 大枣 干姜 桔梗 茯苓 干姜 甘草 山海螺 .txt
+E:\pre_enrich\消导化积剂\当归膏,当归 白芍 鲜地黄 白木 莲子 人参 甘草 枸杞子 茯苓 当归 甘草 山药 山海螺 .txt
+E:\pre_enrich\消导化积剂\慢肝六味饮,萆薢 黄皮 太子参 茯苓 白术 甘草 九子不离母 .txt
+E:\pre_enrich\消导化积剂\扶正活血汤,枳壳 赤芍 红花岩黄芪 丹参 白术 太子参 当归 白花蛇舌草 牡丹皮 雅丽千金藤 连翘 白术 北豆根 .txt
+E:\pre_enrich\消导化积剂\扶脾益胃汤,党参 半夏 厚朴 枳壳 甘草 白术 白豆蔻 白芍 大枣 骨碎补 .txt
+E:\pre_enrich\消导化积剂\暖阳汤,白术 肉苁蓉 附子 .txt
+E:\pre_enrich\消导化积剂\曲蘖枳术丸.txt
+E:\pre_enrich\消导化积剂\更衣丸,朱砂 芦荟 .txt
+E:\pre_enrich\消导化积剂\木香化滞汤,木香 诃子 .txt
+E:\pre_enrich\消导化积剂\木香槟榔丸.txt
+E:\pre_enrich\消导化积剂\木香粗散,木香 诃子 .txt
+E:\pre_enrich\消导化积剂\朱砂饼子,巴豆 朱砂 水银 .txt
+E:\pre_enrich\消导化积剂\枳实导滞丸.txt
+E:\pre_enrich\消导化积剂\枳实消痞丸.txt
+E:\pre_enrich\消导化积剂\枳术丸.txt
+E:\pre_enrich\消导化积剂\桃花丸,干姜 赤石脂 五灵脂 大高良姜 .txt
+E:\pre_enrich\消导化积剂\梧桐濯足汤,梧桐叶 .txt
+E:\pre_enrich\消导化积剂\橘半枳术丸.txt
+E:\pre_enrich\消导化积剂\橡实汤,橡实 橡实壳 荔枝 荔枝壳 甘草 石榴皮 .txt
+E:\pre_enrich\消导化积剂\法制姜附丸,附子 香附 神曲 砂仁 干姜 荜茇 丁香树皮 胡椒 海桐皮 .txt
+E:\pre_enrich\消导化积剂\消食饭灰,山楂 青皮 鸡内金 麦芽 木香 枳实 槟榔 砂仁 神曲 山海螺 牵牛子 .txt
+E:\pre_enrich\消导化积剂\润肠丸,当归 枳壳 桃仁 山海螺 鲜地黄 .txt
+E:\pre_enrich\消导化积剂\燮枢汤,川楝子 藜 莱菔 莱菔子 柴胡 黄芩 半夏 红花 皂角刺 刘寄奴 泽泻 刺蒺藜 姜黄 .txt
+E:\pre_enrich\消导化积剂\牛黄丸,大黄 牛黄 麝香 .txt
+E:\pre_enrich\消导化积剂\理脾养胃除湿膏,党参 麦芽 茯苓 甘草 神曲 山海螺 莲子心 .txt
+E:\pre_enrich\消导化积剂\甘遂散,木香 甘遂 .txt
+E:\pre_enrich\消导化积剂\神妙散,大黄 枳壳 人参 大钱麻 青活麻 .txt
+E:\pre_enrich\消导化积剂\粟壳丸,罂粟 罂粟壳 .txt
+E:\pre_enrich\消导化积剂\膏,食盐 蜂蜜 .txt
+E:\pre_enrich\消导化积剂\荆芥散,大黄 荆芥 .txt
+E:\pre_enrich\消导化积剂\荜澄茄散,厚朴 木香 枳壳 槟榔 苍术 茯苓 泽泻 甘草 黄连 吴茱萸 山海螺 .txt
+E:\pre_enrich\消导化积剂\药荸荠,雄黄 砂仁 桑椹子 白沙糖 .txt
+E:\pre_enrich\消导化积剂\调元粉,山药 芡实 花椒 黑芝 黑芝麻 大枣 落花生 .txt
+E:\pre_enrich\消导化积剂\调和大补羹,茯苓 山药 芡实 .txt
+E:\pre_enrich\消导化积剂\资生丸.txt
+E:\pre_enrich\消导化积剂\软肝煎,太子参 丹参 鳖甲 楮实 茯苓 菟丝 菟丝子 醋 甘草 白术 蜇虫 .txt
+E:\pre_enrich\消导化积剂\通仙五宝汤,厚朴 大黄 当归 木香 枳壳 槟榔 .txt
+E:\pre_enrich\消导化积剂\通关导滞散,厚朴 大黄 当归 木香 枳壳 槟榔 .txt
+E:\pre_enrich\消导化积剂\通幽润燥汤,升麻 大黄 当归 枳壳 桃仁 火麻仁 红花 .txt
+E:\pre_enrich\消导化积剂\通肠散,枳壳 当归 大黄 黑芝麻 牛膝 .txt
+E:\pre_enrich\消导化积剂\通肠饮,朴消 葱白 芜菁 蜂蜜 .txt
+E:\pre_enrich\消导化积剂\霹雳煎,食盐 蜂蜜 .txt
+E:\pre_enrich\消导化积剂\香枳汤  ,枳壳 防风 槟榔 甘草 甘草 防风 .txt
+E:\pre_enrich\消导化积剂\香砂枳术丸.txt
+E:\pre_enrich\消导化积剂\香连丸,厚朴 木香 枳壳 槟榔 苍术 茯苓 泽泻 甘草 黄连 吴茱萸 山海螺 .txt
+E:\pre_enrich\消导化积剂\香连化滞丸,黄连 吴茱萸 .txt
+E:\pre_enrich\消导化积剂\香连茱萸丸,吴茱萸 黄连 .txt
+E:\pre_enrich\消导化积剂\鳖甲煎丸.txt
+E:\pre_enrich\消导化积剂\黄芪一贯煎,红花岩黄芪 北沙参 枸杞子 郁金 刺蒺藜 茯苓 白芍 峨参 三七 .txt
+E:\pre_enrich\涌吐剂\三圣散.txt
+E:\pre_enrich\涌吐剂\三生饮,半夏 木香 天南星 人参 黄精 骨碎补 .txt
+E:\pre_enrich\涌吐剂\升阳利湿汤,苍术 地龙 紫苏叶 麻黄 穿山甲 皂角刺 连翘 桔梗 .txt
+E:\pre_enrich\涌吐剂\强中二姜丸,半夏 青皮 干姜 雪里见 大高良姜 .txt
+E:\pre_enrich\涌吐剂\改容膏,醋 石灰 荭草 .txt
+E:\pre_enrich\涌吐剂\救急稀涎散.txt
+E:\pre_enrich\涌吐剂\清涎汤,半夏 甘草 白豆蔻 丁香 黄精 骨碎补 .txt
+E:\pre_enrich\涌吐剂\理气祛风散,防风 半夏 天麻 乌药 羌活 青皮 川芎 枳壳 桔梗 荆芥 独活 甘草 白芷 白芍 山海螺 天南星 .txt
+E:\pre_enrich\涌吐剂\瓜蒂散.txt
+E:\pre_enrich\涌吐剂\生姜汤,生姜 .txt
+E:\pre_enrich\涌吐剂\盐汤探吐方.txt
+E:\pre_enrich\涌吐剂\神应散,胆矾 铅丹 .txt
+E:\pre_enrich\涌吐剂\蓖麻膏,蓖麻子 .txt
+E:\pre_enrich\清热剂\一捻金,铜绿 黄柏 白芷 隔山香 滇白芷 .txt
+E:\pre_enrich\清热剂\一提金,黄瓜 朴消 柚 .txt
+E:\pre_enrich\清热剂\丁香平胃散,砂仁 厚朴 白术 甘草 丁香 山海螺 黄精 .txt
+E:\pre_enrich\清热剂\七汁饮,荷叶 墨 侧柏叶 .txt
+E:\pre_enrich\清热剂\七白膏,荷叶 墨 侧柏叶 .txt
+E:\pre_enrich\清热剂\万安散,紫苏叶 桔梗 白芷 半夏 甘草 前胡 藁本 葛根 附子 香附 骨碎补 山海螺 .txt
+E:\pre_enrich\清热剂\万病无忧散,桔梗 川芎 前胡 苍术 甘草 独活 枳壳 .txt
+E:\pre_enrich\清热剂\万金丸,针砂 夜明砂 醋 绿矾 荭草 .txt
+E:\pre_enrich\清热剂\万金散,桔梗 川芎 前胡 苍术 甘草 独活 枳壳 .txt
+E:\pre_enrich\清热剂\三仙膏,马兰 车前草 金刚散 乌蔹莓 .txt
+E:\pre_enrich\清热剂\三枝膏,茯苓 肉桂 白术 .txt
+E:\pre_enrich\清热剂\三苓散,茯苓 肉桂 白术 .txt
+E:\pre_enrich\清热剂\三黑神奇饮,蒲黄 川芎 牡丹皮 川贝母 .txt
+E:\pre_enrich\清热剂\丹砂牛黄丸,牛黄 甘草 硼砂 铅丹 食盐 .txt
+E:\pre_enrich\清热剂\乌梅散,乌梅 罂粟 罂粟壳 马鞭草 甘草 .txt
+E:\pre_enrich\清热剂\乌犀汤,羚羊角 干地黄 玄参 甘草 朱砂 大黄 升麻 射干 天门冬 玄参 甘草 铅丹 .txt
+E:\pre_enrich\清热剂\乌贝散.txt
+E:\pre_enrich\清热剂\乌金丸,大黄 .txt
+E:\pre_enrich\清热剂\乙脑合剂,钩藤 雷公藤 地胆 地龙 狗肝 狗肝菜 车前子 车前草 .txt
+E:\pre_enrich\清热剂\二神散,干姜 雄黄 .txt
+E:\pre_enrich\清热剂\云散,阿胶 百合 人参 侧柏叶 .txt
+E:\pre_enrich\清热剂\云雪散,蒲黄 .txt
+E:\pre_enrich\清热剂\五仙丸,天仙子 五灵脂 .txt
+E:\pre_enrich\清热剂\五味麦冬汤,石灰 茜草 阿胶 天花粉 羊齿天冬 .txt
+E:\pre_enrich\清热剂\五通散,伏龙肝 巴豆 郁李仁 食盐 .txt
+E:\pre_enrich\清热剂\五香丸,木香 沉香 降香 肉桂 檀香 .txt
+E:\pre_enrich\清热剂\交泰散,天南星 .txt
+E:\pre_enrich\清热剂\人参八味汤,萹蓄 满江红 .txt
+E:\pre_enrich\清热剂\人参散,人参 甘草 麻黄 桔梗 茯苓 .txt
+E:\pre_enrich\清热剂\人参散,橘 茯苓 白术 人参 山海螺 .txt
+E:\pre_enrich\清热剂\人参散,竹茹 人参 满江红 灯心草 .txt
+E:\pre_enrich\清热剂\人参甘草汤,甘草 桔梗 人参 .txt
+E:\pre_enrich\清热剂\人参阿胶饮,阿胶 生姜 糯米 人参 .txt
+E:\pre_enrich\清热剂\人参饮,人参 荆芥 甘草 防风 葛根 肉桂 五加皮 桔梗 白芍 麻黄 川芎 柴胡 山海螺 .txt
+E:\pre_enrich\清热剂\伏龙肝汤,干地黄 干姜 牛膝 阿胶 甘草 伏龙肝 .txt
+E:\pre_enrich\清热剂\保生丸,乌梅 香薷 草果 甘草 白扁豆 砂仁 骨碎补 葛根 .txt
+E:\pre_enrich\清热剂\养阴降糖片,党参 川芎 枸杞子 葛根 虎杖 牡丹皮 玄参 玉 玉竹 知母 五味子 山海螺 红花岩黄芪 .txt
+E:\pre_enrich\清热剂\冰梅散,朴消 甘草 白矾 半夏 桔梗 甘草 大青盐 乌梅 .txt
+E:\pre_enrich\清热剂\冰硼利喉散,王瓜 黄连 白矾 荷叶 薄荷 人中白 冰 青黛 玄明粉 白僵蚕 硼砂 梅花冰片 .txt
+E:\pre_enrich\清热剂\冰硼散,青黛 薄荷 黄柏 黄芩 甘草 硼砂 乌梅 孩儿茶 .txt
+E:\pre_enrich\清热剂\凉膈散.txt
+E:\pre_enrich\清热剂\加减芍药汤,阿胶 地榆 川芎 当归 木香 黄芩 甘草 黄连 山海螺 荸荠 .txt
+E:\pre_enrich\清热剂\加减香苏散,附子 香附 紫苏梗 甘草 山海螺 .txt
+E:\pre_enrich\清热剂\加减香薷饮,厚朴 香薷 木瓜 橘 橘红 茯苓 葛根 薄荷 红花 天花粉 骨碎补 .txt
+E:\pre_enrich\清热剂\加味六味地黄丸,山海螺 天门冬 青蒿 鳖甲 麦门冬 山茱萸 山药 枇杷 枇杷叶 橘 橘红 牛膝 黄柏 五味子 茯苓 泽泻 牡丹皮 杜衡 .txt
+E:\pre_enrich\清热剂\加味四物汤,川芎 当归 栀子 荸荠 白芍 .txt
+E:\pre_enrich\清热剂\加味当归六黄汤,当归 牡蛎 五味子 大枣 酸枣仁 .txt
+E:\pre_enrich\清热剂\加味甘桔汤,防风 桔梗 牛蒡子 玄参 甘草 射干 .txt
+E:\pre_enrich\清热剂\加味胃苓丸,厚朴 肉桂 苍术 茯苓 泽泻 猪苓 甘草 白术 人参 白芍 黄连 山海螺 骨碎补 .txt
+E:\pre_enrich\清热剂\加味阴阳散,孩儿茶 青黛 干姜 黄连 .txt
+E:\pre_enrich\清热剂\加味阴阳散,蒲黄 黄连 干姜 孩儿茶 青黛 .txt
+E:\pre_enrich\清热剂\加味香苏散,香附 甘草 紫苏梗 山海螺 .txt
+E:\pre_enrich\清热剂\化斑汤.txt
+E:\pre_enrich\清热剂\十汁饮,墨 韭菜 梨 竹沥 山海螺 鲜地黄 .txt
+E:\pre_enrich\清热剂\十香丸,沉香 檀香 槟榔 茯苓 枳壳 乌药 大腹皮 青皮 肉桂 .txt
+E:\pre_enrich\清热剂\千里梅花丸,乌梅 枇杷叶 百药煎 蜡梅花 甘草 葛根 .txt
+E:\pre_enrich\清热剂\千里水壶芦,杨梅 薄荷 白沙糖 乌梅 百药煎 天门冬 麦门冬 毛白杨 檀香 .txt
+E:\pre_enrich\清热剂\千金汤,升麻 射干 山海螺 .txt
+E:\pre_enrich\清热剂\升麻汤,升麻 大青 射干 玄参 黄柏 蔷薇根 升麻 栀子 栀子 金丝梅 皮袋香 .txt
+E:\pre_enrich\清热剂\升麻汤,升麻 大青 栀子 蔷薇根 玄参 黄柏 射干 金丝梅 皮袋香 .txt
+E:\pre_enrich\清热剂\半夏天麻汤,橘 升麻 地骨皮 款冬花 半夏 川贝母 柴胡 杏仁 桑白皮 麦门冬 马兜铃 甘草 青皮 骨碎补 .txt
+E:\pre_enrich\清热剂\半夏散,升麻 地骨皮 款冬花 橘 半夏 川贝母 柴胡 杏仁 桑白皮 麦门冬 马兜铃 甘草 青皮 骨碎补 .txt
+E:\pre_enrich\清热剂\华盖散,乌梅 杏仁 茯苓 麻黄 甘草 知母 五味子 人参 桑白皮 葶苈子 .txt
+E:\pre_enrich\清热剂\南木香丸,木香 枳壳 槟榔 金狮藤 鼻血雷 .txt
+E:\pre_enrich\清热剂\参地煎,党参 百草霜 .txt
+E:\pre_enrich\清热剂\发衣散,血余 .txt
+E:\pre_enrich\清热剂\吐血丹,阿胶 杏仁 茯苓 甘草 天门冬 虾蟆 .txt
+E:\pre_enrich\清热剂\吐血散,蒲黄 血余 .txt
+E:\pre_enrich\清热剂\吐血猪肺汤,猪肺 .txt
+E:\pre_enrich\清热剂\吐血紫云膏,白果 紫草 茯苓 .txt
+E:\pre_enrich\清热剂\含杏仁丸,浮萍 杏仁 轻粉 豨莶 .txt
+E:\pre_enrich\清热剂\含煎,白皮 玄参 升麻 大青 射干 栀子 黄柏 蜂蜜 苦竹叶 鲜地黄 大巢菜 干地黄 .txt
+E:\pre_enrich\清热剂\吹喉散,朴消 甘草 .txt
+E:\pre_enrich\清热剂\吹喉散,猪胆 .txt
+E:\pre_enrich\清热剂\吹喉散,硼砂 雄黄 白僵蚕 梅花冰片 .txt
+E:\pre_enrich\清热剂\吹喉散,青黛 芒消 白僵蚕 甘草 甘草 .txt
+E:\pre_enrich\清热剂\噙化上清丸,冰糖 冰 前胡 乌梅 杏仁 柿霜 桔梗 檀香 葛根 薄荷 甘草 白檀 百药煎 硼砂 天花粉 玫瑰花 .txt
+E:\pre_enrich\清热剂\四制白术散,牡蛎 白术 石斛 .txt
+E:\pre_enrich\清热剂\四味如圣汤,麦门冬 枳壳 桔梗 甘草 .txt
+E:\pre_enrich\清热剂\团参汤,生姜 白术 当归 茯苓 甘草 鹿梨 .txt
+E:\pre_enrich\清热剂\固本种子丸,五味子 远志 杜仲 枸杞子 防风 茯苓 柏子仁 山药 肉苁蓉 百部 九香虫 羊角藤 .txt
+E:\pre_enrich\清热剂\固真丹,蒲黄 地榆 滑石 甘草 .txt
+E:\pre_enrich\清热剂\固荣散,蒲黄 地榆 滑石 甘草 甘草 .txt
+E:\pre_enrich\清热剂\固齿秘方,骨碎补 大青盐 食盐 白矾 大黄 大黄 石膏 石膏 杜仲 当归 .txt
+E:\pre_enrich\清热剂\地仙饮,防风 地骨皮 乌梅 薄荷 甘草 .txt
+E:\pre_enrich\清热剂\地骨皮散,地骨皮 鳖甲 酒 甘草 人参 .txt
+E:\pre_enrich\清热剂\地黄汤,铅丹 山海螺 .txt
+E:\pre_enrich\清热剂\地黄煎,山海螺 马齿 .txt
+E:\pre_enrich\清热剂\地黄煎,蜂蜜 山海螺 .txt
+E:\pre_enrich\清热剂\壮阳丹,肉苁蓉 五味子 蛇床子 知母 胡桃仁 杜仲 菟丝 菟丝子 牛膝 黄柏 骨碎补 蜂蜜 .txt
+E:\pre_enrich\清热剂\大下汤,当归 黄连 枳壳 大黄 芒消 火麻仁 蜂蜜 .txt
+E:\pre_enrich\清热剂\大白术汤,白术 防风 羌活 川芎 黄芩 细辛 白芷 知母 甘草 枳实 石膏 .txt
+E:\pre_enrich\清热剂\大黄甘草汤.txt
+E:\pre_enrich\清热剂\大黄黄连泻心汤.txt
+E:\pre_enrich\清热剂\天仙饼,天仙子 鹿梨 .txt
+E:\pre_enrich\清热剂\天南星散,天南星 .txt
+E:\pre_enrich\清热剂\天生白虎汤,西瓜 .txt
+E:\pre_enrich\清热剂\天萝饼子,白梅 白僵蚕 防风 山海螺 胆矾 .txt
+E:\pre_enrich\清热剂\如意散,朴消 甘草 .txt
+E:\pre_enrich\清热剂\家秘补阴丸,当归 黄柏 知母 天门冬 白芍 .txt
+E:\pre_enrich\清热剂\密陀僧丸,密陀僧 胆矾 蜂蜜 鲜地黄 干地黄 .txt
+E:\pre_enrich\清热剂\密陀僧散,密陀僧 黄柏 甘草 蒲黄 雷公藤 大黑头草 .txt
+E:\pre_enrich\清热剂\导气丸,木香 枳壳 槟榔 火麻仁 .txt
+E:\pre_enrich\清热剂\导赤散.txt
+E:\pre_enrich\清热剂\射干散,射干 玄参 牛蒡子 升麻 桔梗 甘草 .txt
+E:\pre_enrich\清热剂\小刺蓟煎,薄荷 大蓟 荆芥 鲜地黄 侧柏叶 赤芍 甘草 干地黄 .txt
+E:\pre_enrich\清热剂\小建中汤,干姜 甘草 山海螺 肉桂 .txt
+E:\pre_enrich\清热剂\小芎黄汤,小蓟 .txt
+E:\pre_enrich\清热剂\小蓟汤,小蓟 .txt
+E:\pre_enrich\清热剂\山栀子散,栀子 金丝梅 皮袋香 .txt
+E:\pre_enrich\清热剂\川芎丸,川芎 白术 藁本 苍术 .txt
+E:\pre_enrich\清热剂\左金丸.txt
+E:\pre_enrich\清热剂\常山丸,乌梅 常山 淡豆豉 知母 朱砂 蜀漆 大黄 .txt
+E:\pre_enrich\清热剂\常山丸,乌梅 知母 常山 淡豆豉 蜀漆 铅丹 朱砂 .txt
+E:\pre_enrich\清热剂\常山散,鳖甲 甘草 常山 冬瓜 车前子 .txt
+E:\pre_enrich\清热剂\常山汤,常山 鳖甲 甘草 车前草 .txt
+E:\pre_enrich\清热剂\常山饮,冬瓜 鳖甲 甘草 常山 车前子 .txt
+E:\pre_enrich\清热剂\干地黄汤,吴茱萸 干地黄 干姜 当归 赤芍 酒 甘草 白芷 细辛 伏龙肝 肉桂 黑大豆 .txt
+E:\pre_enrich\清热剂\开胃阿胶散,阿胶 木香 糯米 .txt
+E:\pre_enrich\清热剂\开郁导气汤,香附 川芎 干姜 栀子 苍术 茯苓 滑石 甘草 白芷 神曲 山海螺 .txt
+E:\pre_enrich\清热剂\异功散,人参 .txt
+E:\pre_enrich\清热剂\当归六黄汤.txt
+E:\pre_enrich\清热剂\当归龙荟丸.txt
+E:\pre_enrich\清热剂\急喉一匙金,雅丽千金藤 北豆根 .txt
+E:\pre_enrich\清热剂\戊己丸.txt
+E:\pre_enrich\清热剂\拨刀面,生姜 鸡子 山海螺 .txt
+E:\pre_enrich\清热剂\持圣散,麻黄 甘草 附子 白术 五味子 橘 山海螺 肉桂 .txt
+E:\pre_enrich\清热剂\掌中金,蒲黄 黄药子 .txt
+E:\pre_enrich\清热剂\敛汗育心汤,麦门冬 当归 茯神 沙参 牡蛎 甘草 知母 白芍 大枣 酸枣仁 .txt
+E:\pre_enrich\清热剂\断汗汤,牡蛎 牡蛎 白术 防风 龙骨 麻黄 蜂蜜 .txt
+E:\pre_enrich\清热剂\新定枇杷叶饮,砂仁 枇杷叶 白扁豆 茯苓 麦门冬 木香 甘草 山海螺 .txt
+E:\pre_enrich\清热剂\普济消毒饮.txt
+E:\pre_enrich\清热剂\暖阳汤,白术 肉苁蓉 附子 .txt
+E:\pre_enrich\清热剂\木通丸,附子 木通 细辛 光头前胡 大活 .txt
+E:\pre_enrich\清热剂\朱砂饼子,巴豆 朱砂 水银 .txt
+E:\pre_enrich\清热剂\朱砂鹿茸丸,鹿茸 鹿角 鹿角胶 龙齿 酒 .txt
+E:\pre_enrich\清热剂\李梅汤,桃根 梅根 李根 细辛 蛇床子 .txt
+E:\pre_enrich\清热剂\杏仁丸,浮萍 杏仁 轻粉 杏仁 轻粉 豨莶 .txt
+E:\pre_enrich\清热剂\杏蜜膏,猪胰 杏仁 蜂蜜 .txt
+E:\pre_enrich\清热剂\柏花丸,冰 款冬花 百合 川贝母 梅花冰片 .txt
+E:\pre_enrich\清热剂\柳花散,延胡索 黄柏 黄连 青黛 密陀僧 .txt
+E:\pre_enrich\清热剂\柳花散,柳絮 .txt
+E:\pre_enrich\清热剂\栀子豉汤.txt
+E:\pre_enrich\清热剂\桂心汤,肉桂 .txt
+E:\pre_enrich\清热剂\桂浆,大麦 麦芽 蜂蜜 赤茯苓 肉桂 杏仁 .txt
+E:\pre_enrich\清热剂\桂苓散,茯苓 肉桂 .txt
+E:\pre_enrich\清热剂\桃仁丸,桃仁 .txt
+E:\pre_enrich\清热剂\桑乌丸,女贞子 桑叶 酒 何首乌 侧柏叶 山海螺 黑芝麻 .txt
+E:\pre_enrich\清热剂\桑椹膏,苍术 桑椹子 .txt
+E:\pre_enrich\清热剂\桑耳塞鼻丹,桑耳 .txt
+E:\pre_enrich\清热剂\梅砂丸,硼砂 乌梅 白梅 .txt
+E:\pre_enrich\清热剂\梅花三黄汤,乌梅 天花粉 红花岩黄芪 黄精 黄连 .txt
+E:\pre_enrich\清热剂\梅苏丸,乌梅 木瓜 甘草 白檀 白梅 紫苏叶 麝香 .txt
+E:\pre_enrich\清热剂\梅蜜饮,白梅 山海螺 .txt
+E:\pre_enrich\清热剂\椒杏丸,胡椒 杏仁 .txt
+E:\pre_enrich\清热剂\槐花散,槐花 蒲黄 骨碎补 .txt
+E:\pre_enrich\清热剂\槲叶散,槲叶 .txt
+E:\pre_enrich\清热剂\止呕煎,吴茱萸 干姜 砂仁 .txt
+E:\pre_enrich\清热剂\止汗粉,麻黄根 白术 栝楼 牡蛎 蒲葵叶 .txt
+E:\pre_enrich\清热剂\止衄散,阿胶 山海螺 .txt
+E:\pre_enrich\清热剂\止衄汤,酒 .txt
+E:\pre_enrich\清热剂\正气汤,黄柏 知母 甘草 .txt
+E:\pre_enrich\清热剂\水仙丹,木通 白及 白蔹 朱砂 .txt
+E:\pre_enrich\清热剂\泻心汤.txt
+E:\pre_enrich\清热剂\泻白散.txt
+E:\pre_enrich\清热剂\泻青丸.txt
+E:\pre_enrich\清热剂\泻黄散.txt
+E:\pre_enrich\清热剂\洗心散,大黄 当归 木通 荷叶 薄荷 麻黄 黄连 山海螺 鲜地黄 .txt
+E:\pre_enrich\清热剂\活胃散,党参 川芎 枸杞子 葛根 虎杖 牡丹皮 玄参 玉 玉竹 知母 五味子 山海螺 红花岩黄芪 .txt
+E:\pre_enrich\清热剂\消暑至神汤,半夏 石膏 青蒿 茯苓 甘草 竹叶 人参 黄连 .txt
+E:\pre_enrich\清热剂\消渴固本汤,金樱子 牡蛎 黄柏 知母 天花粉 山茱萸 .txt
+E:\pre_enrich\清热剂\消肿利咽汤,荷叶 薄荷 天花粉 连翘 金银花 丹参 射干 玄参 乳香 没药 穿山甲 .txt
+E:\pre_enrich\清热剂\清宫汤,益母草 马齿苋 蒲黄 吊灯花 川芎 .txt
+E:\pre_enrich\清热剂\清宫汤.txt
+E:\pre_enrich\清热剂\清心莲子饮.txt
+E:\pre_enrich\清热剂\清暑饮子,葛根 枇杷叶 茯苓 藿香 白扁豆 黄连 甘草 乌梅 .txt
+E:\pre_enrich\清热剂\清火凉血汤,阿胶 麦门冬 川芎 当归 栀子 桃仁 蒲黄 赤芍 酒 熟地黄 牡丹皮 百合 鲜地黄 川贝母 .txt
+E:\pre_enrich\清热剂\清热代茶饮,芦根 橄榄 .txt
+E:\pre_enrich\清热剂\清热解毒汤,升麻 栀子 桔梗 赤芍 连翘 牡丹皮 黄柏 黄芩 甘草 黄连 山海螺 鲜地黄 .txt
+E:\pre_enrich\清热剂\清热调中饮,桑叶 枳壳 酒 黄芩 香附 甘菊 橘红 神曲 甘草 .txt
+E:\pre_enrich\清热剂\清瘟败毒饮.txt
+E:\pre_enrich\清热剂\清胃散.txt
+E:\pre_enrich\清热剂\清营汤.txt
+E:\pre_enrich\清热剂\清衄汤,甘草 当归 白芍 香附 黄芩 栀子 黄连 赤芍 桔梗 阴地蕨 侧柏叶 .txt
+E:\pre_enrich\清热剂\清骨散,地骨皮 青蒿 鳖甲 鳖甲胶 甘草 知母 石斛 秦艽 银柴胡 慈乌 .txt
+E:\pre_enrich\清热剂\清骨散,银柴胡 地骨皮 柴胡 牡丹皮 .txt
+E:\pre_enrich\清热剂\清骨散.txt
+E:\pre_enrich\清热剂\灵宝丹,银柴胡 麦门冬 柴胡 茯神 黄芩 知母 人参 剑叶耳草 脓见愁 .txt
+E:\pre_enrich\清热剂\灵应饮,银柴胡 麦门冬 柴胡 茯神 黄芩 知母 人参 剑叶耳草 脓见愁 .txt
+E:\pre_enrich\清热剂\牙痛汤,石膏 玄参 薄荷 细辛 升麻 地骨皮 黄连 大黄 川牛膝 豨莶 .txt
+E:\pre_enrich\清热剂\牡蛎散,厚朴 牡蛎 白术 骨碎补 生姜 .txt
+E:\pre_enrich\清热剂\牡蛎散,牡蛎 麻黄根 梅花冰片 赤石脂 .txt
+E:\pre_enrich\清热剂\牡蛎粉,牡蛎 .txt
+E:\pre_enrich\清热剂\犀角地黄汤.txt
+E:\pre_enrich\清热剂\独圣散,桑叶 .txt
+E:\pre_enrich\清热剂\独神饮,艾叶 .txt
+E:\pre_enrich\清热剂\独蒜通便方,艾叶 .txt
+E:\pre_enrich\清热剂\猪肺丸,梨 莱菔 猪肺 .txt
+E:\pre_enrich\清热剂\猪胆套药方,猪胆 黄连 青黛 薄荷 白僵蚕 白矾 玄明粉 .txt
+E:\pre_enrich\清热剂\猪胰蛇蜗散,猪胰 水蛇 蜗牛 地龙 .txt
+E:\pre_enrich\清热剂\玉壶丸,硫黄 消石 滑石 白矾 .txt
+E:\pre_enrich\清热剂\玉壶丹,绿豆 硫黄 消石 .txt
+E:\pre_enrich\清热剂\玉女煎.txt
+E:\pre_enrich\清热剂\玉竹膏,玉 玉竹 .txt
+E:\pre_enrich\清热剂\玉钥匙散,白僵蚕 梅花冰片 硼砂 .txt
+E:\pre_enrich\清热剂\理中去术加附子藿香升麻橘皮汤,附子 升麻 干姜 藿香 甘草 人参 山海螺 .txt
+E:\pre_enrich\清热剂\甘露散,天南星 白僵蚕 .txt
+E:\pre_enrich\清热剂\生地黄散,黄芩 阿胶 侧柏叶 铅丹 川芎 .txt
+E:\pre_enrich\清热剂\生地黄汤,丹参 荷叶 郁金 三七 牛膝 白芍 大山玄参 峨参 .txt
+E:\pre_enrich\清热剂\生地黄汤,阿胶 川芎 栀子 桔梗 蒲黄 牡丹皮 甘草 白芍 山海螺 鲜地黄 .txt
+E:\pre_enrich\清热剂\生地黄饮,地骨皮 枸杞子 熟地黄 .txt
+E:\pre_enrich\清热剂\生肌散,地骨皮 川芎 当归 荆芥 甘草 人参 白芍 .txt
+E:\pre_enrich\清热剂\生葛饮子,阿胶 川芎 栀子 桔梗 蒲黄 牡丹皮 甘草 白芍 山海螺 鲜地黄 .txt
+E:\pre_enrich\清热剂\白头翁加甘草阿胶汤.txt
+E:\pre_enrich\清热剂\白头翁汤,白头翁 黄连 黄柏 山海螺 .txt
+E:\pre_enrich\清热剂\白头翁汤.txt
+E:\pre_enrich\清热剂\白胶散,枫香脂 山海螺 .txt
+E:\pre_enrich\清热剂\白花散,龙骨 .txt
+E:\pre_enrich\清热剂\白芷散,滑石 .txt
+E:\pre_enrich\清热剂\白虎加人参汤.txt
+E:\pre_enrich\清热剂\白虎加桂枝汤.txt
+E:\pre_enrich\清热剂\白虎加苍术汤.txt
+E:\pre_enrich\清热剂\白虎汤.txt
+E:\pre_enrich\清热剂\白蜜饮,蜂蜜 山海螺 .txt
+E:\pre_enrich\清热剂\白龙丸,滑石 .txt
+E:\pre_enrich\清热剂\白龙散,龙骨 .txt
+E:\pre_enrich\清热剂\白龙骨丸,龙骨 牡蛎 乌骨麻 鹿茸草 .txt
+E:\pre_enrich\清热剂\益气滋阴汤,川芎 当归 红花岩黄芪 丹参 黄精 金瓜 天花粉 .txt
+E:\pre_enrich\清热剂\盗汗正气汤,黄柏 知母 甘草 .txt
+E:\pre_enrich\清热剂\盗汗汤,当归 牡蛎 白芍 大山玄参 大枣 .txt
+E:\pre_enrich\清热剂\知母饮,知母 甘草 黄芩 人参 黄芩 栀子 茯苓 赤茯苓 知母 麦门冬 人参 甘草 天门冬 金丝梅 皮袋香 .txt
+E:\pre_enrich\清热剂\破棺丹,白梅 硼砂 .txt
+E:\pre_enrich\清热剂\碧玉散,青黛 蒲黄 薄荷 甘草 芒消 白僵蚕 .txt
+E:\pre_enrich\清热剂\神健散,半夏 川芎 当归 旋覆花 杏仁 枳壳 柴胡 桑白皮 桔梗 茯苓 泽泻 甘草 白术 白皮 人参 铅丹 .txt
+E:\pre_enrich\清热剂\神效肚痛丸,巴豆 杏仁 铅丹 蜂蜡 .txt
+E:\pre_enrich\清热剂\神效金珠丸,朱砂 金箔 地龙 柚 铅丹 .txt
+E:\pre_enrich\清热剂\神犀丹.txt
+E:\pre_enrich\清热剂\神犀丹（解毒清心丸）,天花粉 忍冬藤 板蓝根 水牛角 连翘 淡豆豉 玄参 黄芩 石菖蒲 紫草 山海螺 .txt
+E:\pre_enrich\清热剂\神验白散,白附子 附子 半夏 干姜 天南星 皂荚 皂荚子 .txt
+E:\pre_enrich\清热剂\禹余粮丸,禹余粮 赤石脂 干姜 麦门冬 .txt
+E:\pre_enrich\清热剂\秘传加减调中汤,半夏 厚朴 木香 枳壳 苍术 茯苓 甘草 砂仁 山海螺 .txt
+E:\pre_enrich\清热剂\秘传加味四物汤,川芎 当归 熟地黄 黄柏 白术 知母 人参 白芍 鲜地黄 干地黄 .txt
+E:\pre_enrich\清热剂\秦艽鳖甲散.txt
+E:\pre_enrich\清热剂\立效散,侧柏叶 .txt
+E:\pre_enrich\清热剂\立止吐血散,血余 蒲黄 .txt
+E:\pre_enrich\清热剂\立消散,生姜 .txt
+E:\pre_enrich\清热剂\竹叶石膏汤.txt
+E:\pre_enrich\清热剂\竹茹醋,竹茹 徐长卿 芜菁 .txt
+E:\pre_enrich\清热剂\米莲散,莲子心 莲子 糯米 .txt
+E:\pre_enrich\清热剂\糖尿康,太子参 丹参 黄精 山药 木瓜 水蛭 猪苓 红花岩黄芪 .txt
+E:\pre_enrich\清热剂\红花散,红花 厚朴 诃子 .txt
+E:\pre_enrich\清热剂\绿云散,冰 青黛 消石 硼砂 寒水石 雅丽千金藤 北豆根 .txt
+E:\pre_enrich\清热剂\绿云散,阿胶 百合 人参 侧柏叶 .txt
+E:\pre_enrich\清热剂\羚羊角汤,大蓟 羚羊角 伏龙肝 地榆 牛膝 白芍 阿胶 侧柏叶 蛴螬 羚羊角 藿香 铅丹 .txt
+E:\pre_enrich\清热剂\肺痈饮,绿矾 朴消 铜绿 轻粉 金果榄 长叶柄野扇花 .txt
+E:\pre_enrich\清热剂\胡黄连散,胡黄连 黄连 山海螺 鲜地黄 .txt
+E:\pre_enrich\清热剂\腹痛丹,附子 乌药 乳香 胡椒 干姜 木香 枳壳 草果 五灵脂 吴茱萸 山海螺 .txt
+E:\pre_enrich\清热剂\艾灰散,艾叶 .txt
+E:\pre_enrich\清热剂\芍药汤.txt
+E:\pre_enrich\清热剂\芥饮子,芜菁 芥菜 .txt
+E:\pre_enrich\清热剂\芦荟散,芦荟 朱砂 丁香 麝香 牛黄 蟾酥 甜瓜蒂 熊胆 细辛 芒消 角蒿 羊蹄 蜗牛 白矾 铅丹 .txt
+E:\pre_enrich\清热剂\芩芍汤,黄芩 白芍 甘草 .txt
+E:\pre_enrich\清热剂\苓桂柴胡汤,茯苓 甘草 牡丹皮 桂枝 白芍 柴胡 半夏 茯苓 甘草 半夏 .txt
+E:\pre_enrich\清热剂\苦参酿酒,马蔺 鸡冠花 柳枝 甘草 生姜 白茅根 .txt
+E:\pre_enrich\清热剂\茅根散,马蔺 鸡冠花 柳枝 甘草 生姜 白茅根 .txt
+E:\pre_enrich\清热剂\茅根汤,当归 黄芩 山海螺 鲜地黄 .txt
+E:\pre_enrich\清热剂\茅花汤,玄参 甘草 百草霜 铅丹 当归 .txt
+E:\pre_enrich\清热剂\茅花汤,防风 荆芥 牛蒡子 甘草 生姜 白茅花 .txt
+E:\pre_enrich\清热剂\茯苓丸,茯苓 茯苓 猪苓 .txt
+E:\pre_enrich\清热剂\茯苓利膈汤,桔梗 茯苓 荆芥 牛蒡子 甘草 .txt
+E:\pre_enrich\清热剂\茯苓甘草五味姜辛汤,荆芥 茯苓 牛蒡子 桔梗 甘草 .txt
+E:\pre_enrich\清热剂\茯苓茱萸丸,吴茱萸 茯苓 黄连 芜菁 荸荠 .txt
+E:\pre_enrich\清热剂\茶糕,吴茱萸 茯苓 黄连 芜菁 荸荠 .txt
+E:\pre_enrich\清热剂\莲枣麦豆汤,莲子 大枣 浮小麦 .txt
+E:\pre_enrich\清热剂\菟丝散,干地黄 菟丝子 五味子 .txt
+E:\pre_enrich\清热剂\蒜浆饮,大蒜 .txt
+E:\pre_enrich\清热剂\蒲根汤,粟米 .txt
+E:\pre_enrich\清热剂\薏苡仁汤,厚朴 麦门冬 茯苓 薏苡仁 熟地黄 甘草 白术 肉桂 骨碎补 .txt
+E:\pre_enrich\清热剂\藕汁散,干地黄 茯苓 蒲黄 .txt
+E:\pre_enrich\清热剂\藕汁饮子,牛蒡根 蜂蜜 山海螺 .txt
+E:\pre_enrich\清热剂\蛤粉散,鹿角胶 枫香脂 .txt
+E:\pre_enrich\清热剂\蟾矾散,胆矾 .txt
+E:\pre_enrich\清热剂\补益降糖丸,枸杞子 人参 山茱萸 红花岩黄芪 .txt
+E:\pre_enrich\清热剂\解肌汤,荆芥 麻黄 苍术 羌活 甘草 .txt
+E:\pre_enrich\清热剂\解郁汤,地骨皮 柴胡 黄芩 白芍 黄连 熟地黄 .txt
+E:\pre_enrich\清热剂\调荣清热饮,青蒿 牡丹皮 地骨皮 当归 鳖甲 白术 知母 人参 柴胡 白术 当归 食盐 蜂蜜 .txt
+E:\pre_enrich\清热剂\通幽润燥汤,升麻 大黄 当归 枳壳 桃仁 火麻仁 红花 .txt
+E:\pre_enrich\清热剂\通肠散,枳壳 当归 大黄 黑芝麻 牛膝 .txt
+E:\pre_enrich\清热剂\通脉泻热泽泻散,侧柏叶 百合 人参 阿胶 .txt
+E:\pre_enrich\清热剂\金樱酒,金樱子 .txt
+E:\pre_enrich\清热剂\金消丸,荆芥 黄柏 黄芩 射干 .txt
+E:\pre_enrich\清热剂\金粉汤,干地黄 蒲黄 .txt
+E:\pre_enrich\清热剂\金蝉丸,蒲黄 干地黄 .txt
+E:\pre_enrich\清热剂\金锁丹,山茱萸 荭草 .txt
+E:\pre_enrich\清热剂\金鼠矢,荆芥 黄柏 黄芩 射干 .txt
+E:\pre_enrich\清热剂\针砂酒,穿山甲 针砂 .txt
+E:\pre_enrich\清热剂\铅霜散,铅 柿霜 硼砂 铅粉 铅霜 .txt
+E:\pre_enrich\清热剂\防风散,川芎 人参 防风 .txt
+E:\pre_enrich\清热剂\防风散,防风 龙胆 鲜地黄 沉香 升麻 防风 干地黄 .txt
+E:\pre_enrich\清热剂\降糖丸,大黄 黄精 茯苓 葛根 甘草 白术 五味子 黄连 丹参 荡皮参 .txt
+E:\pre_enrich\清热剂\雀屎丸,乌梅 常山 淡豆豉 知母 朱砂 蜀漆 大黄 .txt
+E:\pre_enrich\清热剂\雌黄丸,马兜铃 雌黄 甘草 铅丹 地龙 .txt
+E:\pre_enrich\清热剂\雪煎,麻黄 杏仁 大黄 .txt
+E:\pre_enrich\清热剂\霜梅,半夏 食盐 桔梗 天南星 甘草 朴消 防风 白矾 雪里见 乌梅 .txt
+E:\pre_enrich\清热剂\青蒿鳖甲汤.txt
+E:\pre_enrich\清热剂\青衿散,青黛 薄荷 .txt
+E:\pre_enrich\清热剂\青黄散,青黛 蒲黄 .txt
+E:\pre_enrich\清热剂\青黛散,地骨皮 青黛 黄柏 细辛 密陀僧 .txt
+E:\pre_enrich\清热剂\青黛散,青黛 硼砂 梅花冰片 .txt
+E:\pre_enrich\清热剂\青龙散,麻黄 .txt
+E:\pre_enrich\清热剂\青龙白虎汤,青黛 细辛 黄柏 地骨皮 密陀僧 .txt
+E:\pre_enrich\清热剂\香枳汤  ,枳壳 防风 槟榔 甘草 甘草 防风 .txt
+E:\pre_enrich\清热剂\香草汤,莎草 甘草 香附 鲩鱼 .txt
+E:\pre_enrich\清热剂\香薷缩脾饮,砂仁 草果 乌梅 香薷 甘草 白扁豆 骨碎补 葛根 .txt
+E:\pre_enrich\清热剂\香连丸,肉豆蔻 木香 甘草 黄连 芜菁 酸模 .txt
+E:\pre_enrich\清热剂\香连丸,黄连 木香 山楂 厚朴 青皮 小青 甘草 白芍 枳壳 槟榔 当归 红花 大黄 黄芩 地榆 桃仁 橘红 山海螺 骨碎补 .txt
+E:\pre_enrich\清热剂\魏莪散,半夏 食盐 桔梗 天南星 甘草 朴消 防风 白矾 白矾 雪里见 乌梅 .txt
+E:\pre_enrich\清热剂\鱼胆破关散,绿矾 朴消 铜绿 轻粉 金果榄 长叶柄野扇花 .txt
+E:\pre_enrich\清热剂\鹿角胶丸,鹿角胶 黄柏 .txt
+E:\pre_enrich\清热剂\麝香散,麝香 甘草 母丁香 甜瓜蒂 胆矾 虾蟆 .txt
+E:\pre_enrich\清热剂\麻黄桂枝汤,麻黄 桂枝 葛根 白芍 甘草 .txt
+E:\pre_enrich\清热剂\黄丹膏,铅丹 .txt
+E:\pre_enrich\清热剂\黄土汤,阿胶 伏龙肝 干姜 当归 白芍 白芷 甘草 细辛 鲜地黄 吴茱萸 白芷 肉桂 .txt
+E:\pre_enrich\清热剂\黄耆散,木通 葛根 .txt
+E:\pre_enrich\清热剂\黄芩丸,黄芩 蟾酥 黄芩 五倍子 .txt
+E:\pre_enrich\清热剂\黄芩汤.txt
+E:\pre_enrich\清热剂\黄芪鳖甲散.txt
+E:\pre_enrich\清热剂\黄药散,黄明胶 白及 白蔹 .txt
+E:\pre_enrich\清热剂\黄连石膏汤,石膏 黄芩 甘草 知母 黄连 .txt
+E:\pre_enrich\清热剂\黄连解毒汤.txt
+E:\pre_enrich\清热剂\黄金丸,橘 葶苈子 半夏 干姜 大黄 大枣 青皮 .txt
+E:\pre_enrich\清热剂\黄龙丸,半夏 甘草 .txt
+E:\pre_enrich\清热剂\黑神散,栝楼 玄参 .txt
+E:\pre_enrich\清热剂\龙胆泻肝汤.txt
+E:\pre_enrich\清热剂\龙脑丸,梅花冰片 白芍 鹿梨 .txt
+E:\pre_enrich\清热剂\龙脑饮,梅花冰片 白芍 鹿梨 .txt
+E:\pre_enrich\温里剂\一赤八乌丸,大血藤 栀子 .txt
+E:\pre_enrich\温里剂\丁皮丸,丁香 橘 槟榔 铁牛钻石 麝香 莪术 山海螺 土木香 .txt
+E:\pre_enrich\温里剂\丁香二陈汤,茯苓 半夏 甘草 藿香 丁香 山海螺 .txt
+E:\pre_enrich\温里剂\七灰散,罂粟 罂粟壳 母草 蟹 蟹壳 益母草 喜树 墨旱莲 .txt
+E:\pre_enrich\温里剂\三灰散,棕榈皮 榠樝 .txt
+E:\pre_enrich\温里剂\乌头汤.txt
+E:\pre_enrich\温里剂\乌纱帽散,香附 当归 荷叶 赤芍 棕榈皮 .txt
+E:\pre_enrich\温里剂\乌金散,槐花 山海螺 棕榈皮 .txt
+E:\pre_enrich\温里剂\二圣汤,甘草 何首乌 .txt
+E:\pre_enrich\温里剂\二槲散,槲叶 .txt
+E:\pre_enrich\温里剂\二气散,墨 栀子 蒲黄 血竭 百草霜 棕榈皮 莲房 .txt
+E:\pre_enrich\温里剂\五倍散,五倍子 .txt
+E:\pre_enrich\温里剂\五汁饮,荸荠 甘蔗 竹沥 骨碎补 生姜 .txt
+E:\pre_enrich\温里剂\交合汤,人参 熟地黄 黄连 肉桂 人参 .txt
+E:\pre_enrich\温里剂\人参饮,橘 生姜 人参 .txt
+E:\pre_enrich\温里剂\养胃汤.txt
+E:\pre_enrich\温里剂\加味佛手散,蒲黄 佛手柑 .txt
+E:\pre_enrich\温里剂\十全大补汤,人参 白术 白芍 当归 阿胶 杜仲 干姜 熟地黄 甘草 虾蟆 蛤壳 .txt
+E:\pre_enrich\温里剂\千金散,食盐 藜 .txt
+E:\pre_enrich\温里剂\参附汤.txt
+E:\pre_enrich\温里剂\吴茱萸汤.txt
+E:\pre_enrich\温里剂\咳逆丸,花椒 .txt
+E:\pre_enrich\温里剂\四逆加人参汤.txt
+E:\pre_enrich\温里剂\四逆汤.txt
+E:\pre_enrich\温里剂\回阳救急汤.txt
+E:\pre_enrich\温里剂\地黄龙牡榴梅散,龙骨 牡蛎 百草霜 阿胶 阿胶 乌梅 石榴皮 墨 蒲黄 山海螺 .txt
+E:\pre_enrich\温里剂\大建中汤.txt
+E:\pre_enrich\温里剂\天门冬酒,五加皮 糯米 天门冬 鲜地黄 饴糖 鲃鱼 .txt
+E:\pre_enrich\温里剂\安神丸,朱砂 当归 .txt
+E:\pre_enrich\温里剂\宣中降逆汤,刀豆 半夏 旋覆花 枇杷 枇杷叶 沉香 代赭石 .txt
+E:\pre_enrich\温里剂\小半夏茯苓汤,半夏 茯苓 黄芩 甘草 山海螺 .txt
+E:\pre_enrich\温里剂\小建中汤.txt
+E:\pre_enrich\温里剂\当归四逆加吴茱萸生姜汤.txt
+E:\pre_enrich\温里剂\当归四逆汤,当归 桂枝 葱白 白芍 通草 酒 当归 白芍 甘草 山海螺 乌藨连 .txt
+E:\pre_enrich\温里剂\当归四逆汤.txt
+E:\pre_enrich\温里剂\当归建中汤.txt
+E:\pre_enrich\温里剂\当归散,附子 香附 当归 龙骨 棕榈皮 .txt
+E:\pre_enrich\温里剂\当归散,香附 当归 白芍 棕榈皮 .txt
+E:\pre_enrich\温里剂\拈痛散,防风 全蝎 吴茱萸 天麻 乳香 羌活 肉桂 当归 葛根 独活 麻黄 白术 细辛 大高良姜 川乌头 .txt
+E:\pre_enrich\温里剂\木瓜紫苏散,木瓜 大腹皮 茯苓 甘草 木香 羌活 山海螺 .txt
+E:\pre_enrich\温里剂\木耳散,木耳 莲房 山海螺 棕榈皮 .txt
+E:\pre_enrich\温里剂\木香分气丸,姜黄 砂仁 白附子 白豆蔻 木香 丁香 甘草 .txt
+E:\pre_enrich\温里剂\木香白术散,木瓜 大腹皮 茯苓 甘草 木香 羌活 山海螺 .txt
+E:\pre_enrich\温里剂\术附汤.txt
+E:\pre_enrich\温里剂\枳桔二陈汤,半夏 杏仁 枳壳 桔梗 茯苓 甘草 生姜 山海螺 酥 .txt
+E:\pre_enrich\温里剂\柏莲汤,半夏 丹参 柏子仁 茯苓 莲子心 莲子 玄参 人参 大枣 酸枣仁 .txt
+E:\pre_enrich\温里剂\柿蒂酒,柿蒂 .txt
+E:\pre_enrich\温里剂\柿蒂饮,柿蒂 .txt
+E:\pre_enrich\温里剂\桂枝人参汤.txt
+E:\pre_enrich\温里剂\桂枝姜苓牡蛎汤,干姜 桂枝 茯苓 牡蛎 甘草 铅丹 荸荠 .txt
+E:\pre_enrich\温里剂\桂枝芍药知母汤.txt
+E:\pre_enrich\温里剂\槐花散,槐花 百草霜 山海螺 .txt
+E:\pre_enrich\温里剂\槟榔橘红散,槟榔 橘红 .txt
+E:\pre_enrich\温里剂\活络饮,苍术 当归 川芎 白芍 半夏 天南星 桑寄生 秦艽 骨碎补 生姜 .txt
+E:\pre_enrich\温里剂\独参汤.txt
+E:\pre_enrich\温里剂\猪肚羹,猪肚 人参 生姜 芦根 橘 山海螺 .txt
+E:\pre_enrich\温里剂\玉芝散,附子 香附 代赭石 .txt
+E:\pre_enrich\温里剂\理中丸.txt
+E:\pre_enrich\温里剂\理中化痰丸.txt
+E:\pre_enrich\温里剂\琥珀养心汤,当归 茯神 远志 琥珀 石菖蒲 人参 大枣 龙眼肉 .txt
+E:\pre_enrich\温里剂\甘草干姜汤.txt
+E:\pre_enrich\温里剂\生半夏丸,半夏 槟榔 丁香 .txt
+E:\pre_enrich\温里剂\白术散,橘 白术 人参 桑根 白皮 半夏 山海螺 桑白皮 .txt
+E:\pre_enrich\温里剂\白通汤.txt
+E:\pre_enrich\温里剂\益母汤,黄芩 甘草 熟地黄 香附 阿胶 益母草 白术 蒲黄 甘草 黄芩 山海螺 .txt
+E:\pre_enrich\温里剂\益荣煎,党参 白芍 酸枣仁 柏子仁 茯神 远志 甘草 木香 紫石英 当归 .txt
+E:\pre_enrich\温里剂\立效汤,益母草 当归 知母 川芎 三七 山海螺 .txt
+E:\pre_enrich\温里剂\竹茹汤,半夏 藿香 甘草 竹茹 山海螺 葛根 .txt
+E:\pre_enrich\温里剂\紫矿散,紫草茸 .txt
+E:\pre_enrich\温里剂\紫粉丸,针砂 醋 荭草 .txt
+E:\pre_enrich\温里剂\经验散,附子 香附 代赭石 .txt
+E:\pre_enrich\温里剂\聚宝丹,葡萄 羚羊角 酸枣仁 天门冬 赤茯苓 防风 独活 火麻仁 五加皮 牛膝 芦根 肉桂 .txt
+E:\pre_enrich\温里剂\胡桃丸,胡桃仁 杜仲 桃仁 木蝴蝶 补骨脂 .txt
+E:\pre_enrich\温里剂\胡椒丸,半夏 胡椒 丁香 .txt
+E:\pre_enrich\温里剂\胶艾四物汤,阿胶 地榆 川芎 当归 栀子 艾叶 蒲黄 醋 黄芩 甘草 白术 白芍 黄连 虾蟆 蛤壳 .txt
+E:\pre_enrich\温里剂\舒肝藏血汤,当归 香附 荆芥 白芍 白术 甘草 白芥子 荆芥 三七 山海螺 .txt
+E:\pre_enrich\温里剂\茱萸陈皮丸,苍术 吴茱萸 山海螺 .txt
+E:\pre_enrich\温里剂\莲壳散,附子 香附 棕榈皮 莲房 .txt
+E:\pre_enrich\温里剂\菖蒲散,石菖蒲 丁香 人参 木香 檀香 山大刀 芦根 .txt
+E:\pre_enrich\温里剂\菖蒲散,茯苓 石菖蒲 远志 蒲黄 龙骨 .txt
+E:\pre_enrich\温里剂\蔷薇散煎,蔷薇根 .txt
+E:\pre_enrich\温里剂\藿香散,藿香 半夏 茯苓 生姜 丁香 藿香 半夏 山海螺 .txt
+E:\pre_enrich\温里剂\调中益气丹,山药 甘草 人参 当归 茯神 远志 酸枣仁 朱砂 白术 牡蛎 麦门冬 黄连 枳实 半夏 山海螺 .txt
+E:\pre_enrich\温里剂\通脉四逆汤.txt
+E:\pre_enrich\温里剂\酸枣仁酒,葡萄 羚羊角 酸枣仁 天门冬 赤茯苓 防风 独活 火麻仁 五加皮 牛膝 芦根 肉桂 .txt
+E:\pre_enrich\温里剂\金凤膏,金樱子 慈乌 .txt
+E:\pre_enrich\温里剂\金花散,金樱子 慈乌 .txt
+E:\pre_enrich\温里剂\镇逆汤,代赭石 竹茹 枇杷叶 .txt
+E:\pre_enrich\温里剂\附子理中汤.txt
+E:\pre_enrich\温里剂\黄芪建中汤.txt
+E:\pre_enrich\温里剂\黄芪桂枝五物汤.txt
+E:\pre_enrich\温里剂\黑蒲黄散,阿胶 地榆 香附 川芎 当归 荆芥 蒲黄 血余 醋 白芍 铅丹 棕榈皮 .txt
+E:\pre_enrich\温里剂\黑锡丹.txt
+E:\pre_enrich\温里剂\黑风羚羊饮,阿胶 地榆 香附 川芎 当归 荆芥 蒲黄 血余 醋 白芍 铅丹 棕榈皮 .txt
+E:\pre_enrich\理气剂\丁香柿蒂汤.txt
+E:\pre_enrich\理气剂\七疝散,小茴香 川楝子 桃仁 斑蝥 食盐 .txt
+E:\pre_enrich\理气剂\三层茴香丸.txt
+E:\pre_enrich\理气剂\三神散,八角茴香 荔枝核 橄榄核 小茴香 .txt
+E:\pre_enrich\理气剂\两和散,没药 远志 人参 丹参 鸡血藤 血竭 琥珀 石菖蒲 香附 茯神 .txt
+E:\pre_enrich\理气剂\五子内消丸,附子 山楂 香附 橘 橘核 花椒 黄柏 甘草 防风 附子 苍术 人参 大果巴戟 广防己 .txt
+E:\pre_enrich\理气剂\五子内消丸,附子 香附 山楂 橘 橘核 花椒 防风 川楝子 栀子 黄柏 苍术 茯苓 小茴香 沉香 人参 金丝梅 大果巴戟 .txt
+E:\pre_enrich\理气剂\五磨饮子.txt
+E:\pre_enrich\理气剂\五香丸,木香 沉香 降香 肉桂 檀香 .txt
+E:\pre_enrich\理气剂\保心煎,丹参 郁金 玉 麦饭石 玉竹 红花岩黄芪 .txt
+E:\pre_enrich\理气剂\健脾益心汤,白术 茯苓 半夏 太子参 丹参 茯苓 白术 赤芍 五味子 山海螺 .txt
+E:\pre_enrich\理气剂\八味疝气剂,桂枝 桃仁 延胡索 木通 大黄 川乌头 牡丹皮 牵牛子 .txt
+E:\pre_enrich\理气剂\八角茴香丸,吴茱萸 山楂 .txt
+E:\pre_enrich\理气剂\养心定志汤,太子参 茯神 石菖蒲 丹参 桂枝 麦门冬 川芎 茯苓 豨莶 .txt
+E:\pre_enrich\理气剂\冠心丹参片,铅丹 银紫丹参 .txt
+E:\pre_enrich\理气剂\冠心冲剂,丹参 决明子 大山玄参 .txt
+E:\pre_enrich\理气剂\冠心汤,降香 丹参 川芎 当归 桃仁 茯苓 赤芍 郁金 没药 栝楼 石蟾蜍 .txt
+E:\pre_enrich\理气剂\冠心灵,山楂 丹参 葛根 红花岩黄芪 .txt
+E:\pre_enrich\理气剂\冠心灵,川芎 栝楼 红花 细辛 .txt
+E:\pre_enrich\理气剂\冠脉舒,丹参 葛根 川芎 栝楼 茯苓 石蟾蜍 .txt
+E:\pre_enrich\理气剂\加味理中汤,人参 白术 干姜 甘草 丁香 生姜 附子 半夏 .txt
+E:\pre_enrich\理气剂\十二太保丸,肉苁蓉 川芎 母草 水蛭 葛根 血竭 西洋参 益母草 红花 雪莲花 慈乌 .txt
+E:\pre_enrich\理气剂\十香丸,沉香 檀香 槟榔 茯苓 枳壳 乌药 大腹皮 青皮 肉桂 .txt
+E:\pre_enrich\理气剂\升降散.txt
+E:\pre_enrich\理气剂\半夏厚朴汤.txt
+E:\pre_enrich\理气剂\厚朴温中汤.txt
+E:\pre_enrich\理气剂\参芪丹芍汤,党参 红花岩黄芪 丹参 赤芍 丹参 .txt
+E:\pre_enrich\理气剂\双仁丸,杏仁 桃仁 .txt
+E:\pre_enrich\理气剂\四参活血汤,附子 党参 苦参 玄参 红花岩黄芪 丹参 山楂 桃仁 降香 豨莶 .txt
+E:\pre_enrich\理气剂\四磨汤.txt
+E:\pre_enrich\理气剂\回春丸,吴茱萸 山楂 茯苓 白术 橘 荔枝核 枳实 八角茴香 橘核 .txt
+E:\pre_enrich\理气剂\土瓜根散,干姜 人参 半夏 .txt
+E:\pre_enrich\理气剂\大三棱煎丸,小茴香 小茴香 吴茱萸 川楝子 花椒 .txt
+E:\pre_enrich\理气剂\大小茴香丸,小茴香 小茴香 吴茱萸 川楝子 花椒 .txt
+E:\pre_enrich\理气剂\天台乌药散.txt
+E:\pre_enrich\理气剂\奔豚汤.txt
+E:\pre_enrich\理气剂\如神散,青皮 香附 急性子 木通 槟榔 赤芍 泽泻 猪苓 红花 大腹皮 肉桂 .txt
+E:\pre_enrich\理气剂\定喘汤.txt
+E:\pre_enrich\理气剂\导气丸,附子 半夏 木香 茯苓 赤茯苓 白附子 紫苏叶 金狮藤 鼻血雷 .txt
+E:\pre_enrich\理气剂\导气汤.txt
+E:\pre_enrich\理气剂\小建中汤,干姜 甘草 山海螺 肉桂 .txt
+E:\pre_enrich\理气剂\山苍子汤,附子 党参 山楂 丹参 桂枝 茯苓 泽泻 淫羊藿 慈乌 枸杞子 .txt
+E:\pre_enrich\理气剂\干姜人参半夏丸,干姜 人参 半夏 .txt
+E:\pre_enrich\理气剂\干姜人参半夏丸.txt
+E:\pre_enrich\理气剂\延胡索散.txt
+E:\pre_enrich\理气剂\开郁导气汤,香附 川芎 干姜 栀子 苍术 茯苓 滑石 甘草 白芷 神曲 山海螺 .txt
+E:\pre_enrich\理气剂\当归养血膏,五味子 丹参 川芎 莪术 红花 莪术 红花岩黄芪 .txt
+E:\pre_enrich\理气剂\心复康胶囊,山楂 白芍 丹参 荡皮参 .txt
+E:\pre_enrich\理气剂\扶脾益胃汤,党参 半夏 厚朴 枳壳 甘草 白术 白豆蔻 白芍 大枣 骨碎补 .txt
+E:\pre_enrich\理气剂\新制橘皮竹茹汤.txt
+E:\pre_enrich\理气剂\旋复代赭汤.txt
+E:\pre_enrich\理气剂\昆仑丸,吴茱萸 小茴香 橘核 川楝子 香附 吴茱萸 山楂 枳实 苍术 砂仁 青皮 槟榔 花椒 木香 肉桂 食盐 山海螺 .txt
+E:\pre_enrich\理气剂\暖肝煎.txt
+E:\pre_enrich\理气剂\木瓜分气丸,木瓜 橘 姜黄 黑牵牛 莪术 莱菔子 山海螺 莱菔 .txt
+E:\pre_enrich\理气剂\木香内消丸,酒 木香 三棱 泽泻 海藻 猪苓 小茴香 青皮 川楝子 香附 山海螺 .txt
+E:\pre_enrich\理气剂\木香利膈丸,木香 青皮 川楝子 木香 三棱 泽泻 海藻 猪苓 小茴香 香附 山海螺 .txt
+E:\pre_enrich\理气剂\木香散,丽江青木香 青皮 .txt
+E:\pre_enrich\理气剂\木香散,桃仁 .txt
+E:\pre_enrich\理气剂\木香顺气散.txt
+E:\pre_enrich\理气剂\枳实汤,厚朴 枳实 栝楼 生姜 .txt
+E:\pre_enrich\理气剂\枳实汤,厚朴 枳实 生姜 .txt
+E:\pre_enrich\理气剂\枳实薤白桂枝汤.txt
+E:\pre_enrich\理气剂\柴胡退热止咳冲剂,大枣 石膏 鱼腥草 杏仁 柴胡 葛根 连翘 麻黄 黄芩 甘草 .txt
+E:\pre_enrich\理气剂\柿蒂丁香饮,干姜 人参 甘草 白术 丁香 柿蒂 .txt
+E:\pre_enrich\理气剂\柿蒂汤.txt
+E:\pre_enrich\理气剂\桃仁汤,藜 桃仁 吴茱萸 海藻 生姜 茯苓 羌活 橘 桃仁 刺蒺藜 紫云英子 .txt
+E:\pre_enrich\理气剂\橘核丸.txt
+E:\pre_enrich\理气剂\橘核汤,青皮 川楝子 干姜 木香 橘 橘核 吴茱萸 大高良姜 .txt
+E:\pre_enrich\理气剂\橘皮竹茹汤.txt
+E:\pre_enrich\理气剂\沙参丸,昆布 沙参 玄参 小茴香 .txt
+E:\pre_enrich\理气剂\济阳丸,人参 鹿茸 紫河车 五味子 酸枣仁 远志 巴戟天 肉桂 白术 菟丝子 半夏 砂仁 黄连 神曲 .txt
+E:\pre_enrich\理气剂\消食饭灰,山楂 青皮 鸡内金 麦芽 木香 枳实 槟榔 砂仁 神曲 山海螺 牵牛子 .txt
+E:\pre_enrich\理气剂\火坠散,金狮藤 丽江青木香 .txt
+E:\pre_enrich\理气剂\烧绵丸,马蔺花 马蔺 川楝子 橘 八角茴香 青皮 .txt
+E:\pre_enrich\理气剂\煮药方,吴茱萸 山茱萸 葱白 蛇床子 牡蛎 芜菁 花椒 .txt
+E:\pre_enrich\理气剂\独圣散,香橼 .txt
+E:\pre_enrich\理气剂\玉抱肚,甘松 白芷 川乌头 花椒 小茴香 补骨脂 大高良姜 马蔺花 干姜 吴茱萸 川楝子 海藻 铁牛钻石 乳香 没药 兰花参 .txt
+E:\pre_enrich\理气剂\瓜蒌薤白半夏汤.txt
+E:\pre_enrich\理气剂\瓜蒌薤白汤.txt
+E:\pre_enrich\理气剂\瓜蒌薤白白酒汤.txt
+E:\pre_enrich\理气剂\疝气神方,荔枝 荔枝核 硫黄 山海螺 .txt
+E:\pre_enrich\理气剂\益气活血汤（高濯风）,西洋参 红花岩黄芪 丹参 川芎 红花 威灵仙 降香 甘草 三七 .txt
+E:\pre_enrich\理气剂\益气通脉汤,当归 当归 丹参 赤芍 香附 赤芍 川芎 香附 当归 葛根 郁金 .txt
+E:\pre_enrich\理气剂\石龙芮汤,甘松 白芷 川乌头 花椒 小茴香 补骨脂 大高良姜 马蔺花 干姜 吴茱萸 川楝子 海藻 铁牛钻石 乳香 没药 兰花参 .txt
+E:\pre_enrich\理气剂\神效肚痛丸,巴豆 杏仁 铅丹 蜂蜡 .txt
+E:\pre_enrich\理气剂\秘传加减调中汤,半夏 厚朴 木香 枳壳 苍术 茯苓 甘草 砂仁 山海螺 .txt
+E:\pre_enrich\理气剂\立消散,生姜 .txt
+E:\pre_enrich\理气剂\立消斗大疝气方,沉香 苏木 四楞蒿 天南星 .txt
+E:\pre_enrich\理气剂\缩砂汤,白术 甘草 炮姜 厚朴 槟榔 山海螺 .txt
+E:\pre_enrich\理气剂\腹痛丹,附子 乌药 乳香 胡椒 干姜 木香 枳壳 草果 五灵脂 吴茱萸 山海螺 .txt
+E:\pre_enrich\理气剂\良附丸.txt
+E:\pre_enrich\理气剂\苏子降气汤.txt
+E:\pre_enrich\理气剂\茵术汤,茵陈蒿 苍术 莪术 鸡血藤 .txt
+E:\pre_enrich\理气剂\诃黎勒汤,杏仁 麻黄 甘草 五味子 诃子 .txt
+E:\pre_enrich\理气剂\越鞠丸.txt
+E:\pre_enrich\理气剂\通关汤,吴茱萸 铁牛钻石 土木香 .txt
+E:\pre_enrich\理气剂\通冠生脉饮,五味子 丹参 川芎 莪术 红花 丹参 红花岩黄芪 .txt
+E:\pre_enrich\理气剂\邓山房感应丸,木香 金狮藤 鼻血雷 .txt
+E:\pre_enrich\理气剂\金铃子散.txt
+E:\pre_enrich\理气剂\银杏口服液,杏叶 白果 白果叶 .txt
+E:\pre_enrich\理气剂\雪莲通脉丸,肉苁蓉 川芎 母草 水蛭 葛根 血竭 西洋参 益母草 红花 雪莲花 慈乌 .txt
+E:\pre_enrich\理气剂\马兜铃散,马兜铃 木香 川楝子 .txt
+E:\pre_enrich\理气剂\麝香散,麝香 牛黄 .txt
+E:\pre_enrich\理血剂\一粒金丹,栝楼 栝楼子 .txt
+E:\pre_enrich\理血剂\七厘散,三七 红花 乌梅 孩儿茶 .txt
+E:\pre_enrich\理血剂\七厘散.txt
+E:\pre_enrich\理血剂\七汁饮,荷叶 墨 侧柏叶 .txt
+E:\pre_enrich\理血剂\七白膏,荷叶 墨 侧柏叶 .txt
+E:\pre_enrich\理血剂\万金丸,针砂 夜明砂 醋 绿矾 荭草 .txt
+E:\pre_enrich\理血剂\三厘抽筋散,马钱子 木鳖子 .txt
+E:\pre_enrich\理血剂\三反膏,甘草 木鳖子 甘遂 苋 鳖肉 硇砂 .txt
+E:\pre_enrich\理血剂\三味痛经膏,梅花冰片 五灵脂 郁金 梅花冰片 .txt
+E:\pre_enrich\理血剂\三黄独活汤,马钱子 木鳖子 .txt
+E:\pre_enrich\理血剂\三黑神奇饮,蒲黄 川芎 牡丹皮 川贝母 .txt
+E:\pre_enrich\理血剂\下瘀血汤.txt
+E:\pre_enrich\理血剂\不卧散,青黛 猪肉 .txt
+E:\pre_enrich\理血剂\东瓜皮散,冬瓜皮 牛皮 黄明胶 冬瓜 .txt
+E:\pre_enrich\理血剂\中白散,川芎 当归 木通 赤芍 郁金 牛膝 甘草梢 甘草 瞿麦 白芍 .txt
+E:\pre_enrich\理血剂\丹参饮.txt
+E:\pre_enrich\理血剂\乌梅散,乌梅 罂粟 罂粟壳 马鞭草 甘草 .txt
+E:\pre_enrich\理血剂\乌贝散,海螵蛸 川贝母 .txt
+E:\pre_enrich\理血剂\乌龙串,海螵蛸 川贝母 .txt
+E:\pre_enrich\理血剂\九仙丹,骨碎补 白及 白蔹 乳香 没药 血竭 孩儿茶 三七 .txt
+E:\pre_enrich\理血剂\九分散,乳香 马钱子 麻黄 .txt
+E:\pre_enrich\理血剂\九龙丹,山海螺 .txt
+E:\pre_enrich\理血剂\九龙丹,牛黄 梅花冰片 麝香 硼砂 朱砂 雄黄 消石 荜茇 金箔 .txt
+E:\pre_enrich\理血剂\乳香散,乳香 当归 血竭 酒 醋 没药 硼砂 骨碎补 蕨 .txt
+E:\pre_enrich\理血剂\二圣饮,黑大豆 皂荚 .txt
+E:\pre_enrich\理血剂\二母宁嗽颗粒,全蝎 地龙 川芎 桂枝 蜈蚣 甘草 铁棒锤 雪乌 .txt
+E:\pre_enrich\理血剂\云散,阿胶 百合 人参 侧柏叶 .txt
+E:\pre_enrich\理血剂\云雪散,蒲黄 .txt
+E:\pre_enrich\理血剂\五味冲剂,党参 甘草 白术 白芍 红花岩黄芪 .txt
+E:\pre_enrich\理血剂\五味麦冬汤,石灰 茜草 阿胶 天花粉 羊齿天冬 .txt
+E:\pre_enrich\理血剂\五灵散,乳香 川贝母 血竭 没药 海螵蛸 .txt
+E:\pre_enrich\理血剂\五通散,伏龙肝 巴豆 郁李仁 食盐 .txt
+E:\pre_enrich\理血剂\五香如圣丸,乳香 香叶 麝香 木香 沉香 藿香 橘 巴豆 山海螺 .txt
+E:\pre_enrich\理血剂\五香散,青黛 猪肉 .txt
+E:\pre_enrich\理血剂\交感丹,小茴香 苍术 食盐 花椒 .txt
+E:\pre_enrich\理血剂\人参八味汤,萹蓄 满江红 .txt
+E:\pre_enrich\理血剂\人参散,竹茹 人参 满江红 灯心草 .txt
+E:\pre_enrich\理血剂\人参阿胶饮,阿胶 生姜 糯米 人参 .txt
+E:\pre_enrich\理血剂\伏龙肝汤,干地黄 干姜 牛膝 阿胶 甘草 伏龙肝 .txt
+E:\pre_enrich\理血剂\伤丸,厚朴 山羊血 乳香 羊血 肉桂 自然铜 骨碎补 当归 木瓜 朱砂 杜仲 血竭 三七 牛膝 甜瓜 甜瓜子 红花 陆英 续断 .txt
+E:\pre_enrich\理血剂\伤药方,党参 地龙 乳香 当归 三七 铁棒锤 雪乌 .txt
+E:\pre_enrich\理血剂\保命丹,大黄 朱砂 血竭 麝香 牵牛子 .txt
+E:\pre_enrich\理血剂\保命丹,肉桂 青皮 香附 鹰骨 木香 枳实 柴胡 桃仁 苏木 莪术 蒲黄 三棱 甘草 红花 细辛 鹅毛 川乌头 铁棒锤 大黄 五灵脂 花椒 乌药 蚺蛇胆 露蜂房 雪乌 .txt
+E:\pre_enrich\理血剂\保婴丹,大黄 乌药 肉桂 青皮 香附 鹅毛 鹰骨 木香 枳实 柴胡 桃仁 苏木 莪术 蒲黄 蚺蛇胆 三七 三棱 甘草 红花 细辛 五灵脂 铁棒锤 雪乌 .txt
+E:\pre_enrich\理血剂\保婴丹,牵牛子 大黄 血竭 朱砂 麝香 .txt
+E:\pre_enrich\理血剂\保心煎,丹参 郁金 玉 麦饭石 玉竹 红花岩黄芪 .txt
+E:\pre_enrich\理血剂\健脾益心汤,白术 茯苓 半夏 太子参 丹参 茯苓 白术 赤芍 五味子 山海螺 .txt
+E:\pre_enrich\理血剂\健腰蠲痹汤,枳壳 甘草 藜 杜仲 山楂 穿山甲 威灵仙 五加皮 千年健 狗脊 续断 木瓜 卵叶寄生 徐长卿 寻骨风 鸡血藤 川牛膝 蜇虫 伸筋草 血竭 孩儿茶 陆英 青皮 枳壳 红花 刺蒺藜 山佩兰 .txt
+E:\pre_enrich\理血剂\健运汤,党参 乳香 当归 莪术 三棱 没药 知母 红花岩黄芪 .txt
+E:\pre_enrich\理血剂\全鹿丸,金樱子 菟丝 菟丝子 酒 牛乳 黄柏 秋石 车前子 五味子 .txt
+E:\pre_enrich\理血剂\八仙丹,乳香 没药 骨碎补 半夏 当归 硼砂 大黄 血竭 自然铜 无名异 .txt
+E:\pre_enrich\理血剂\八厘散,半夏 当归 蜇虫 甜瓜子 血竭 冷水花 山羊血 .txt
+E:\pre_enrich\理血剂\八厘散,半夏 甜瓜 甜瓜子 蜇虫 乳香 没药 血竭 当归 砂仁 雄黄 巴豆 .txt
+E:\pre_enrich\理血剂\八宝丹,荸荠 珍珠 滑石 炉甘石 硼砂 乳香 薄荷 .txt
+E:\pre_enrich\理血剂\八宝丹,龙骨 铅 铅粉 乳香 没药 血竭 轻粉 孩儿茶 梅花冰片 豨莶 珍珠 .txt
+E:\pre_enrich\理血剂\六味顺气散,茯苓 白术 人参 甘草 青皮 山海螺 .txt
+E:\pre_enrich\理血剂\养心定志汤,太子参 茯神 石菖蒲 丹参 桂枝 麦门冬 川芎 茯苓 豨莶 .txt
+E:\pre_enrich\理血剂\养筋活血丹,威灵仙 乌药 续断 羌活 青皮 香附 川芎 当归 木瓜 杜仲 枳壳 桂枝 赤芍 三七 甘草 秦艽 小茴香 五加皮 木蝴蝶 补骨脂 .txt
+E:\pre_enrich\理血剂\养血和血汤,当归 白芍 枸杞子 川芎 香附 甘草 .txt
+E:\pre_enrich\理血剂\军门方,厚朴 大黄 韭菜 当归 枳壳 桃仁 茜草 蒲黄 甘草 红花 山海螺 韭子 .txt
+E:\pre_enrich\理血剂\冠心丹参片,铅丹 银紫丹参 .txt
+E:\pre_enrich\理血剂\冠心二号.txt
+E:\pre_enrich\理血剂\冠心冲剂,丹参 决明子 大山玄参 .txt
+E:\pre_enrich\理血剂\冠心汤,降香 丹参 川芎 当归 桃仁 茯苓 赤芍 郁金 没药 栝楼 石蟾蜍 .txt
+E:\pre_enrich\理血剂\冠心灵,山楂 丹参 葛根 红花岩黄芪 .txt
+E:\pre_enrich\理血剂\冠脉舒,丹参 葛根 川芎 栝楼 茯苓 石蟾蜍 .txt
+E:\pre_enrich\理血剂\决明子散,决明子 .txt
+E:\pre_enrich\理血剂\决明散,决明子 .txt
+E:\pre_enrich\理血剂\刘氏跌打损伤膏,川芎 当归 赤芍 红花 乳香 没药 防风 羌活 肉桂 骨碎补 川牛膝 川芎 当归 杜仲 莪术 赤芍 三棱 牛膝 独活 白芷 秦艽 红花 五加皮 龙骨 血竭 刘寄奴 续断 大果巴戟 广防己 .txt
+E:\pre_enrich\理血剂\加减十全大补汤,党参 白术 茯苓 乌梅 当归 醋 白芍 豨莶 .txt
+E:\pre_enrich\理血剂\加减膈下逐瘀汤,胡椒 当归 赤芍 红花 枳壳 延胡索 五灵脂 牡丹皮 香附 益母草 枳壳 .txt
+E:\pre_enrich\理血剂\加味六味地黄丸,山海螺 天门冬 青蒿 鳖甲 麦门冬 山茱萸 山药 枇杷 枇杷叶 橘 橘红 牛膝 黄柏 五味子 茯苓 泽泻 牡丹皮 杜衡 .txt
+E:\pre_enrich\理血剂\加味四物汤,川芎 当归 栀子 荸荠 白芍 .txt
+E:\pre_enrich\理血剂\化瘀膏,铅 铅丹 威灵仙 干漆 沉香 蒲黄 藤黄 虻虫 血竭 赤芍 没药 麝香 露蜂房 荭草 .txt
+E:\pre_enrich\理血剂\十二太保丸,肉苁蓉 川芎 母草 水蛭 葛根 血竭 西洋参 益母草 红花 雪莲花 慈乌 .txt
+E:\pre_enrich\理血剂\十大功,藤黄 .txt
+E:\pre_enrich\理血剂\十汁饮,墨 韭菜 梨 竹沥 山海螺 鲜地黄 .txt
+E:\pre_enrich\理血剂\十灰散.txt
+E:\pre_enrich\理血剂\升降饮,韭菜 .txt
+E:\pre_enrich\理血剂\半夏丸,川乌头 铁棒锤 川芎 石膏 荆芥 鸢根 雪乌 .txt
+E:\pre_enrich\理血剂\半字散,川乌头 铁棒锤 川芎 石膏 荆芥 鸢根 雪乌 .txt
+E:\pre_enrich\理血剂\参地煎,党参 百草霜 .txt
+E:\pre_enrich\理血剂\双龙膏,独活 金银花 铅丹 .txt
+E:\pre_enrich\理血剂\发衣散,血余 .txt
+E:\pre_enrich\理血剂\变通逍遥散（戴慧芬）,当归 白芍 茯苓 香附 佛手柑 薄荷 柴胡 甘草 干姜 .txt
+E:\pre_enrich\理血剂\吐血丹,阿胶 杏仁 茯苓 甘草 天门冬 虾蟆 .txt
+E:\pre_enrich\理血剂\吐血散,蒲黄 血余 .txt
+E:\pre_enrich\理血剂\吐血猪肺汤,猪肺 .txt
+E:\pre_enrich\理血剂\吐血紫云膏,白果 紫草 茯苓 .txt
+E:\pre_enrich\理血剂\君臣散,姜黄 甘草 肉桂 红花 当归 赤芍 牡丹皮 乌药 桃仁 川牛膝 杜仲 川芎 骨碎补 续断 五加皮 防风 羌活 天花粉 樟柳头 .txt
+E:\pre_enrich\理血剂\和伤活血汤,乌药 三棱 五加皮 茜草 刘寄奴 红花 铁牛钻石 枳壳 莪术 桃仁 赤芍 当归 土木香 .txt
+E:\pre_enrich\理血剂\和伤活血汤,当归 苏木 红花 胡桃仁 .txt
+E:\pre_enrich\理血剂\和伤活血汤,百部 刘寄奴 骨碎补 苏木 乳香 甘草 没药 金银花 甘草 山佩兰 .txt
+E:\pre_enrich\理血剂\和营止痛汤,乌药 乳香 续断 川芎 木通 桃仁 苏木 赤芍 没药 甘草 山海螺 当归 .txt
+E:\pre_enrich\理血剂\和血散瘀汤,乌药 三棱 五加皮 茜草 刘寄奴 红花 铁牛钻石 枳壳 莪术 桃仁 赤芍 当归 白芍 土木香 .txt
+E:\pre_enrich\理血剂\咳血方.txt
+E:\pre_enrich\理血剂\咽醋丸,韭菜 石灰 .txt
+E:\pre_enrich\理血剂\四倍汤,赤石脂 石菖蒲 牡蛎 人参 食盐 .txt
+E:\pre_enrich\理血剂\四参活血汤,附子 党参 苦参 玄参 红花岩黄芪 丹参 山楂 桃仁 降香 豨莶 .txt
+E:\pre_enrich\理血剂\四生丸.txt
+E:\pre_enrich\理血剂\四生散,松香 半夏 石膏 铅丹 .txt
+E:\pre_enrich\理血剂\四症神方,降香 地龙 乳香 自然铜 松节 水蛭 苏木 龙骨 血竭 没药 川乌头 蝼蛄 .txt
+E:\pre_enrich\理血剂\回生丹,干姜 当归 蒲黄 赤芍 肉桂 黑大豆 .txt
+E:\pre_enrich\理血剂\固真丹,蒲黄 地榆 滑石 甘草 .txt
+E:\pre_enrich\理血剂\固荣散,蒲黄 地榆 滑石 甘草 甘草 .txt
+E:\pre_enrich\理血剂\国寿散,百草霜 生姜 鹿梨 .txt
+E:\pre_enrich\理血剂\地榆散,地榆 羌活 川芎 枳壳 槐花 槟榔 赤芍 黄芩 甘草 白蔹 露蜂房 白芍 .txt
+E:\pre_enrich\理血剂\地肤子汤,地肤子 赤芍 红花 白僵蚕 赤沙糖 芜菁 .txt
+E:\pre_enrich\理血剂\地鳖紫金丹,蜇虫 硼砂 血竭 自然铜 乌药 蝼蛄 延胡索 当归 桃仁 威灵仙 川牛膝 麝香 香附 木香 五加皮 苏木 川贝母 泽兰 五灵脂 菟丝子 续断 食盐 新疆延胡索 .txt
+E:\pre_enrich\理血剂\地黄汤,铅丹 山海螺 .txt
+E:\pre_enrich\理血剂\地黄煎,蜂蜜 山海螺 .txt
+E:\pre_enrich\理血剂\复元活血汤.txt
+E:\pre_enrich\理血剂\复方鸡血藤汤,鸡血藤 川牛膝 桑寄生 .txt
+E:\pre_enrich\理血剂\大宝红药方,琥珀 血竭 朱砂 .txt
+E:\pre_enrich\理血剂\大海金砂散,水银 铅丹 朱砂 铅粉 硫黄 硇砂 曾青 铅 铅霜 雄黄 山梗菜 .txt
+E:\pre_enrich\理血剂\大祛风丹,羚羊角 牛黄 珍珠 防风 石膏 天南星 玳瑁 全蝎 金钱白花蛇 阳起石 .txt
+E:\pre_enrich\理血剂\大通水银丸,水银 铅丹 朱砂 铅粉 硫黄 硇砂 曾青 铅 铅霜 雄黄 山梗菜 .txt
+E:\pre_enrich\理血剂\大通青金丹,曾青 金箔 朱砂 紫石英 水银 铅粉 铅丹 .txt
+E:\pre_enrich\理血剂\大黄蛰虫丸.txt
+E:\pre_enrich\理血剂\天南星散,天南星 .txt
+E:\pre_enrich\理血剂\太白散,石膏 川芎 甘草 .txt
+E:\pre_enrich\理血剂\失笑散.txt
+E:\pre_enrich\理血剂\头痛宁,天麻 丹参 三七 红花岩黄芪 .txt
+E:\pre_enrich\理血剂\头痛饮,川芎 当归 蜈蚣 柚 .txt
+E:\pre_enrich\理血剂\如神丸,消石 硫黄 .txt
+E:\pre_enrich\理血剂\如神散,天麻 牛胆 朱砂 川芎 当归 白术 白芷 细辛 天麻 苍术 牛膝 雄黄 朱砂 金钱白花蛇 铁棒锤 .txt
+E:\pre_enrich\理血剂\孕Ⅰ+孕Ⅱ方（蔡小荪）,黄精 鹿角 鹿角霜 桂枝 茯苓 丁香 牛膝 狗脊 紫石英 仙茅 女贞子 毛野丁香叶 .txt
+E:\pre_enrich\理血剂\安胃片,延胡索 蜂蜜 醋 海螵蛸 白矾 .txt
+E:\pre_enrich\理血剂\定痛散,乳香 龙骨 蟾酥 酒 酥 没药 铁棒锤 雪乌 .txt
+E:\pre_enrich\理血剂\宣郁通经汤,香附 柴胡 郁金 栀子 牡丹皮 黄芩 延胡索 白芍 白芥子 甘草 新疆延胡索 .txt
+E:\pre_enrich\理血剂\宫外孕Ⅱ号.txt
+E:\pre_enrich\理血剂\宫外孕方.txt
+E:\pre_enrich\理血剂\宫外孕汤,大黄 丹参 川楝子 桃仁 赤芍 穿山甲 牡丹皮 .txt
+E:\pre_enrich\理血剂\将军复战丹,山芝麻 乳香 血竭 酒 没药 .txt
+E:\pre_enrich\理血剂\小元门,麻黄 川芎 乳香 没药 穿山甲 马钱子 .txt
+E:\pre_enrich\理血剂\小刺蓟煎,薄荷 大蓟 荆芥 鲜地黄 侧柏叶 赤芍 甘草 干地黄 .txt
+E:\pre_enrich\理血剂\小惊药,金箔 防风 附子 铁 羌活 山药 川芎 朱砂 茯神 茯苓 荆芥 蝉蜕 远志 麻黄 甘草 白芷 白附子 白僵蚕 代赭石 .txt
+E:\pre_enrich\理血剂\小芎黄汤,小蓟 .txt
+E:\pre_enrich\理血剂\小蓟汤,小蓟 .txt
+E:\pre_enrich\理血剂\小蓟饮子.txt
+E:\pre_enrich\理血剂\少腹逐瘀汤.txt
+E:\pre_enrich\理血剂\山栀子散,栀子 金丝梅 皮袋香 .txt
+E:\pre_enrich\理血剂\川芎羌活散,羌活 细辛 川芎 藁本 荆芥 白芷 防风 .txt
+E:\pre_enrich\理血剂\干地黄汤,吴茱萸 干地黄 干姜 当归 赤芍 酒 甘草 白芷 细辛 伏龙肝 肉桂 黑大豆 .txt
+E:\pre_enrich\理血剂\干地黄汤,防风 干地黄 当归 茯苓 甘草 细辛 人参 肉桂 荸荠 .txt
+E:\pre_enrich\理血剂\干姜甘草汤,细辛 干地黄 当归 人参 防风 茯苓 甘草 荸荠 肉桂 .txt
+E:\pre_enrich\理血剂\延寿丹,党参 地龙 乳香 当归 三七 铁棒锤 雪乌 .txt
+E:\pre_enrich\理血剂\开心肥健方,猪肉 人参 .txt
+E:\pre_enrich\理血剂\开肺宣郁汤,郁金 枳壳 枇杷 枇杷叶 紫菀 甘草 桔梗 .txt
+E:\pre_enrich\理血剂\开胃阿胶散,阿胶 木香 糯米 .txt
+E:\pre_enrich\理血剂\异功散,人参 .txt
+E:\pre_enrich\理血剂\当归养血膏,五味子 丹参 川芎 莪术 红花 莪术 红花岩黄芪 .txt
+E:\pre_enrich\理血剂\当归汤,当归 荷叶 荷叶蒂 三七 肉桂 .txt
+E:\pre_enrich\理血剂\当归羊肉汤,金箔 银箔 冰 朱砂 细辛 麝香 兖州卷柏 千层塔 .txt
+E:\pre_enrich\理血剂\当归芍药汤.txt
+E:\pre_enrich\理血剂\当门吹鼻丹,冰 麝香 朱砂 土大黄叶 细辛 金箔 银箔 梅花冰片 兖州卷柏 .txt
+E:\pre_enrich\理血剂\急救散,雄黄 大黄 乳香 自然铜 骨碎补 鹰骨 当归 朱砂 桃仁 血竭 酒 醋 没药 麻皮 红花 麝香 山海螺 蕨 .txt
+E:\pre_enrich\理血剂\惺松饮,天麻 川芎 当归 桂枝 薄荷 白术 山海螺 天南星 .txt
+E:\pre_enrich\理血剂\愈风丹,半夏 大黄 天麻 石膏 羌活 川芎 枳实 栀子 桔梗 橘 橘红 芒消 茯苓 荆芥 薄荷 赤芍 连翘 滑石 独活 麻黄 黄柏 黄芩 甘草 甘菊 白术 细辛 黄连 天南星 当归 .txt
+E:\pre_enrich\理血剂\手拈散.txt
+E:\pre_enrich\理血剂\护心七厘散,闹羊花 当归 桔梗 酒 酱 甘草 人参 六轴子 大枣 .txt
+E:\pre_enrich\理血剂\抵当汤,水蛭 虻虫 桃仁 大黄 当归 枳实 .txt
+E:\pre_enrich\理血剂\抵当汤.txt
+E:\pre_enrich\理血剂\拨刀面,生姜 鸡子 山海螺 .txt
+E:\pre_enrich\理血剂\损伤膏,川芎 乌药 骨碎补 当归 白杨树皮 香附 红花 桑寄生 牛膝 合欢皮 茜草 续断 刘寄奴 地榆 木瓜 小蓟 川乌头 苏木 羌活 泽兰 铁棒锤 雪乌 .txt
+E:\pre_enrich\理血剂\掌中金,蒲黄 黄药子 .txt
+E:\pre_enrich\理血剂\接骨丹,乳香 自然铜 当归 血竭 醋 没药 川乌头 .txt
+E:\pre_enrich\理血剂\接骨丹,五灵脂 小茴香 .txt
+E:\pre_enrich\理血剂\接骨丹,天南星 木鳖子 没药 乳香 肉桂 .txt
+E:\pre_enrich\理血剂\接骨丹,鳖甲 生姜 蜇虫 自然铜 血竭 孩儿茶 乳香 没药 吊灯花 当归 .txt
+E:\pre_enrich\理血剂\接骨丹,黄粱米 皂荚 .txt
+E:\pre_enrich\理血剂\接骨仙方,鸡冠花 .txt
+E:\pre_enrich\理血剂\接骨散,血竭 半夏 乳香 没药 当归 蜇虫 巴豆 蕨 .txt
+E:\pre_enrich\理血剂\接骨灵丹,千里马 老龙皮 海螺 双肾藤 鹿梨 .txt
+E:\pre_enrich\理血剂\接骨至宝七厘散,雀 木香 沉香 乳香 没药 韭子 血竭 王瓜子 甜瓜子 人参 .txt
+E:\pre_enrich\理血剂\接骨金丹,乳香 甜瓜 甜瓜子 .txt
+E:\pre_enrich\理血剂\搐鼻散,雄黄 石膏 川芎 细辛 消石 皂荚 .txt
+E:\pre_enrich\理血剂\搜风汤,麝香 人参 半夏 石膏 防风 白僵蚕 柿霜 党参 .txt
+E:\pre_enrich\理血剂\救死活命丹,自然铜 朱砂 鸡子 .txt
+E:\pre_enrich\理血剂\散瘀活血丹,续断 血竭 当归 赤芍 乳香 没药 木瓜 番红花 三七 .txt
+E:\pre_enrich\理血剂\散结安枕汤,续断 血竭 当归 赤芍 乳香 没药 木瓜 番红花 三七 .txt
+E:\pre_enrich\理血剂\暑汤,厚朴 乌梅 香薷 木瓜 檀香 苍术 茯苓 藿香 滑石 甘草 白术 伏龙肝 山海螺 白扁豆 .txt
+E:\pre_enrich\理血剂\李梅汤,桃根 梅根 李根 细辛 蛇床子 .txt
+E:\pre_enrich\理血剂\杏蜜膏,猪胰 杏仁 蜂蜜 .txt
+E:\pre_enrich\理血剂\枣参丸,人参 大枣 .txt
+E:\pre_enrich\理血剂\枳壳汤,徐长卿 珍珠 甘草 生姜 山海螺 淡豆豉 .txt
+E:\pre_enrich\理血剂\枳实散,枳实 神曲 白术 .txt
+E:\pre_enrich\理血剂\柏实散,肉桂 柏子仁 .txt
+E:\pre_enrich\理血剂\柳花散,柳絮 .txt
+E:\pre_enrich\理血剂\柴芍和胃汤（张镜人）,香附 平地木 徐长卿 柴胡 桔梗 连翘 甘草 白术 白芍 .txt
+E:\pre_enrich\理血剂\桂心汤,肉桂 .txt
+E:\pre_enrich\理血剂\桂枝茯苓丸.txt
+E:\pre_enrich\理血剂\桂枝酒,桂枝 当归 防风 白芷 苍术 牛膝 苍耳子 赤芍 穿山甲 木香 骨碎补 黄精 红花岩黄芪 红花 当归 防风 穿山甲 杜仲 狗脊 铁棒锤 雪乌 .txt
+E:\pre_enrich\理血剂\桃核承气汤.txt
+E:\pre_enrich\理血剂\桃红四物汤.txt
+E:\pre_enrich\理血剂\桃花散,乳香 血竭 没药 .txt
+E:\pre_enrich\理血剂\桑耳塞鼻丹,桑耳 .txt
+E:\pre_enrich\理血剂\椒术酒,酒 苍术 花椒 .txt
+E:\pre_enrich\理血剂\椒茱丸,吴茱萸 .txt
+E:\pre_enrich\理血剂\槐花散,槐花 蒲黄 骨碎补 .txt
+E:\pre_enrich\理血剂\槐花散.txt
+E:\pre_enrich\理血剂\槐角丸.txt
+E:\pre_enrich\理血剂\槲叶散,槲叶 .txt
+E:\pre_enrich\理血剂\止痛蠲痹汤,乳香 没药 附子 香附 当归 白芍 叶下花 熟地黄 延胡索 川芎 全蝎 蜈蚣 柚 墓头回 .txt
+E:\pre_enrich\理血剂\止衄散,阿胶 山海螺 .txt
+E:\pre_enrich\理血剂\止衄汤,酒 .txt
+E:\pre_enrich\理血剂\正骨烫药,防风 乳香 羌活 骨碎补 当归 木瓜 没药 白芷 红花 凤仙透骨草 续断 .txt
+E:\pre_enrich\理血剂\泽兰汤,泽兰 当归 红花 牡丹皮 铁牛钻石 桃仁 赤芍 土木香 .txt
+E:\pre_enrich\理血剂\洗痔黄消汤,大黄 朴消 .txt
+E:\pre_enrich\理血剂\活络丹,续断 当归 杜仲 牛蒡子 九眼独活 .txt
+E:\pre_enrich\理血剂\活络效灵丹.txt
+E:\pre_enrich\理血剂\活血丹,刘寄奴 青皮 枳实 降香 三棱 蜇虫 五加皮 桃仁 山楂 大黄 延胡索 莪术 牡丹皮 当归 牛膝 红花 香附 凌霄花 苏木 赤芍 威灵仙 槟榔 川芎 乳香 没药 山海螺 蕨 .txt
+E:\pre_enrich\理血剂\活血止痛散,当归 羌活 独活 荆芥 木通 乌药 续断 红花 防风 苏木 乳香 没药 甘草 川芎 桃仁 五加皮 山海螺 .txt
+E:\pre_enrich\理血剂\活血止痛饮,当归 防风 枳实 甘草 五加皮 乳香 没药 羌活 青皮 苏木 红花 川芎 白芍 续断 山海螺 .txt
+E:\pre_enrich\理血剂\活血汤,地骨皮 青皮 香附 红花 当归 槐花 乌药 白芷 木通 山海螺 豨莶 .txt
+E:\pre_enrich\理血剂\活血祛风散,当归 羌活 独活 荆芥 木通 乌药 续断 红花 防风 苏木 乳香 没药 甘草 川芎 桃仁 五加皮 山海螺 .txt
+E:\pre_enrich\理血剂\消风散,人参 防风 川芎 厚朴 桔梗 肉桂 当归 羌活 独活 柴胡 甘草 半夏 黄芩 白芷 天南星 蝉蜕 .txt
+E:\pre_enrich\理血剂\清彻膏,川芎 蔓荆子 薄荷 甘草 细辛 .txt
+E:\pre_enrich\理血剂\清气香芎汤,半夏 甘草 生姜 细辛 人参 .txt
+E:\pre_enrich\理血剂\清火凉血汤,阿胶 麦门冬 川芎 当归 栀子 桃仁 蒲黄 赤芍 酒 熟地黄 牡丹皮 百合 鲜地黄 川贝母 .txt
+E:\pre_enrich\理血剂\清热化瘀汤,马鞭草 当归 赤芍 仙鹤草 花蕊石 茜草 .txt
+E:\pre_enrich\理血剂\清热散结汤,蒲公英 金榭榴 大叶苣荬菜 金银花 黄柏 大黄 土茯苓 茵陈蒿 穿山甲 皂角刺 川芎 山苦荬 .txt
+E:\pre_enrich\理血剂\清热解毒汤,升麻 栀子 桔梗 赤芍 连翘 牡丹皮 黄柏 黄芩 甘草 黄连 山海螺 鲜地黄 .txt
+E:\pre_enrich\理血剂\清热调中饮,桑叶 枳壳 酒 黄芩 香附 甘菊 橘红 神曲 甘草 .txt
+E:\pre_enrich\理血剂\清膈汤,荆芥 甘草 天花粉 桔梗 紫苏叶 牛蒡子 栝楼 .txt
+E:\pre_enrich\理血剂\清衄汤,甘草 当归 白芍 香附 黄芩 栀子 黄连 赤芍 桔梗 阴地蕨 侧柏叶 .txt
+E:\pre_enrich\理血剂\温中丸,山药 干姜 甘草 .txt
+E:\pre_enrich\理血剂\温中散,甘草 大枣 山海螺 .txt
+E:\pre_enrich\理血剂\温中汤,青皮 茯苓 甘草 生姜 白术 人参 大枣 山海螺 .txt
+E:\pre_enrich\理血剂\温冲丸,附子 肉桂 鹿角 鹿角胶 山药 川芎 当归 木香 柴胡 桃仁 补骨脂 紫石英 白芍 胡桃仁 豨莶 .txt
+E:\pre_enrich\理血剂\温经汤.txt
+E:\pre_enrich\理血剂\溃疡灵胶囊,孩儿茶 浙贝母 海螵蛸 甘草 延胡索 红花岩黄芪 白及 百合 三七 .txt
+E:\pre_enrich\理血剂\牛膝四物煎,关木通 九头草 .txt
+E:\pre_enrich\理血剂\独圣散,桑叶 .txt
+E:\pre_enrich\理血剂\猪肚丸,川楝子 母丁香 莲子 丁香 猪肚 八角茴香 木蝴蝶 .txt
+E:\pre_enrich\理血剂\猪肺丸,梨 莱菔 猪肺 .txt
+E:\pre_enrich\理血剂\玉灵丹,香附 苏木 莱菔子 桃仁 当归 降香 红花 沉香 木香 乳香 没药 藿香 白豆蔻 青皮 枳实 槟榔 莪术 山海螺 .txt
+E:\pre_enrich\理血剂\玉真散,附子 半夏 白附子 天麻 天南星 白芷 防风 梅花冰片 羌活 .txt
+E:\pre_enrich\理血剂\玉龙膏,象皮 白蔹 升麻 当归 川芎 连翘 金银花 穿山甲 乳香 没药 轻粉 梅花冰片 麝香 川乌头 .txt
+E:\pre_enrich\理血剂\珍珠胃安丸,徐长卿 珍珠 甘草 生姜 山海螺 淡豆豉 .txt
+E:\pre_enrich\理血剂\琥珀饮,琥珀 .txt
+E:\pre_enrich\理血剂\生化汤.txt
+E:\pre_enrich\理血剂\生地黄散,黄芩 阿胶 侧柏叶 铅丹 川芎 .txt
+E:\pre_enrich\理血剂\生地黄汤,丹参 荷叶 郁金 三七 牛膝 白芍 大山玄参 峨参 .txt
+E:\pre_enrich\理血剂\生地黄汤,阿胶 川芎 栀子 桔梗 蒲黄 牡丹皮 甘草 白芍 山海螺 鲜地黄 .txt
+E:\pre_enrich\理血剂\生地黄饮,地骨皮 枸杞子 熟地黄 .txt
+E:\pre_enrich\理血剂\生肌长肉膏,金银花 露蜂房 天花粉 天麻 肉桂 当归 荆芥 血余 牛蒡子 独活 甘草 白芷 白蔹 穿山甲 五倍子 白芍 刺蒺藜 山慈菇 .txt
+E:\pre_enrich\理血剂\生葛饮子,阿胶 川芎 栀子 桔梗 蒲黄 牡丹皮 甘草 白芍 山海螺 鲜地黄 .txt
+E:\pre_enrich\理血剂\生血补髓汤,防风 续断 羌活 香附 川芎 干姜 当归 杜仲 枳壳 茯苓 荆芥 牛膝 独活 甘草 白术 红花 白芍 铅丹 食盐 .txt
+E:\pre_enrich\理血剂\田七痛散,蒲黄 醋 五灵脂 川芎 延胡索 小茴香 木香 冰 峨参 梅花冰片 .txt
+E:\pre_enrich\理血剂\田七痛经散（张玉珍  罗颂平）,蒲黄 醋 五灵脂 川芎 小茴香 木香 延胡索 冰 峨参 梅花冰片 .txt
+E:\pre_enrich\理血剂\痛风饼子,全蝎 蝼蛄 五倍子 狗肝 .txt
+E:\pre_enrich\理血剂\痞膏,葱白 黄明胶 骨碎补 .txt
+E:\pre_enrich\理血剂\痧气丸,全蝎 蝼蛄 五倍子 狗肝 .txt
+E:\pre_enrich\理血剂\白胶散,枫香脂 山海螺 .txt
+E:\pre_enrich\理血剂\白芷散,白芷 荷叶 薄荷 郁金 石膏 芒消 隔山香 滇白芷 .txt
+E:\pre_enrich\理血剂\白蜜饮,蜂蜜 山海螺 .txt
+E:\pre_enrich\理血剂\皂荚芽菹方,皂荚 .txt
+E:\pre_enrich\理血剂\益气活血汤（高濯风）,西洋参 红花岩黄芪 丹参 川芎 红花 威灵仙 降香 甘草 三七 .txt
+E:\pre_enrich\理血剂\益肾化瘀汤,没药 乳香 熟地黄 巴戟天 淫羊藿 菟丝子 枸杞子 当归 赤芍 川牛膝 香附 甘草 .txt
+E:\pre_enrich\理血剂\省风汤,全蝎 天南星 .txt
+E:\pre_enrich\理血剂\省风汤,附子 独活 天南星 防风 天南星 防风 全蝎 甘草 .txt
+E:\pre_enrich\理血剂\知母丸,乌药 乳香 续断 川芎 木通 桃仁 苏木 赤芍 没药 甘草 山海螺 当归 .txt
+E:\pre_enrich\理血剂\石膏汤,石膏 天麻 莎草 香叶 藿香 香附 鲩鱼 .txt
+E:\pre_enrich\理血剂\石韦散,冬葵子 滑石 瞿麦 石韦 木奶果 .txt
+E:\pre_enrich\理血剂\矾石滑石散,人参 大枣 .txt
+E:\pre_enrich\理血剂\祛伤散,续断 羌活 独活 五加皮 川芎 牛膝 肉桂 铁棒锤 细辛 乌药 红花 川乌头 甘草 大活 雪乌 .txt
+E:\pre_enrich\理血剂\祛毒膏,乌药 羌活 肉桂 川芎 牛膝 独活 甘草 红花 细辛 铁棒锤 雪乌 .txt
+E:\pre_enrich\理血剂\祛风蠲麻洗药,薄荷 天麻 防风 白芷 白僵蚕 藁本 留兰香 .txt
+E:\pre_enrich\理血剂\神异红药丹,山羊血 琥珀 人参 兔骨 没药 麝香 酥 金银花 .txt
+E:\pre_enrich\理血剂\神效散,肉桂 红花 铁棒锤 雪乌 .txt
+E:\pre_enrich\理血剂\神效金珠丸,朱砂 金箔 地龙 柚 铅丹 .txt
+E:\pre_enrich\理血剂\神朱石膏丸,石膏 梅花冰片 .txt
+E:\pre_enrich\理血剂\秘传加减省风汤,防风 半夏 羌活 茯苓 黄芩 甘草 白术 白芷 红花 山海螺 红药子 .txt
+E:\pre_enrich\理血剂\秘传发灰丸,血余 .txt
+E:\pre_enrich\理血剂\秘传祛风散,防风 半夏 威灵仙 羌活 当归 苍术 苍耳 苍耳子 茯苓 荆芥 独活 甘草 白芍 大果巴戟 山海螺 .txt
+E:\pre_enrich\理血剂\秘授神效散,防风 半夏 威灵仙 羌活 当归 苍术 苍耳 苍耳子 茯苓 荆芥 独活 甘草 白芍 大果巴戟 山海螺 .txt
+E:\pre_enrich\理血剂\立效散,侧柏叶 .txt
+E:\pre_enrich\理血剂\立止吐血散,血余 蒲黄 .txt
+E:\pre_enrich\理血剂\竹沥枳术丸,半夏 山楂 当归 木香 枳实 芥子 苍术 茯苓 酒 生姜 白术 白矾 白芥 白芥子 人参 白芍 黄连 山海螺 天南星 .txt
+E:\pre_enrich\理血剂\米莲散,莲子心 莲子 糯米 .txt
+E:\pre_enrich\理血剂\紫参丸,昆明山海棠 紫荆皮 .txt
+E:\pre_enrich\理血剂\紫金散,昆明山海棠 紫荆皮 .txt
+E:\pre_enrich\理血剂\红花散,红花 厚朴 诃子 .txt
+E:\pre_enrich\理血剂\红龙散,全蝎 朱砂 茯神 五灵脂 .txt
+E:\pre_enrich\理血剂\经痛饮,当归 延胡索 新疆延胡索 .txt
+E:\pre_enrich\理血剂\经验正骨丹,自然铜 蜇虫 水蛭 地龙 龙骨 苏木 蝼蛄 川乌头 没药 血竭 木香 白芍 麝香 降香 乳香 松节 蕨 .txt
+E:\pre_enrich\理血剂\绿云散,阿胶 百合 人参 侧柏叶 .txt
+E:\pre_enrich\理血剂\羊肚食方,葱白 羊肚 粳米 生姜 江南玄胡 淡豆豉 .txt
+E:\pre_enrich\理血剂\羊脂粥,羊脂 葱白 生姜 粳米 淡豆豉 .txt
+E:\pre_enrich\理血剂\羌活导气汤,羌活 白僵蚕 甘菊 白附子 朱砂 麝香 藜 刺蒺藜 .txt
+E:\pre_enrich\理血剂\羌活散,附子 羌活 朱砂 藜 甘菊 白附子 麝香 刺蒺藜 白僵蚕 .txt
+E:\pre_enrich\理血剂\羌活清空膏,蔓荆子 黄连 羌活 防风 甘草 黄芩 .txt
+E:\pre_enrich\理血剂\羌活益气汤,防风 半夏 羌活 川芎 当归 龙胆 薄荷 独活 黄芩 甘草 厚叶素馨 山海螺 .txt
+E:\pre_enrich\理血剂\羚羊角汤,大蓟 羚羊角 伏龙肝 地榆 牛膝 白芍 阿胶 侧柏叶 蛴螬 羚羊角 藿香 铅丹 .txt
+E:\pre_enrich\理血剂\耳桃煎,木耳 胡桃仁 .txt
+E:\pre_enrich\理血剂\肠胃宁,半夏 翻白草 白草 .txt
+E:\pre_enrich\理血剂\肠风饮,地榆 枳壳 槐角 贯众 黄连 .txt
+E:\pre_enrich\理血剂\肺心灵,石膏 麻黄 太子参 五味子 胆星 桑白皮 蚤休 丹参 桃仁 杏仁 橘红 天南星 .txt
+E:\pre_enrich\理血剂\胡桃散,胡桃仁 皂角刺 木蝴蝶 槐花 .txt
+E:\pre_enrich\理血剂\胡黄连散,胡黄连 黄连 山海螺 鲜地黄 .txt
+E:\pre_enrich\理血剂\胶艾汤.txt
+E:\pre_enrich\理血剂\脾风白术汤,附子 麻黄 白术 茯苓 防风 大果巴戟 人参 甘草 白芍 薏苡仁 广防己 .txt
+E:\pre_enrich\理血剂\膈下逐瘀汤.txt
+E:\pre_enrich\理血剂\艾灰散,艾叶 .txt
+E:\pre_enrich\理血剂\艾附暖宫丸.txt
+E:\pre_enrich\理血剂\芎荆散,川芎 蔓荆子 .txt
+E:\pre_enrich\理血剂\芥饮子,芜菁 芥菜 .txt
+E:\pre_enrich\理血剂\花蕊石散.txt
+E:\pre_enrich\理血剂\苦参酿酒,马蔺 鸡冠花 柳枝 甘草 生姜 白茅根 .txt
+E:\pre_enrich\理血剂\茅根散,马蔺 鸡冠花 柳枝 甘草 生姜 白茅根 .txt
+E:\pre_enrich\理血剂\茅根汤,当归 黄芩 山海螺 鲜地黄 .txt
+E:\pre_enrich\理血剂\茅花汤,玄参 甘草 百草霜 铅丹 当归 .txt
+E:\pre_enrich\理血剂\茅花汤,防风 荆芥 牛蒡子 甘草 生姜 白茅花 .txt
+E:\pre_enrich\理血剂\茯苓戎盐汤,茯苓 白术 大青盐 .txt
+E:\pre_enrich\理血剂\茯苓桂甘大枣汤,茯苓 白术 大青盐 .txt
+E:\pre_enrich\理血剂\茵术汤,茵陈蒿 苍术 莪术 鸡血藤 .txt
+E:\pre_enrich\理血剂\茶煎散,防风 羌活 川芎 荆芥 薄荷 藁本 辛夷 甘草 白芷 细辛 .txt
+E:\pre_enrich\理血剂\药酒,乌药 乳香 防风 紫荆皮 当归 肉桂 海桐皮 没药 牛膝 牡丹皮 红花 独活 杜仲 五加皮 川芎 干姜 姜黄 三七 豨莶 .txt
+E:\pre_enrich\理血剂\菖阳泻心汤,厚朴 半夏 黄芩 竹茹 石菖蒲 紫苏叶 枇杷叶 芦根 竹叶 骨碎补 .txt
+E:\pre_enrich\理血剂\萆丸,肉苁蓉 鹿茸 杜仲 茯苓 菟丝 菟丝子 狗脊 益智仁 红升麻 羊角藤 .txt
+E:\pre_enrich\理血剂\藕汁散,干地黄 茯苓 蒲黄 .txt
+E:\pre_enrich\理血剂\藕汁饮子,牛蒡根 蜂蜜 山海螺 .txt
+E:\pre_enrich\理血剂\虎胫骨酒,防风 续断 羌活 鳖甲 当归 杜仲 松节 枸杞子 苍耳 苍耳子 茄根 蚕沙 酥 牛膝 白术 石斛 秦艽 五加皮 羊角藤 巴戟天 .txt
+E:\pre_enrich\理血剂\蛇蝎散,全蝎 蜈蚣 .txt
+E:\pre_enrich\理血剂\蛇蝎汤,地龙 乌蛇皮 白僵蚕 桂枝 川芎 甘草 全蝎 蜈蚣 铁棒锤 .txt
+E:\pre_enrich\理血剂\蛤粉散,鹿角胶 枫香脂 .txt
+E:\pre_enrich\理血剂\蠲痹汤,地龙 鹿筋 鹿衔草 川牛膝 杜仲 枸杞子 蜂蜜 酒 牛膝 .txt
+E:\pre_enrich\理血剂\血府逐瘀汤.txt
+E:\pre_enrich\理血剂\血马散,乳香 马钱子 木瓜 木通 木防己 蜈蚣 血竭 没药 独活 柚 .txt
+E:\pre_enrich\理血剂\行气活血汤,羌活 青皮 川芎 木通 木香 杜仲 苏木 甘草 红花 铅丹 山海螺 .txt
+E:\pre_enrich\理血剂\补阳还五汤.txt
+E:\pre_enrich\理血剂\覆花散,旋覆花 白僵蚕 石膏 .txt
+E:\pre_enrich\理血剂\解郁汤,地骨皮 柴胡 黄芩 白芍 黄连 熟地黄 .txt
+E:\pre_enrich\理血剂\诃子散,胆矾 川芎 诃子 砂仁 细辛 人参 麝香 .txt
+E:\pre_enrich\理血剂\诃子散,防风 半夏 羌活 川芎 当归 龙胆 薄荷 独活 黄芩 甘草 厚叶素馨 山海螺 .txt
+E:\pre_enrich\理血剂\调经散,乌药 乳香 青皮 川芎 当归 熟地黄 山海螺 荸荠 .txt
+E:\pre_enrich\理血剂\谷神散,皂荚 .txt
+E:\pre_enrich\理血剂\败毒至坚散,大血藤 乳香 .txt
+E:\pre_enrich\理血剂\赤箭汤,附子 杏仁 酒 独活 麻黄 白附子 金钱白花蛇 天麻 .txt
+E:\pre_enrich\理血剂\越桃散,石膏 金丝梅 连翘 白芍 当归 鲜地黄 甘草 大黄 麻黄 当归 甘草 川芎 草龙 龙胆 蔓荆子 何首乌 荆芥 荷叶 薄荷 山飘儿草 大果巴戟 .txt
+E:\pre_enrich\理血剂\跌打十三味煎,乌药 青皮 香附 骨碎补 木香 桃仁 苏木 赤芍 酒 三棱 红花 当归 莪术 .txt
+E:\pre_enrich\理血剂\跌打损伤膏,防风 刘寄奴 续断 羌活 肉桂 骨碎补 川牛膝 川芎 当归 杜仲 莪术 赤芍 三棱 牛膝 独活 白芷 秦艽 红花 五加皮 大果巴戟 广防己 .txt
+E:\pre_enrich\理血剂\跌打损伤药酒,羌活 骨碎补 川芎 当归 木香 杜仲 桃仁 莪术 薏苡仁 酥 紫荆皮 五加皮 刺黄芩 功劳叶 .txt
+E:\pre_enrich\理血剂\跌打活命丹,当归 红花 牡丹皮 铁牛钻石 桃仁 赤芍 山佩兰 .txt
+E:\pre_enrich\理血剂\跌打药酒,琥珀 党参 骨碎补 山羊血 续断 地龙 无名异 赤芍 红花 羌活 天花粉 赤石脂 桃仁 乳香 没药 苏木 峨参 蕨 .txt
+E:\pre_enrich\理血剂\身痛逐瘀汤.txt
+E:\pre_enrich\理血剂\边臣十八味,生姜 甘草 乌药 枳实 苏木 赤芍 石斛 秦艽 乳香 没药 当归 桃仁 红花 紫草 骨碎补 大黄 甘草 金银花 铅丹 .txt
+E:\pre_enrich\理血剂\逐痹活瘀汤,独活 桑寄生 续断 狗脊 生姜 红花 桃仁 牛膝 秦艽 .txt
+E:\pre_enrich\理血剂\通冠生脉饮,五味子 丹参 川芎 莪术 红花 丹参 红花岩黄芪 .txt
+E:\pre_enrich\理血剂\通窍活血汤.txt
+E:\pre_enrich\理血剂\通经丸,厚朴 大黄 乌梅 川芎 当归 枳壳 枳实 苏木 黄芩 红花 白芍 山海螺 肉桂 .txt
+E:\pre_enrich\理血剂\通经汤,厚朴 大黄 乌梅 川芎 当归 枳壳 枳实 苏木 黄芩 红花 白芍 山海螺 肉桂 .txt
+E:\pre_enrich\理血剂\通脉泻热泽泻散,侧柏叶 百合 人参 阿胶 .txt
+E:\pre_enrich\理血剂\通脉降逆汤,大黄 丹参 川牛膝 川芎 赤芍 牛膝 红花岩黄芪 .txt
+E:\pre_enrich\理血剂\金樱酒,金樱子 .txt
+E:\pre_enrich\理血剂\金液含化灵丹,金箔 银朱 朱砂 人中黄 .txt
+E:\pre_enrich\理血剂\金粉汤,干地黄 蒲黄 .txt
+E:\pre_enrich\理血剂\金蝉丸,蒲黄 干地黄 .txt
+E:\pre_enrich\理血剂\金雀万应膏,防风 雀 续断 自然铜 骨碎补 松香 桃仁 苏木 荆芥 莪术 葱汁 赤芍 醋 三棱 狗胆 甘松 红花 五加皮 金银花 铁棒锤 .txt
+E:\pre_enrich\理血剂\金黄散,槐花 郁金 .txt
+E:\pre_enrich\理血剂\银杏口服液,杏叶 白果 白果叶 .txt
+E:\pre_enrich\理血剂\附子方,附子 石膏 .txt
+E:\pre_enrich\理血剂\附子补汤,干姜 地骨皮 附子 石膏 独活 白术 肉桂 芦根 .txt
+E:\pre_enrich\理血剂\集灵接骨膏,闹羊花 大戟 大黄 肉桂 当归 芫花 鼠 血余 甘草 甘遂 紫荆皮 红花 五灵脂 铁棒锤 雪乌 .txt
+E:\pre_enrich\理血剂\雌黄丸,马兜铃 雌黄 甘草 铅丹 地龙 .txt
+E:\pre_enrich\理血剂\雪莲通脉丸,肉苁蓉 川芎 母草 水蛭 葛根 血竭 西洋参 益母草 红花 雪莲花 慈乌 .txt
+E:\pre_enrich\理血剂\青黄散,青黛 蒲黄 .txt
+E:\pre_enrich\理血剂\韭叶散,韭菜 石灰 .txt
+E:\pre_enrich\理血剂\飞龙夺命丹,前胡 乌药 羌活 肉桂 自然铜 青皮 韭子 当归 木香 杜仲 枳壳 桃仁 桑寄生 苏木 葛根 蒲黄 血竭 赤芍 酒 醋 三棱 硼砂 秦艽 五加皮 五灵脂 麝香 食盐 延胡索 .txt
+E:\pre_enrich\理血剂\香砂七气汤,附子 半夏 厚朴 青皮 香附 木香 槟榔 莪术 三棱 甘草 砂仁 山海螺 .txt
+E:\pre_enrich\理血剂\香草汤,莎草 甘草 香附 鲩鱼 .txt
+E:\pre_enrich\理血剂\香附地榆汤,附子 地榆 香附 .txt
+E:\pre_enrich\理血剂\骊龙珠,马钱子 半夏 麻黄 乳香 寒水石 孩儿茶 没药 食盐 金钱白花蛇 .txt
+E:\pre_enrich\理血剂\鸡血藤膏,鸡血 鸡血藤 .txt
+E:\pre_enrich\理血剂\鹿茸散,鹿茸 当归 干地黄 冬葵子 蒲黄 .txt
+E:\pre_enrich\理血剂\鹿茸补漏丸,鹿茸 当归 干地黄 冬葵子 蒲黄 .txt
+E:\pre_enrich\理血剂\鹿角胶丸,鹿角胶 黄柏 .txt
+E:\pre_enrich\理血剂\麦斗金,半夏 乳香 巴豆 朱砂 没药 蕨 蜇虫 .txt
+E:\pre_enrich\理血剂\黄土汤,阿胶 伏龙肝 干姜 当归 白芍 白芷 甘草 细辛 鲜地黄 吴茱萸 白芷 肉桂 .txt
+E:\pre_enrich\理血剂\黄土汤.txt
+E:\pre_enrich\理血剂\黄耆汤,人参 当归 白芍 甘草 细辛 甘草 防风 山海螺 .txt
+E:\pre_enrich\理血剂\黄药散,黄明胶 白及 白蔹 .txt
+E:\pre_enrich\理血剂\黄连石膏汤,石膏 黄芩 甘草 知母 黄连 .txt
+E:\pre_enrich\理血剂\黑神散,栝楼 玄参 .txt
+E:\pre_enrich\疏肝解郁剂\柴胡疏肝散.txt
+E:\pre_enrich\疏肝解郁剂\逍遥散.txt
+E:\pre_enrich\痈疡剂\一井金,麝香 乳香 朱砂 .txt
+E:\pre_enrich\痈疡剂\一膜散,雄黄 地胆 斑蝥 硫黄 .txt
+E:\pre_enrich\痈疡剂\丁沉透膈汤,附子 木香 .txt
+E:\pre_enrich\痈疡剂\丁附五香汤,附子 木香 .txt
+E:\pre_enrich\痈疡剂\三八全应丸,刺猬皮 当归 槐角 黄连 地骨皮 甘草 乳香 蜂蜜 .txt
+E:\pre_enrich\痈疡剂\三圣丸,丁香 斑蝥 麝香 麝香 .txt
+E:\pre_enrich\痈疡剂\三物散,粟米 红娘子 大黄 山海螺 .txt
+E:\pre_enrich\痈疡剂\三神丸,斑蝥 石决明 麝香 .txt
+E:\pre_enrich\痈疡剂\三神汤,红娘子 大黄 粟米 山海螺 .txt
+E:\pre_enrich\痈疡剂\三神膏,蓖麻子 醋 山海螺 食盐 .txt
+E:\pre_enrich\痈疡剂\三花汤,菊花 紫花地丁 金银花 .txt
+E:\pre_enrich\痈疡剂\三黄汤,大黄 黄连 黄芩 功劳木 安徽刺黄柏 .txt
+E:\pre_enrich\痈疡剂\不二散,甘草 .txt
+E:\pre_enrich\痈疡剂\不觉退管锭子,象牙 冰 大青盐 轻粉 密陀僧 串铃 木通 .txt
+E:\pre_enrich\痈疡剂\中和汤.txt
+E:\pre_enrich\痈疡剂\乌犀散,橘 牵牛子 青皮 金钱白花蛇 .txt
+E:\pre_enrich\痈疡剂\乌蛇丸,大黄 鸽 斑蝥 昆布 连翘 酒 白僵蚕 皂荚 皂荚子 糯米 哈士蟆 慈乌 .txt
+E:\pre_enrich\痈疡剂\乔氏阴阳攻积丸,白芍 小麦 大枣 前胡 淡竹叶 黄芩 生姜 竹叶 麦门冬 枳实 栀子 茯苓 升麻 石膏 干地黄 甘草 知母 人参 升麻 人参 麦门冬 黄芩 甘草 .txt
+E:\pre_enrich\痈疡剂\九物大黄薄贴,大黄 黄芩 白芷 寒水石 白蔹 黄柏 黄连 石膏 赤石脂 .txt
+E:\pre_enrich\痈疡剂\乳没汤,当归 乳香 防风 知母 木通 香附 没药 川芎 甘草 薏苡仁 金银花 栝楼子 橘叶 川贝母 山海螺 .txt
+E:\pre_enrich\痈疡剂\乳痈丸,天门冬 泽兰 大黄 升麻 羌活 防风 人参 白芷 桑寄生 通草 黄芩 枳实 茯神 天雄 五味子 干地黄 当归 .txt
+E:\pre_enrich\痈疡剂\乳痈煎,防风 乳香 香附 川芎 当归 木通 橘 橘叶 没药 甘草 知母 金银花 山海螺 .txt
+E:\pre_enrich\痈疡剂\乳香涂傅方,铅丹 乳香 .txt
+E:\pre_enrich\痈疡剂\乳香膏,吴茱萸 白及 白蔹 黄连 黄柏 当归 铅丹 乳香 轻粉 乳香 冰 梅花冰片 .txt
+E:\pre_enrich\痈疡剂\乳香贴方,乳香 蜂蜡 .txt
+E:\pre_enrich\痈疡剂\二仙丹,枳壳 观音苋 野靛青 天葵子 .txt
+E:\pre_enrich\痈疡剂\二八通玄丹,乌梅 黄连 槐角 枳壳 .txt
+E:\pre_enrich\痈疡剂\二圣膏,天南星 川贝母 .txt
+E:\pre_enrich\痈疡剂\二活散,当归 甘草 羌活 独活 当归 乌药 赤芍 金银花 连翘 白芷 红花 苏木 荆芥 蝉蜕 葛根 檀香 天花粉 甘草 甘草节 白芍 .txt
+E:\pre_enrich\痈疡剂\二白散,天南星 川贝母 .txt
+E:\pre_enrich\痈疡剂\二胆膏,牛胆 蒟蒻薯 .txt
+E:\pre_enrich\痈疡剂\二贝丸,朱砂 海粉 海藻 紫贝 土贝母 天葵子 .txt
+E:\pre_enrich\痈疡剂\云台散,芥子 荆芥 胡荽 胡荽子 .txt
+E:\pre_enrich\痈疡剂\五九散,牵牛子 大黄 黄连 当归 没药 乳香 拐棍竹 荭草 .txt
+E:\pre_enrich\痈疡剂\五倍子散,槟榔 密陀僧 黄连 乳香 木香 地龙 芜菁 .txt
+E:\pre_enrich\痈疡剂\五味子汤,半夏 桔梗 白术 五味子 酥 紫苏叶 .txt
+E:\pre_enrich\痈疡剂\五味消毒化疔饮,金银花 蒲公英 野菊花 天葵子 皂角刺 紫花地丁 苦地丁 豨莶 .txt
+E:\pre_enrich\痈疡剂\五味消毒饮.txt
+E:\pre_enrich\痈疡剂\五圣汤,金银花 人参 黑阳参 玄参 .txt
+E:\pre_enrich\痈疡剂\五灵脂散,五灵脂 慈乌 海螵蛸 .txt
+E:\pre_enrich\痈疡剂\五瘟丹,大青盐 轻粉 密陀僧 象牙 冰 串铃 木通 .txt
+E:\pre_enrich\痈疡剂\五神汤.txt
+E:\pre_enrich\痈疡剂\五色膏,铜绿 石灰 铅丹 山海螺 .txt
+E:\pre_enrich\痈疡剂\五香汤,升麻 大黄 沉香 藿香 母丁香 木香 射干 鳖甲 蓝实 白贝 乌梅 丁香 .txt
+E:\pre_enrich\痈疡剂\五香白术散,乳香 香叶 木香 沉香 藿香 丁香 山药 桔梗 茯苓 薏苡仁 白术 白豆蔻 鹿梨 水玉簪 .txt
+E:\pre_enrich\痈疡剂\仙传火龙行气法,半夏 雪里见 天南星 .txt
+E:\pre_enrich\痈疡剂\仙方化痰丹,半夏 白矾 雪里见 天南星 .txt
+E:\pre_enrich\痈疡剂\仙方活命饮.txt
+E:\pre_enrich\痈疡剂\代针膏,巴豆 枳壳 .txt
+E:\pre_enrich\痈疡剂\佛桑散,木槿花 .txt
+E:\pre_enrich\痈疡剂\保安散,蛇蜕 甜瓜子 当归 .txt
+E:\pre_enrich\痈疡剂\全蝎散,桑蠹虫 .txt
+E:\pre_enrich\痈疡剂\八仙公延年不老散,干地黄 茯苓 五味子 天门冬 石菖蒲 远志 石韦 肉桂 .txt
+E:\pre_enrich\痈疡剂\八仙散,荆芥 白术 黄柏 甘草 黄连 升麻 .txt
+E:\pre_enrich\痈疡剂\八仙散,鸽 穿山甲 乳香 没药 海藻 昆布 柚 山梗菜 .txt
+E:\pre_enrich\痈疡剂\八反丸,甘草 甘遂 细辛 当归 半夏 甘草 白芷 芫花 海藻 红花 全蝎 白及 川乌头 铁棒锤 骨碎补 雪乌 .txt
+E:\pre_enrich\痈疡剂\八味黄耆散,大黄 栀子 莽草 黄芩 黄连 荸荠 白芍 .txt
+E:\pre_enrich\痈疡剂\六丁神散,苦丁 丁香 苦参 斑蝥 暴马子 赤小豆 白僵蚕 毛野丁香叶 蛇根草 .txt
+E:\pre_enrich\痈疡剂\六灰丸,血余 穿山甲 麝香 牛黄 当归 人参 朱砂 雄黄 山海螺 鲜地黄 .txt
+E:\pre_enrich\痈疡剂\六神散,槟榔 斑蝥 巴豆 槟榔 硼砂 麝香 轻粉 .txt
+E:\pre_enrich\痈疡剂\养生丹,麝香 猪蹄甲 穿山甲 乳香 地榆 大黄 大青盐 白芷 白矾 露蜂房 朴消 槐花 蜂蜡 自然铜 猪大肠 雄黄 没药 刺猬皮 水牛角 .txt
+E:\pre_enrich\痈疡剂\内消散,朱砂 斑蝥 麝香 滑石 人参 铅丹 .txt
+E:\pre_enrich\痈疡剂\内消散,栝楼 皂角刺 白芷 金银花 大黄 甘草 生姜 石蟾蜍 .txt
+E:\pre_enrich\痈疡剂\内消散,甘草 白僵蚕 .txt
+E:\pre_enrich\痈疡剂\内消牡蛎丸,牡蛎 皂荚子 .txt
+E:\pre_enrich\痈疡剂\内消痔漏丸,冬青子 槐花 黄连 .txt
+E:\pre_enrich\痈疡剂\内消痔漏丸,蜂蜡 白矾 朱砂 珍珠 象牙 .txt
+E:\pre_enrich\痈疡剂\内消瘰疬应验方,土贝母 白芷 .txt
+E:\pre_enrich\痈疡剂\内消瘰疬方,大风子 巴豆 鼠 .txt
+E:\pre_enrich\痈疡剂\内消百疬汤,金银花 防风 半夏 天花粉 天麻 乳香 川芎 没药 甘草 甘草节 白术 白芷 人参 赤芍 山海螺 川贝母 .txt
+E:\pre_enrich\痈疡剂\内补建中汤,滑石 人参 朱砂 斑蝥 麝香 铅丹 .txt
+E:\pre_enrich\痈疡剂\内补散,白蔹 甘草 赤小豆 干姜 黄芩 人参 防风 附子 肉桂 .txt
+E:\pre_enrich\痈疡剂\内补泽兰散,甘草 白僵蚕 .txt
+E:\pre_enrich\痈疡剂\内补黄芪汤.txt
+E:\pre_enrich\痈疡剂\冬青槐角丸,槐角 荆芥 黄连 冬青子 侧柏叶 当归 .txt
+E:\pre_enrich\痈疡剂\冬青汁,荔枝 荔枝草 槲寄生 毛女贞 .txt
+E:\pre_enrich\痈疡剂\冰豆膏,巴豆 梅花冰片 藜 .txt
+E:\pre_enrich\痈疡剂\决明甘草汤,决明子 甘草 青葙子 .txt
+E:\pre_enrich\痈疡剂\冷饮子,附子 桑螵蛸 远志 泽泻 玉 草苁蓉 小茴香 .txt
+E:\pre_enrich\痈疡剂\净连汤,土茯苓 茯苓 麻黄 连翘 当归 川芎 皂角刺 防风 甘草 凤仙透骨草 .txt
+E:\pre_enrich\痈疡剂\凉血饮,升麻 川芎 当归 枳壳 槐角 黄芩 人参 黄连 .txt
+E:\pre_enrich\痈疡剂\刻效散,白矾 黄瓜 栝楼 .txt
+E:\pre_enrich\痈疡剂\前胡建中汤,当归 前胡 生姜 茯苓 黄芩 人参 半夏 甘草 甘草 荸荠 肉桂 .txt
+E:\pre_enrich\痈疡剂\加减槐花散,甘草 升麻 山海螺 .txt
+E:\pre_enrich\痈疡剂\加味桔梗汤,金银花 桔梗 橘 橘红 甘草 甘草节 白及 川贝母 葶苈子 .txt
+E:\pre_enrich\痈疡剂\化坚丸,芫花 穿山甲 川乌头 铁棒锤 乳香 没药 当归 延胡索 全蝎 马钱子 雪乌 .txt
+E:\pre_enrich\痈疡剂\化毒散,当归 苎麻根 赤芍 麻根 白芍 知母 前胡 柴胡 甘草 秦艽 土贝母 山海螺 .txt
+E:\pre_enrich\痈疡剂\化疔汤,甘草 荠菜 .txt
+E:\pre_enrich\痈疡剂\十全大补汤,人参 白术 熟地黄 茯苓 甘草 川芎 金银花 .txt
+E:\pre_enrich\痈疡剂\十宝丹,龙骨 象皮 琥珀 血竭 铅丹 梅花冰片 珍珠 牛黄 乳香 没药 .txt
+E:\pre_enrich\痈疡剂\十宝膏,生姜 槐枝 葱白 花椒 柳枝 桑枝 .txt
+E:\pre_enrich\痈疡剂\千捶绿云膏,松香 蓖麻子 海藻 昆布 天南星 半夏 杏仁 乳香 没药 .txt
+E:\pre_enrich\痈疡剂\升丹.txt
+E:\pre_enrich\痈疡剂\占斯散,防风 厚朴 大黄 栝楼 桔梗 败酱 酱 甘草 生姜 细辛 人参 天花粉 芦根 .txt
+E:\pre_enrich\痈疡剂\参姜寿脾煎,升麻 厚朴 羌活 川芎 当归 橘 橘红 酒 甘草 白术 人参 骨碎补 生姜 .txt
+E:\pre_enrich\痈疡剂\参归汤,人参 甘草 草豆蔻 当归 甘草 鲜地黄 柴胡 升麻 熟地黄 人参 吊灯花 干地黄 .txt
+E:\pre_enrich\痈疡剂\参耆内托散,升麻 厚朴 羌活 川芎 当归 橘 橘红 酒 甘草 白术 人参 骨碎补 生姜 .txt
+E:\pre_enrich\痈疡剂\发背熏药,雄黄 血竭 没药 朱砂 麝香 .txt
+E:\pre_enrich\痈疡剂\发背膏,蜂蜜 .txt
+E:\pre_enrich\痈疡剂\发背膏药,铜绿 银朱 乳香 血竭 没药 铅丹 铅粉 .txt
+E:\pre_enrich\痈疡剂\取毒膏,赤小豆 .txt
+E:\pre_enrich\痈疡剂\取疔散,雄黄 硇砂 蟾酥 砒石 巴豆 轻粉 .txt
+E:\pre_enrich\痈疡剂\取疔膏,蜣螂 .txt
+E:\pre_enrich\痈疡剂\取疔膏,连翘 乳香 桃仁 .txt
+E:\pre_enrich\痈疡剂\吃药即效散,白芷 川贝母 .txt
+E:\pre_enrich\痈疡剂\吕祖发背方,乳香 栝楼 大枣 .txt
+E:\pre_enrich\痈疡剂\吕祖发背灵宝膏,栝楼 乳香 大枣 石蟾蜍 .txt
+E:\pre_enrich\痈疡剂\善应膏,甘草 白芷 铅丹 蜂蜡 .txt
+E:\pre_enrich\痈疡剂\四味散,地榆 当归 薜荔 甘草 甘草节 .txt
+E:\pre_enrich\痈疡剂\四圣丹,地龙 乳香 食盐 木香 蜣螂 血竭 象牙 没药 露蜂房 槐角 .txt
+E:\pre_enrich\痈疡剂\四妙勇安汤.txt
+E:\pre_enrich\痈疡剂\四妙汤,地龙 乳香 没药 血竭 露蜂房 丽江青木香 .txt
+E:\pre_enrich\痈疡剂\四物胶薄贴,大黄 莽草 细辛 .txt
+E:\pre_enrich\痈疡剂\回疮锭子,草乌头 蟾酥 巴豆 麝香 .txt
+E:\pre_enrich\痈疡剂\回蒸膏,穿山甲 乳香 松香 没药 铅丹 黑芝麻 .txt
+E:\pre_enrich\痈疡剂\土鬼丹,铜绿 胆矾 蜈蚣 麝香 鳢鱼 慈乌 .txt
+E:\pre_enrich\痈疡剂\圣枣散,大枣 .txt
+E:\pre_enrich\痈疡剂\地丁饮,甘草 白矾 紫花地丁 金银花 .txt
+E:\pre_enrich\痈疡剂\地丁饮,金榭榴 金银花 .txt
+E:\pre_enrich\痈疡剂\地干丸,白芷 防风 枳壳 阿胶 升麻 .txt
+E:\pre_enrich\痈疡剂\地黄汤,升麻 大黄 当归 栀子 芒消 甘草 白蔹 射干 黄连 山海螺 鲜地黄 .txt
+E:\pre_enrich\痈疡剂\墨汁散,墨旱莲 芜菁 豨莶 .txt
+E:\pre_enrich\痈疡剂\复煎散,防风 羌活 麦门冬 当归 桔梗 苏木 藁本 连翘 酒 独活 猪苓 黄柏 黄芩 甘草梢 甘草 知母 五味子 人参 黄连 大果巴戟 山海螺 .txt
+E:\pre_enrich\痈疡剂\夏冰对配丹,夏枯草 甘草 .txt
+E:\pre_enrich\痈疡剂\夏枯草散,夏枯草 甘草 .txt
+E:\pre_enrich\痈疡剂\夏枯草散,夏枯草 荆芥 枳壳 轻粉 耳草 朴消 灯心草 厚叶素馨 .txt
+E:\pre_enrich\痈疡剂\夏枯草散,金银花 土贝母 夏枯草 天花粉 桔梗 薄荷 连翘 玄参 黄芩 甘草 甘草节 .txt
+E:\pre_enrich\痈疡剂\夏枯草汤,夏枯草 玄参 黄芩 土贝母 金银花 连翘 天花粉 薄荷 桔梗 甘草 甘草 甘草节 .txt
+E:\pre_enrich\痈疡剂\夏枯草汤,金银花 土茯苓 夏枯草 当归 柴胡 栝楼 茯苓 荆芥 鼠 连翘 酒 酸枣仁 漏芦 甘草 何首乌 白芍 山海螺 川贝母 .txt
+E:\pre_enrich\痈疡剂\大川乌丸,苏木 没药 当归 赤芍 乳香 穿山甲 独活 川乌头 .txt
+E:\pre_enrich\痈疡剂\大黄牡丹汤.txt
+E:\pre_enrich\痈疡剂\天下第一方,杏仁 轻粉 孩儿茶 梅花冰片 藜 小升麻 .txt
+E:\pre_enrich\痈疡剂\天下第一消发背方,紫花地丁 金银花 黄连 多头苦荬 槐花 丝茅七 .txt
+E:\pre_enrich\痈疡剂\天南星散,金银花 人参 黑阳参 玄参 .txt
+E:\pre_enrich\痈疡剂\天葵丸,观音苋 海藻 大叶藻 昆布 川贝母 桔梗 海螵蛸 天葵子 .txt
+E:\pre_enrich\痈疡剂\天葵草膏,天葵子 豨莶 .txt
+E:\pre_enrich\痈疡剂\天雄丸,鹿角 天雄 硫黄 .txt
+E:\pre_enrich\痈疡剂\天香膏,乳香 羌活 杏仁 桑枝 苏木 没药 白及 白芷 白蔹 麝香 铅丹 山梗菜 .txt
+E:\pre_enrich\痈疡剂\太乙紫霞丹,没药 乳香 轻粉 梅花冰片 .txt
+E:\pre_enrich\痈疡剂\太平膏,梅花冰片 乳香 轻粉 没药 轻粉 .txt
+E:\pre_enrich\痈疡剂\太平膏,金银花 防风 大黄 羌活 当归 栀子 荆芥 赤芍 连翘 独活 黄芩 甘草 山慈菇 白及 白蔹 关白附 天葵子 .txt
+E:\pre_enrich\痈疡剂\夺命丹,朱砂 蟾酥 .txt
+E:\pre_enrich\痈疡剂\夺命散,轻粉 附子 麝香 全蝎 雄黄 蜈蚣 硇砂 粉霜 乳香 梅花冰片 川乌头 .txt
+E:\pre_enrich\痈疡剂\夺命轻粉散,铁 轻粉 .txt
+E:\pre_enrich\痈疡剂\如圣散,当归 .txt
+E:\pre_enrich\痈疡剂\如圣散,阿胶 桔梗 甘草 .txt
+E:\pre_enrich\痈疡剂\如神千金方,白矾 铁棒锤 铅丹 .txt
+E:\pre_enrich\痈疡剂\妙贴散,白芷 天南星 肉桂 蛤壳 白芍 白及 五倍子 蛤蜊粉 .txt
+E:\pre_enrich\痈疡剂\姜粉散,大黄 高良姜 川芎 干地黄 当归 木香 橘 茯苓 草豆蔻 诃子 酒 甘草 白术 知母 人参 肉桂 青皮 .txt
+E:\pre_enrich\痈疡剂\完善丸,金银花 夏枯草 连翘 甘草 甘草节 .txt
+E:\pre_enrich\痈疡剂\定痛消毒饮,防风 升麻 半夏 厚朴 天花粉 羌活 川芎 当归 枳壳 柴胡 桔梗 茯苓 甘草 白芷 人参 白芍 .txt
+E:\pre_enrich\痈疡剂\定肺丸,乌梅 马兜铃 麦门冬 桑白皮 款冬花 甘草 白皮 百部 知母 紫菀 五味子 人参 罂粟壳 川贝母 .txt
+E:\pre_enrich\痈疡剂\定肺散,乌梅 白术 知母 人参 罂粟壳 川贝母 .txt
+E:\pre_enrich\痈疡剂\宣毒散丸,玄参 白芷 苦参 荆芥 当归 川芎 青黛 慈乌 .txt
+E:\pre_enrich\痈疡剂\宣风散,大黄 巴豆 朴消 枳壳 山海螺 .txt
+E:\pre_enrich\痈疡剂\家传消疬丸,天花粉 绿豆粉 川贝母 茯苓 白术 柿霜 牡蛎 百合 山慈菇 杏仁 蛇眼草 青黛 硼砂 白矾 甘草 香附 牛皮 荷叶 刺蒺藜 .txt
+E:\pre_enrich\痈疡剂\家传神异散,冰 乳香 孩儿茶 青鱼胆 青鱼 朴消 赤石脂 轻粉 没药 熊胆 牛黄 黄柏 黄连 梅花冰片 .txt
+E:\pre_enrich\痈疡剂\宽肠丸,枳壳 百药煎 黄连 .txt
+E:\pre_enrich\痈疡剂\寒水膏,寒水石 蜂蜡 铅丹 石膏 .txt
+E:\pre_enrich\痈疡剂\寸金散,天花粉 赤芍 白芷 姜黄 白及 芙蓉叶 .txt
+E:\pre_enrich\痈疡剂\导气除湿汤,虾蟆 蛤壳 .txt
+E:\pre_enrich\痈疡剂\导经散子,虾蟆 蛤壳 .txt
+E:\pre_enrich\痈疡剂\导赤散,黄芩 山海螺 鲜地黄 .txt
+E:\pre_enrich\痈疡剂\小金丹.txt
+E:\pre_enrich\痈疡剂\少阳丸,鹿角 血余 乳香 没药 蝉蜕 .txt
+E:\pre_enrich\痈疡剂\山楂粥,桂皮 山楂 .txt
+E:\pre_enrich\痈疡剂\川乌丸,木鳖子 当归 赤芍 苏木 独活 羌活 没药 五灵脂 穿山甲 虾蟆 川乌头 .txt
+E:\pre_enrich\痈疡剂\川楝猬皮丸,乳香 槐角 黑芝 黑芝麻 白皮 麝香 刺猬皮 川楝子 .txt
+E:\pre_enrich\痈疡剂\川楝茴香散,乳香 槐角 黑芝 黑芝麻 白皮 麝香 刺猬皮 川楝子 .txt
+E:\pre_enrich\痈疡剂\平肌贴瘰疬膏,乳香 铅丹 铅粉 灯心草 .txt
+E:\pre_enrich\痈疡剂\应艾膏,蓖麻子 露蜂房 .txt
+E:\pre_enrich\痈疡剂\康乐汤,附子 甘草 白术 茯苓 夏枯草 半夏 白附子 甘草 连翘 白芍 香附 山海螺 .txt
+E:\pre_enrich\痈疡剂\开郁汤,金银花 夏枯草 香附 昆布 桔梗 连翘 酒 醋 白芷 白芍 天花粉 食盐 .txt
+E:\pre_enrich\痈疡剂\开郁清痰丸,半夏 天花粉 石膏 羌活 青黛 香附 川芎 当归 昆布 枳壳 桔梗 苍术 连翘 酒 醋 浮石 玄参 黄芩 甘草 白术 白芷 黄连 山海螺 川贝母 .txt
+E:\pre_enrich\痈疡剂\当归散,防风 升麻 乌药 羌活 川芎 当归 枳壳 苏木 荆芥 赤芍 独活 甘草 白芷 红花 葛根 白芍 .txt
+E:\pre_enrich\痈疡剂\当归连翘汤,防风 阿胶 地榆 当归 荆芥 连翘 黄芩 甘草 白术 白芷 人参 栀子 荸荠 .txt
+E:\pre_enrich\痈疡剂\御史散,铁锈 铁 .txt
+E:\pre_enrich\痈疡剂\必效散,斑蝥 荆芥 黑牵牛 白僵蚕 .txt
+E:\pre_enrich\痈疡剂\快斑红蜡丸,蓖麻子 蜗牛 松香 银朱 柚 .txt
+E:\pre_enrich\痈疡剂\急消汤,菊花 甘菊 甘草 忍冬藤 茜草 紫花地丁 川贝母 黄柏 天花粉 桔梗 .txt
+E:\pre_enrich\痈疡剂\托中散,甘草 .txt
+E:\pre_enrich\痈疡剂\托里散,甘草 当归 波罗蜜 栝楼 皂角刺 当归 丝瓜络 丝瓜 .txt
+E:\pre_enrich\痈疡剂\托里消毒散.txt
+E:\pre_enrich\痈疡剂\托里透脓汤.txt
+E:\pre_enrich\痈疡剂\护漏汤,蜣螂 .txt
+E:\pre_enrich\痈疡剂\抵圣散,鸽 金狮藤 丽江青木香 .txt
+E:\pre_enrich\痈疡剂\抵圣汤,闹羊花 .txt
+E:\pre_enrich\痈疡剂\抽风散,阳起石 寒水石 白矾 白石脂 石膏 麦饭石 .txt
+E:\pre_enrich\痈疡剂\拔毒散,巴豆 白矾 砒石 绿矾 雄黄 蜗牛 .txt
+E:\pre_enrich\痈疡剂\拔毒散,阳起石 寒水石 白矾 白石脂 石膏 麦饭石 .txt
+E:\pre_enrich\痈疡剂\拔疔丹,蜣螂 硇砂 .txt
+E:\pre_enrich\痈疡剂\拔疔散,巴豆 蜈蚣 蟾酥 轻粉 酥 丁香 硇砂 柚 .txt
+E:\pre_enrich\痈疡剂\拔疔散,硇砂 蜈蚣 暴马子 蟾酥 轻粉 全蝎 朱砂 雄黄 麝香 乳香 乳香 麝香 蛇根草 .txt
+E:\pre_enrich\痈疡剂\拔疔散,金榭榴 铧头草 .txt
+E:\pre_enrich\痈疡剂\拔疔散,银朱 磁石 土贝母 .txt
+E:\pre_enrich\痈疡剂\拔疔散,麝香 .txt
+E:\pre_enrich\痈疡剂\拔疔方,乳香 蓖麻子 .txt
+E:\pre_enrich\痈疡剂\拔疔膏,蓖麻子 甘草 野菊花 雄黄兰 升麻 血竭 天花粉 紫花地丁 木耳 皂角刺 朱砂 川贝母 知母 蟾酥 麝香 峨眉石凤丹 光慈姑 .txt
+E:\pre_enrich\痈疡剂\拔疔膏,银朱 荔枝 蜗牛 .txt
+E:\pre_enrich\痈疡剂\拔疔除根方,鲥鱼 .txt
+E:\pre_enrich\痈疡剂\拔管神方,鹅管石 白矾 雄黄 薄荷 .txt
+E:\pre_enrich\痈疡剂\拔黄药,蟾酥 酥 鹿梨 .txt
+E:\pre_enrich\痈疡剂\排脓内消散,续断 白芷 香叶 藿香 何首乌 当归 川芎 鲜地黄 茯苓 紫草茸 甘草 荸荠 半夏 .txt
+E:\pre_enrich\痈疡剂\排脓散,干姜 草苁蓉 铁精 细辛 黄芩 白芍 大果巴戟 人参 当归 甘草 防风 肉桂 .txt
+E:\pre_enrich\痈疡剂\排脓止痛利小便散,瞿麦 白芍 赤小豆 麦门冬 白蔹 当归 肉桂 .txt
+E:\pre_enrich\痈疡剂\推车客散,远志 苍术 侧柏叶 槐角 酸枣仁 穿山甲 地骨皮 枳壳 贯众 刺猬皮 猫脚印 食盐 金榭榴 .txt
+E:\pre_enrich\痈疡剂\提疬丹,巴豆 白降丹 .txt
+E:\pre_enrich\痈疡剂\提疬丹,食盐 朱砂 水银 硼砂 绿矾 消石 .txt
+E:\pre_enrich\痈疡剂\收功尽根丸,梅花冰片 雄黄 乌梅 虾蟆 蛤壳 .txt
+E:\pre_enrich\痈疡剂\收肛散,枳壳 山海螺 .txt
+E:\pre_enrich\痈疡剂\攻毒丸,露蜂房 .txt
+E:\pre_enrich\痈疡剂\救急稀涎散,玄参 金银花 甘草 .txt
+E:\pre_enrich\痈疡剂\救肠败毒至圣丹,金银花 当归 地榆 薏苡仁 .txt
+E:\pre_enrich\痈疡剂\救肺败毒至圣丹,玄参 金银花 甘草 .txt
+E:\pre_enrich\痈疡剂\敛疮口散,天花粉 天南星 芙蓉叶 .txt
+E:\pre_enrich\痈疡剂\散,鼠 黄连 白蔹 积雪草 大黄 甘草 芜菁 酸模 .txt
+E:\pre_enrich\痈疡剂\散毒汤,前胡 升麻 大黄 当归 木香 栀子 芒消 连翘 玄参 甘草 射干 芦根 荸荠 .txt
+E:\pre_enrich\痈疡剂\散疔丸,冰 蟾酥 酥 牛黄 麝香 朱砂 梅花冰片 .txt
+E:\pre_enrich\痈疡剂\散疔散,夏枯草 紫花地丁 连翘 .txt
+E:\pre_enrich\痈疡剂\散疔膏,磁石 .txt
+E:\pre_enrich\痈疡剂\散结丸,夏枯草 紫花地丁 连翘 .txt
+E:\pre_enrich\痈疡剂\敷痔神膏,当归 木鳖子 槐花 赤小豆 甘草 白芷 川楝子 .txt
+E:\pre_enrich\痈疡剂\文武膏,夏枯草 桑椹子 .txt
+E:\pre_enrich\痈疡剂\文武膏,桑椹子 桑椹子 .txt
+E:\pre_enrich\痈疡剂\无比丸,防风 斑蝥 .txt
+E:\pre_enrich\痈疡剂\日本国传巴豆涂方,巴豆 附子 半夏 .txt
+E:\pre_enrich\痈疡剂\木七,半夏 天花粉 石膏 羌活 青黛 香附 川芎 当归 昆布 枳壳 桔梗 苍术 连翘 酒 醋 浮石 玄参 黄芩 甘草 白术 白芷 黄连 山海螺 川贝母 .txt
+E:\pre_enrich\痈疡剂\木通汤,金银花 木通 连翘 泽泻 猪苓 天花粉 栝楼 .txt
+E:\pre_enrich\痈疡剂\松脂膏,枇杷 枇杷叶 白沙糖 .txt
+E:\pre_enrich\痈疡剂\枇杷散,枇杷叶 白沙糖 .txt
+E:\pre_enrich\痈疡剂\枯痔宽肠方,大黄 枳壳 当归 .txt
+E:\pre_enrich\痈疡剂\枯痔散,乌梅 红粉 .txt
+E:\pre_enrich\痈疡剂\枯痔散,白矾 蟾酥 轻粉 砒霜 大青盐 .txt
+E:\pre_enrich\痈疡剂\枯痔散.txt
+E:\pre_enrich\痈疡剂\枯痔方,白矾 密陀僧 .txt
+E:\pre_enrich\痈疡剂\枯痔药,白矾 砒霜 荭草 .txt
+E:\pre_enrich\痈疡剂\枳壳散,地骨皮 干姜 无名异 枳壳 苍耳 苍耳根 荆芥 蛇床子 贯众 白皮 黄连 四季青 大透骨消 .txt
+E:\pre_enrich\痈疡剂\枳壳除痔丸,枳壳 枳壳 大草乌 .txt
+E:\pre_enrich\痈疡剂\柏子养心丸,麦门冬 当归 枸杞子 柏子仁 茯神 酒 甘草 石菖蒲 大山玄参 熟地黄 .txt
+E:\pre_enrich\痈疡剂\柏胶丸,雄黄 槐角 熊胆 牡蛎 小茴香 侧柏叶 黄连 蜂蜜 黄明胶 .txt
+E:\pre_enrich\痈疡剂\柴胡汤,荆芥 川乌头 柴胡 秦艽 知母 当归 藿香 甘松 地骨皮 枫香脂 白芍 川芎 苎麻根 肉桂 .txt
+E:\pre_enrich\痈疡剂\柴胡清肝饮,大黄 山慈菇 耳草 芙蓉叶 苍耳 醋 黄柏 白及 白芷 .txt
+E:\pre_enrich\痈疡剂\栝石汤,凤凰衣 露蜂房 蕨 人指甲 牛黄 蝉蜕 野猪肉 .txt
+E:\pre_enrich\痈疡剂\桔梗汤,桔梗 白及 橘红 甘草 川贝母 甘草 金银花 薏苡仁 葶苈子 .txt
+E:\pre_enrich\痈疡剂\梅肉丸,乌梅 砂仁 白芷 荷叶 薄荷 百药煎 朴消 绿豆粉 隔山香 滇白芷 .txt
+E:\pre_enrich\痈疡剂\梅花蛋,鸡子 .txt
+E:\pre_enrich\痈疡剂\梦授异功丹,天麻 鹿角 木香 蜈蚣 酒 甘草 皂角刺 麝香 川乌头 藜 .txt
+E:\pre_enrich\痈疡剂\槐肤酒,槐角 地肤子 金榭榴 苦地丁 .txt
+E:\pre_enrich\痈疡剂\槐花丹,木香 白芷 粉霜 当归 血竭 朱砂 槐花 沉香 丁香 乳香 没药 血余 大黄 牛黄 梅花冰片 麝香 孩儿茶 山海螺 .txt
+E:\pre_enrich\痈疡剂\槐荆丸,槐花 荆芥 .txt
+E:\pre_enrich\痈疡剂\槐角丸,槐角 枳壳 橘红 甘草 .txt
+E:\pre_enrich\痈疡剂\槐角丸,槐角 槐花 槟榔 黄芩 刺猬皮 .txt
+E:\pre_enrich\痈疡剂\水云膏,川芎 干姜 乳香 孩儿茶 没药 槐花 皂荚 五倍子 .txt
+E:\pre_enrich\痈疡剂\水杨汤,荷叶 .txt
+E:\pre_enrich\痈疡剂\沉水膏,雄黄 半夏 乳香 木鳖子 赤小豆 没药 白及 白芷 天南星 川贝母 .txt
+E:\pre_enrich\痈疡剂\没药丸,羌活 独活 当归 赤芍 苏木 五灵脂 穿山甲 没药 乳香 五灵脂 白芍 虾蟆 川乌头 .txt
+E:\pre_enrich\痈疡剂\治发背膏,乳香 当归 木鳖子 杏仁 没药 铅丹 芦根 .txt
+E:\pre_enrich\痈疡剂\治疔丸,白僵蚕 蟾酥 梅花冰片 麝香 白矾 牛黄 朱砂 .txt
+E:\pre_enrich\痈疡剂\治痈疽神应膏,闹羊花 阿魏 雄黄 朱砂 甘草 五灵脂 麝香 铁棒锤 雪乌 .txt
+E:\pre_enrich\痈疡剂\法制何首乌丸,牛膝 何首乌 山梗菜 茯苓 .txt
+E:\pre_enrich\痈疡剂\洗痔国老汤,荆芥 甘草 藿香 .txt
+E:\pre_enrich\痈疡剂\洗痔漏神方,马齿 马齿苋 艾叶 花椒 苋 茄根 葱白 五倍子 朴消 .txt
+E:\pre_enrich\痈疡剂\洗痔神方,马齿 花椒 茄根 地龙 墨旱莲 .txt
+E:\pre_enrich\痈疡剂\洗痔金花散,无名异 黄柏 黄连 慈乌 .txt
+E:\pre_enrich\痈疡剂\流注散,金银花 金银花子 雄黄 木香 朱砂 全蝎 蝉蜕 .txt
+E:\pre_enrich\痈疡剂\济生莲蕊散,大黄 莲子心 黑牵牛 当归 黄连 乳香 没药 五倍子 荭草 .txt
+E:\pre_enrich\痈疡剂\浴毒汤,黄柏 黄芩 甘草 黄连 芜菁 酸模 .txt
+E:\pre_enrich\痈疡剂\海藻散,海藻 昆布 何首乌 皂角刺 青蛇莲 柚 蛇蜕 .txt
+E:\pre_enrich\痈疡剂\海藻玉壶汤.txt
+E:\pre_enrich\痈疡剂\海龙丸,当归 昆布 茯苓 海藻 穿山甲 全蝎 耳草 海藻 厚叶素馨 .txt
+E:\pre_enrich\痈疡剂\涂角药,天花粉 槐花 赤小豆 滑石 白皮 白药 白药子 寒水石 .txt
+E:\pre_enrich\痈疡剂\消化无形汤,金银花 天花粉 当归 通草 甘草 天葵子 观音苋 .txt
+E:\pre_enrich\痈疡剂\消愁破结酿,白僵蚕 全蝎 白芷 白芥子 白术 附子 冬葵根 .txt
+E:\pre_enrich\痈疡剂\消核汤,金银花 前胡 夏枯草 天花粉 山药 苍术 蒲公英 浮海石 .txt
+E:\pre_enrich\痈疡剂\消核锭,山慈菇 .txt
+E:\pre_enrich\痈疡剂\消核饮,半夏 赤芍 夏枯草 荆芥 大叶藻 当归 昆布 海藻 白芍 柴胡 川贝母 青皮 防风 香附 山海螺 .txt
+E:\pre_enrich\痈疡剂\消毒丸,巴豆 丁香 铅丹 暴马子 .txt
+E:\pre_enrich\痈疡剂\消疔丸,铜绿 松香 乳香 没药 虫白蜡 蜂蜡 豨莶 .txt
+E:\pre_enrich\痈疡剂\消疔散,乌梅 雄黄 柚 .txt
+E:\pre_enrich\痈疡剂\消疔散,全蝎 乳香 斑蝥 蜈蚣 蟾酥 血竭 赤芍 酥 没药 玄参 麝香 乌梅 柚 .txt
+E:\pre_enrich\痈疡剂\消疔散,雄黄 巴豆 .txt
+E:\pre_enrich\痈疡剂\消疔散,黄连 黄柏 荸荠 大黄 灯心草 梅花冰片 麝香 .txt
+E:\pre_enrich\痈疡剂\消疔泻毒丸,巴豆 蟾酥 酥 麝香 牛黄 白矾 .txt
+E:\pre_enrich\痈疡剂\消疔酥信丹,酥 大枣 杜衡 .txt
+E:\pre_enrich\痈疡剂\消疬丸,夏枯草 连翘 蓖麻子 火麻仁 .txt
+E:\pre_enrich\痈疡剂\消痔丸,乳香 象牙 没药 白矾 .txt
+E:\pre_enrich\痈疡剂\消痰消核膏,半夏 甘遂 天南星 .txt
+E:\pre_enrich\痈疡剂\消瘰丸,乳香 莪术 龙胆 血竭 三棱 没药 浙贝母 牡蛎 玄参 厚叶素馨 山苦草 .txt
+E:\pre_enrich\痈疡剂\消管丸,当归 槐花 苦参 荜澄茄 酒 五倍子 黄连 .txt
+E:\pre_enrich\痈疡剂\消肿膏,桃仁 蜈蚣 乳香 没药 桃仁 大黄 白芷 黄药子 蜈蚣 全蝎 桂枝 当归 樟脑 梅花冰片 铁棒锤 .txt
+E:\pre_enrich\痈疡剂\润肠散,朴消 猪肉 小扁豆根 .txt
+E:\pre_enrich\痈疡剂\混元球,千年艾 艾叶 .txt
+E:\pre_enrich\痈疡剂\清肝化痰丸,夏枯草 当归 昆布 柴胡 栀子 连翘 海藻 铅丹 大叶藻 .txt
+E:\pre_enrich\痈疡剂\清肠饮.txt
+E:\pre_enrich\痈疡剂\清肺桔梗汤,甘草 甘草节 桔梗 五味子 枳壳 栝楼子 桑白皮 当归 大果巴戟 川贝母 百合 薏苡仁 地骨皮 葶苈子 知母 杏仁 当归 枳壳 广防己 .txt
+E:\pre_enrich\痈疡剂\清金饮,桔梗 橘 橘叶 藜 黄芩 刺蒺藜 天花粉 .txt
+E:\pre_enrich\痈疡剂\滋阴清化丸,天门冬 麦门冬 山药 川贝母 当归 茯苓 酒 玄参 知母 铅丹 山茱萸 .txt
+E:\pre_enrich\痈疡剂\滴滴金,硇砂 轻粉 砒石 雄黄 朱砂 .txt
+E:\pre_enrich\痈疡剂\火麻仁丸,桑椹子 桑椹子 .txt
+E:\pre_enrich\痈疡剂\炉峰散,姜黄 赤小豆 炉甘石 半夏 川贝母 白及 乳香 五倍子 天南星 .txt
+E:\pre_enrich\痈疡剂\烧枣散,百药煎 大枣 .txt
+E:\pre_enrich\痈疡剂\烧灰散,田螺 .txt
+E:\pre_enrich\痈疡剂\焊肺丹,蜂蜡 .txt
+E:\pre_enrich\痈疡剂\熊胆膏,熊胆 梅花冰片 .txt
+E:\pre_enrich\痈疡剂\熏洗汤,金银花 羌活 独活 川乌头 铁棒锤 防风 苍术 薄荷 紫苏叶 桑叶 桃叶 槐叶 樟树叶 雪乌 .txt
+E:\pre_enrich\痈疡剂\牙消散,狗肝 .txt
+E:\pre_enrich\痈疡剂\牛乳丸,牛乳 生姜 .txt
+E:\pre_enrich\痈疡剂\牛胆丸,轻粉 麝香 牛口涎 .txt
+E:\pre_enrich\痈疡剂\牛蒡解肌汤.txt
+E:\pre_enrich\痈疡剂\牵牛丸,牵牛子 荆芥 白僵蚕 斑蝥 黑牵牛 .txt
+E:\pre_enrich\痈疡剂\犀角丸,升麻 大黄 牛蒡子 玄参 慈乌 .txt
+E:\pre_enrich\痈疡剂\犀黄丸.txt
+E:\pre_enrich\痈疡剂\狐骨散,狐胆 皂荚 .txt
+E:\pre_enrich\痈疡剂\狗肠丸,女贞子 青黛 松萝 象牙 山海螺 .txt
+E:\pre_enrich\痈疡剂\独圣膏,牛皮 黄明胶 .txt
+E:\pre_enrich\痈疡剂\独活汤,牛皮 黄明胶 .txt
+E:\pre_enrich\痈疡剂\独神散,接骨木 漆树皮 牛黄 .txt
+E:\pre_enrich\痈疡剂\猫蚣散,蜈蚣 金铁锁 周裂秋海棠 .txt
+E:\pre_enrich\痈疡剂\猬皮丸,刺猬皮 当归 槐角 酒 .txt
+E:\pre_enrich\痈疡剂\猬皮丸,当归 酒 当归 刺猬皮 槐角 黄连 地骨皮 甘草 乳香 酒 乳香 甘草 蜂蜜 .txt
+E:\pre_enrich\痈疡剂\玄灵散,蜂蜡 .txt
+E:\pre_enrich\痈疡剂\玉燕膏,当归 赤芍 穿山甲 全蝎 白芷 黄连 黄芩 海藻 马钱子 肉桂 .txt
+E:\pre_enrich\痈疡剂\玉粉散,牡蛎 .txt
+E:\pre_enrich\痈疡剂\玉红散,寒水石 铅丹 轻粉 .txt
+E:\pre_enrich\痈疡剂\玉肌丹,石膏 红升丹 蝎子七 红粉 .txt
+E:\pre_enrich\痈疡剂\琥珀散,凌霄花 海藻 琥珀 皂角刺 瞿麦 .txt
+E:\pre_enrich\痈疡剂\甘草膏,大麦 甘草 .txt
+E:\pre_enrich\痈疡剂\生地黄汁汤,附子 雉 当归 甘草 白石英 人参 山海螺 鲜地黄 .txt
+E:\pre_enrich\痈疡剂\生地黄汤,当归 甘草 白石英 人参 附子 山海螺 .txt
+E:\pre_enrich\痈疡剂\生地黄涂敷方,鲜地黄 淡豆豉 芒消 干地黄 .txt
+E:\pre_enrich\痈疡剂\生津汤,大血藤 乳香 .txt
+E:\pre_enrich\痈疡剂\生肌散,乳香 孩儿茶 没药 白矾 五倍子 .txt
+E:\pre_enrich\痈疡剂\生肌散,全蝎 乳香 朱砂 龙骨 血竭 赤石脂 轻粉 酒 没药 海螵蛸 铅丹 凤凰衣 .txt
+E:\pre_enrich\痈疡剂\生肌散,龙骨 乌骨麻 孩儿茶 .txt
+E:\pre_enrich\痈疡剂\生肌散,龙骨 诃子 .txt
+E:\pre_enrich\痈疡剂\生肌散,龙骨 轻粉 白石脂 白矾 麝香 铅丹 .txt
+E:\pre_enrich\痈疡剂\生肌散.txt
+E:\pre_enrich\痈疡剂\生肌玉红膏.txt
+E:\pre_enrich\痈疡剂\生肌神秘散,铅 铅粉 银朱 豆腐 轻粉 珍珠 红粉 .txt
+E:\pre_enrich\痈疡剂\生肌膏,乳香 龙骨 血竭 轻粉 鸡子 .txt
+E:\pre_enrich\痈疡剂\生肌药,乳香 龙骨 轻粉 没药 海螵蛸 寒水石 .txt
+E:\pre_enrich\痈疡剂\生附子散,附子 当归 甘草 白石英 人参 山海螺 鲜地黄 .txt
+E:\pre_enrich\痈疡剂\生鱼簿,大黄 鲤鱼 莽草 伏龙肝 .txt
+E:\pre_enrich\痈疡剂\疔疮塞鼻丹,银朱 雄黄 巴豆 大枣 .txt
+E:\pre_enrich\痈疡剂\疔疮锭子,苍耳 白芷 甘草 雄黄 硇砂 甘草 .txt
+E:\pre_enrich\痈疡剂\疔膏,蓖麻子 蜗牛 松香 银朱 柚 .txt
+E:\pre_enrich\痈疡剂\痔漏丸,全蝎 冬青子 墨 大黄 石莲 川芎 当归 槐角 象牙 赤芍 酒 牛膝 黄柏 黄芩 黄连 青蛇莲 莲房 .txt
+E:\pre_enrich\痈疡剂\痔漏丸,刺猬皮 绿豆 绿豆粉 青黛 槐花 象牙 山海螺 .txt
+E:\pre_enrich\痈疡剂\痔漏丸,甘草节 甘草 金银花 连翘 .txt
+E:\pre_enrich\痈疡剂\痔漏丸,茯苓 山药 山茱萸 牡丹皮 白芍 象牙 鳖甲 肉苁蓉 何首乌 熟地黄 .txt
+E:\pre_enrich\痈疡剂\痔漏丸,雄黄 刺猬皮 胡黄连 鱼鳔 朱砂 莲须 血竭 象牙 酒 琥珀 人指甲 黄连 露蜂房 孩儿茶 .txt
+E:\pre_enrich\痈疡剂\痔漏内消散,冬青子 刺猬皮 青黛 蝉蜕 象牙 .txt
+E:\pre_enrich\痈疡剂\痔漏大灵药,铅 朱砂 鹅管石 白矾 雌黄 雄黄 硫黄 大青盐 青礞石 枫香脂 .txt
+E:\pre_enrich\痈疡剂\痔漏混元丹,铅 雌黄 青礞石 水银 硫黄 山海螺 绿矾 .txt
+E:\pre_enrich\痈疡剂\痔漏神验方,木馒头 干姜 百草霜 血余 侧柏叶 乌梅 骨碎补 山海螺 .txt
+E:\pre_enrich\痈疡剂\痔漏退管生肌丹,铅 雄黄 硫黄 水银 朱砂 雌黄 .txt
+E:\pre_enrich\痈疡剂\痰核丸,石膏 鹅管石 沉香 茯苓 甘草 白术 百草霜 硼砂 钟乳石 山海螺 .txt
+E:\pre_enrich\痈疡剂\痰核瘰疬膏,乳香 蓖麻子 蜣螂 醋 没药 海藻 磁石 土贝母 浙贝母 .txt
+E:\pre_enrich\痈疡剂\痰核酒,威灵仙 白果 紫花地丁 金边兔耳 鲩鱼 .txt
+E:\pre_enrich\痈疡剂\瘰疬丸,斑蝥 川贝母 天花粉 玄参 甘草 .txt
+E:\pre_enrich\痈疡剂\瘰疬丸,牡蛎 玄参 土茯苓 .txt
+E:\pre_enrich\痈疡剂\瘰疬内消仙方,鸽 穿山甲 乳香 没药 海藻 蜗牛 柚 山梗菜 .txt
+E:\pre_enrich\痈疡剂\瘰疬奇方,梅花 鸡子 鸡肾参 .txt
+E:\pre_enrich\痈疡剂\瘰疬妙方,铅粉 乳香 没药 孩儿茶 蛤壳 龙骨 露蜂房 密陀僧 血竭 蓖麻子 蛤蜊粉 .txt
+E:\pre_enrich\痈疡剂\瘰疬拔根方,猪肉 斑蝥 鸡子 土茯苓 .txt
+E:\pre_enrich\痈疡剂\瘰疬收口药方,橄榄 .txt
+E:\pre_enrich\痈疡剂\瘰疬敷药,肥皂核 皂荚子 .txt
+E:\pre_enrich\痈疡剂\瘰疬痰核膏,海藻 当归 白芷 黄连 黄柏 黄芩 马钱子 全蝎 赤芍 细辛 肉桂 .txt
+E:\pre_enrich\痈疡剂\瘰疬膏,乳香 铅丹 铅粉 灯心草 .txt
+E:\pre_enrich\痈疡剂\瘰疬膏,大黄 轻粉 铅粉 虫白蜡 蜂蜡 乳香 没药 梅花冰片 .txt
+E:\pre_enrich\痈疡剂\瘰疬膏,枳壳 虾蟆 防风 露蜂房 鼠 巴豆 蓖麻子 商陆 天南星 半夏 蛇蜕 大黄 木鳖子 穿山甲 马钱子 射干 川乌头 当归 红花 白芷 白僵蚕 紫花地丁 观音苋 芫花 急性子 鲫鱼 铁棒锤 雪乌 .txt
+E:\pre_enrich\痈疡剂\瘰疬膏,没药 乳香 血余 穿山甲 马钱子 铅丹 麝香 木鳖子 .txt
+E:\pre_enrich\痈疡剂\瘰疬膏,象皮 蜂蜡 铅粉 乳香 没药 孩儿茶 龙骨 血竭 .txt
+E:\pre_enrich\痈疡剂\瘰疬酒,臭牡丹 酒 .txt
+E:\pre_enrich\痈疡剂\瘰疬饼,山药 蓖麻子 .txt
+E:\pre_enrich\痈疡剂\白及锭,天南星 海藻 昆布 梅花冰片 麝香 大青盐 半夏 牡蛎 红花 .txt
+E:\pre_enrich\痈疡剂\白散子,附子 白附子 甘遂 香附 半夏 黑牵牛 骨碎补 芜菁 .txt
+E:\pre_enrich\痈疡剂\白果叶散,雄黄 白果叶 珍珠 轻粉 .txt
+E:\pre_enrich\痈疡剂\白玉化痰丸,白矾 白芷 .txt
+E:\pre_enrich\痈疡剂\白蚕散,白僵蚕 血竭 没药 .txt
+E:\pre_enrich\痈疡剂\白银锭子,白芷 白矾 .txt
+E:\pre_enrich\痈疡剂\百合汤,川贝母 当归 桑白皮 桔梗 薏苡仁 牡丹皮 甘草 白皮 百合 大果巴戟 大枣 .txt
+E:\pre_enrich\痈疡剂\百合煎,百合 白花九里明 .txt
+E:\pre_enrich\痈疡剂\皂荚丸,皂荚 大黄 荷叶 薄荷 鸡子 轻粉 .txt
+E:\pre_enrich\痈疡剂\益后汤,地榆 山药 茯苓 穿山甲 白芍 莲子心 薏苡仁 .txt
+E:\pre_enrich\痈疡剂\益母丸,当归 母草 益母草 .txt
+E:\pre_enrich\痈疡剂\益气清脏汤,升麻 川芎 .txt
+E:\pre_enrich\痈疡剂\瞿麦饮子,瞿麦 连翘 木奶果 .txt
+E:\pre_enrich\痈疡剂\石青解毒丸,浮海石 石膏 青黛 浮石 .txt
+E:\pre_enrich\痈疡剂\砒砂雄黄散,巴豆 雄黄 白矾 蟾酥 酥 砒霜 朱砂 食盐 乌梅 .txt
+E:\pre_enrich\痈疡剂\碧雪,石膏 青黛 朴消 芒消 甘草 寒水石 马齿 .txt
+E:\pre_enrich\痈疡剂\神仙不老汤,丁香 硇砂 暴马子 蛇根草 .txt
+E:\pre_enrich\痈疡剂\神仙回脓散,金银花 天花粉 蒲公英 连翘 甘草 白芷 .txt
+E:\pre_enrich\痈疡剂\神仙追毒丹,大黄 芒消 牛蒡子 .txt
+E:\pre_enrich\痈疡剂\神效丸,白芷 甘草 甘草节 牡蛎 隔山香 滇白芷 .txt
+E:\pre_enrich\痈疡剂\神效太乙膏,砒霜 轻粉 乳香 没药 麝香 铅丹 麝香 铅丹 .txt
+E:\pre_enrich\痈疡剂\神效托里散.txt
+E:\pre_enrich\痈疡剂\神效散,金银花 天花粉 蒲公英 连翘 甘草 白芷 .txt
+E:\pre_enrich\痈疡剂\神效消疬丸,山药 茯苓 泽泻 牡丹皮 牡蛎 玄参 山茱萸 延胡索 .txt
+E:\pre_enrich\痈疡剂\神效瘰疬膏,半夏 马钱子 血竭 甘遂 穿山甲 .txt
+E:\pre_enrich\痈疡剂\神灵枯药膏,朱砂 樟脑 白矾 梅花冰片 砒石 .txt
+E:\pre_enrich\痈疡剂\神秘散,荆芥 斑蝥 黑牵牛 白僵蚕 .txt
+E:\pre_enrich\痈疡剂\神秘汤,桔梗 橘 生姜 五味子 人参 桑白皮 酥 .txt
+E:\pre_enrich\痈疡剂\神茄汤,茄子 .txt
+E:\pre_enrich\痈疡剂\神锋散,硇砂 丁香 暴马子 蛇根草 .txt
+E:\pre_enrich\痈疡剂\神雷汤,防风 大黄 鳖甲 鹤虱 当归 木贼 枳实 芜荑 茄子 酒 黄芩 皂角刺 蚕蜕 蜂蜡 .txt
+E:\pre_enrich\痈疡剂\禹余粮饮,甘草 轻粉 禹余粮 .txt
+E:\pre_enrich\痈疡剂\秘传归参汤,川芎 当归 茯苓 甘草 白术 人参 山海螺 鲜地黄 .txt
+E:\pre_enrich\痈疡剂\秘传熏洗方,绿矾 知母 川贝母 .txt
+E:\pre_enrich\痈疡剂\秘传熏洗方,防风 枳壳 苍术 苦参 荆芥 玄明粉 黄柏 黄连 .txt
+E:\pre_enrich\痈疡剂\秘传痔漏内消丸,防风 刺猬皮 地榆 槐角 芜荑 苦参 象牙 醋 漏芦 猪蹄 黄芩 白术 石菖蒲 黄连 骨碎补 棕榈皮 .txt
+E:\pre_enrich\痈疡剂\秘传神应膏,梅花冰片 熊胆 血竭 牛黄 乳香 没药 .txt
+E:\pre_enrich\痈疡剂\秘传膏药,绿豆 胆矾 檀香 乳香 没药 蚺蛇肉 轻粉 .txt
+E:\pre_enrich\痈疡剂\秘制白龙丹,川贝母 .txt
+E:\pre_enrich\痈疡剂\秦皮散,大黄 当归 苦参 莽草 黄芩 秦皮 细辛 黄连 .txt
+E:\pre_enrich\痈疡剂\秦艽补漏汤,升麻 地榆 山楂 川芎 当归 枳壳 槐角 连翘 黄芩 白芷 秦艽 白芍 黄连 棕榈皮 .txt
+E:\pre_enrich\痈疡剂\立应散,白僵蚕 牵牛子 斑蝥 .txt
+E:\pre_enrich\痈疡剂\立消疔疮外治神效方,松香 没药 虫白蜡 铜绿 蜂蜡 百草霜 乳香 .txt
+E:\pre_enrich\痈疡剂\竹叶黄耆汤,大枣 黄芩 淡竹叶 竹叶 小麦 前胡 麦门冬 枳实 茯苓 甘草 升麻 山海螺 .txt
+E:\pre_enrich\痈疡剂\紫金丹,白矾 铅丹 .txt
+E:\pre_enrich\痈疡剂\紫金丹,砒石 朱砂 雄黄 巴豆 硇砂 .txt
+E:\pre_enrich\痈疡剂\紫金丹,雄黄 硼砂 .txt
+E:\pre_enrich\痈疡剂\紫金散,白矾 铅丹 .txt
+E:\pre_enrich\痈疡剂\紫金散,砒石 雄黄 硼砂 .txt
+E:\pre_enrich\痈疡剂\紫金膏,乳香 胆矾 巴豆 荞麦 轻粉 没药 石灰 麝香 铅丹 梅花冰片 .txt
+E:\pre_enrich\痈疡剂\红膏,巴豆 铅丹 轻粉 松香 硇砂 .txt
+E:\pre_enrich\痈疡剂\红鸡膏,苏木 降香 当归 川芎 红花 海藻 大叶藻 夏枯草 昆布 连翘 赤芍 三棱 莪术 槟榔 枳壳 木香 栝楼 穿山甲 皂角刺 金银花 香附 橘红 天南星 半夏 桔梗 牡蛎 青皮 牡蛎 铅丹 .txt
+E:\pre_enrich\痈疡剂\结核消解散,白术 附子 甘草 防风 光头前胡 .txt
+E:\pre_enrich\痈疡剂\绛宫丸,芦荟 甘草 大黄 山楂 连翘 川芎 当归 麦芽 桃仁 黄连 天南星 海藻 羌活 桔梗 防风 白术 黄芩 甘草 升麻 .txt
+E:\pre_enrich\痈疡剂\绿袍散,绿豆 大黄 .txt
+E:\pre_enrich\痈疡剂\羊肾丸,决明子 天浆壳 .txt
+E:\pre_enrich\痈疡剂\羊角散,决明子 天浆壳 .txt
+E:\pre_enrich\痈疡剂\羌活当归汤,防风 羌活 栀子 藁本 连翘 酒 泽泻 独活 黄柏 黄芩 甘草 黄连 当归 .txt
+E:\pre_enrich\痈疡剂\肠痈散,白矾 雄黄 大黄 .txt
+E:\pre_enrich\痈疡剂\肺痈救溃汤,金银花 桔梗 款冬花 菊花 蒲公英 玄参 黄芩 甘草 紫花地丁 山海螺 .txt
+E:\pre_enrich\痈疡剂\肺痈汤,当归 白芍 天门冬 阿胶 薏苡仁 金银花 连翘 桔梗 .txt
+E:\pre_enrich\痈疡剂\肺痈汤,甘草 桔梗 川贝母 天花粉 杏仁 白芥子 生姜 栝楼 .txt
+E:\pre_enrich\痈疡剂\胜金散,铁锈 铁 .txt
+E:\pre_enrich\痈疡剂\胡芦巴丸,大草乌 枳壳 .txt
+E:\pre_enrich\痈疡剂\脱茧风凉膏,鸡子 雄黄 .txt
+E:\pre_enrich\痈疡剂\自沸汤,石灰 白矾 青黛 炉甘石 .txt
+E:\pre_enrich\痈疡剂\芭蕉散,芭蕉根 .txt
+E:\pre_enrich\痈疡剂\苇茎汤.txt
+E:\pre_enrich\痈疡剂\苍白二陈汤,铁 芜菁 .txt
+E:\pre_enrich\痈疡剂\苍耳散,苍耳根 乌梅 苍耳 芜菁 .txt
+E:\pre_enrich\痈疡剂\苍耳膏,芥子 荆芥 马齿 虾蟆 苍耳子 冬葵子 蜂蜡 木香 石长生 当归 黄芩 藁本 玄参 丁香 雄黄 乳香 苍耳 雄黄 猫肉 .txt
+E:\pre_enrich\痈疡剂\苍金砂散,铁 芜菁 .txt
+E:\pre_enrich\痈疡剂\苍金砂散,雄黄 蟾酥 酥 硇砂 苍耳 .txt
+E:\pre_enrich\痈疡剂\苏叶橘甘桔汤,紫苏叶 甘草 桔梗 杏仁 茯苓 川贝母 生姜 .txt
+E:\pre_enrich\痈疡剂\茯苓汤,赤茯苓 桃仁 甜瓜子 芒消 大黄 牡丹皮 赤茯苓 .txt
+E:\pre_enrich\痈疡剂\茵陈蒿丸,天花粉 芙蓉叶 铁棒锤 雪乌 .txt
+E:\pre_enrich\痈疡剂\草乌揭毒散,天花粉 芙蓉叶 铁棒锤 雪乌 .txt
+E:\pre_enrich\痈疡剂\草头方,夏枯草 乌鸦 马鞭草 牛膝 眼睛草 山扁豆 鬼针草 .txt
+E:\pre_enrich\痈疡剂\草膏,荔枝 荔枝草 雪山林 地白草 .txt
+E:\pre_enrich\痈疡剂\荔枝膏,乳香 荔枝 川芎 白豆蔻 血竭 轻粉 麝香 砂仁 朱砂 龙骨 全蝎 .txt
+E:\pre_enrich\痈疡剂\药线,芫花根 芫花 蟾酥 铁棒锤 酥 雪乌 .txt
+E:\pre_enrich\痈疡剂\药酒,鹿梨 百合 .txt
+E:\pre_enrich\痈疡剂\药酒,鹿茸 当归 酒 酥 淫羊藿 仙茅 芜菁 酸模 .txt
+E:\pre_enrich\痈疡剂\萆麻散,雄黄 地胆 斑蝥 海马 砒霜 金榭榴 苦地丁 .txt
+E:\pre_enrich\痈疡剂\葛真君汤,白芍 白芥子 香附 茯苓 附子 桔梗 甘草 山海螺 .txt
+E:\pre_enrich\痈疡剂\蒲黄散,蒲黄 血竭 .txt
+E:\pre_enrich\痈疡剂\蓖麻子丸,蓖麻子 白矾 黑大豆 .txt
+E:\pre_enrich\痈疡剂\薄荷玄明散,冰 薄荷 消石 玄明粉 硼砂 大青盐 梅花冰片 .txt
+E:\pre_enrich\痈疡剂\薏苡仁汤,薏苡仁 酒 醋 .txt
+E:\pre_enrich\痈疡剂\薏苡仁汤.txt
+E:\pre_enrich\痈疡剂\薏苡败酱汤,丹参 麦门冬 桔梗 茯苓 薏苡仁 败酱 酱 甘草 生姜 山海螺 鲜地黄 .txt
+E:\pre_enrich\痈疡剂\薏苡附子败酱散.txt
+E:\pre_enrich\痈疡剂\薜荔散,薜荔 .txt
+E:\pre_enrich\痈疡剂\蛇犀散,橘 牵牛子 青皮 金钱白花蛇 .txt
+E:\pre_enrich\痈疡剂\蛭蟾丹,蟾酥 熊胆 麝香 梅花冰片 食盐 柚 .txt
+E:\pre_enrich\痈疡剂\蜀葵汤,大黄 .txt
+E:\pre_enrich\痈疡剂\蜂蛇散,蛇蜕 露蜂房 蛇蜕 柚 .txt
+E:\pre_enrich\痈疡剂\蝉蜕散,蝉蜕 白僵蚕 .txt
+E:\pre_enrich\痈疡剂\蝉蜕无比散,蝉蜕 白僵蚕 .txt
+E:\pre_enrich\痈疡剂\蝉退散,木鳖子 蛇床子 蝉蜕 皂角刺 穿山甲 .txt
+E:\pre_enrich\痈疡剂\蝣蜒丸,壁虎 .txt
+E:\pre_enrich\痈疡剂\螺灰散,田螺 .txt
+E:\pre_enrich\痈疡剂\蟾酥丸,蟾酥 酥 麻黄 .txt
+E:\pre_enrich\痈疡剂\蟾酥丸,雄黄 朱砂 蟾酥 酒 酥 .txt
+E:\pre_enrich\痈疡剂\蟾酥丸.txt
+E:\pre_enrich\痈疡剂\蟾酥膏,巴豆 蟾酥 酥 丁香 寒水石 暴马子 蛇根草 .txt
+E:\pre_enrich\痈疡剂\血竭膏,没药 乳香 没药 铅丹 .txt
+E:\pre_enrich\痈疡剂\补漏丸,夏枯草 连翘 甘草 甘草节 .txt
+E:\pre_enrich\痈疡剂\补肺散,人参 石灰 五味子 .txt
+E:\pre_enrich\痈疡剂\观音救苦针,白矾 全蝎 铁棒锤 铅丹 .txt
+E:\pre_enrich\痈疡剂\角刺粥,糯米 炉甘果 .txt
+E:\pre_enrich\痈疡剂\解毒生肌散,石灰 铅丹 龙骨 麝香 密陀僧 .txt
+E:\pre_enrich\痈疡剂\贝母白芷内消散,白芷 土贝母 浙贝母 .txt
+E:\pre_enrich\痈疡剂\败毒散,金银花 防风 全蝎 大黄 川芎 当归 木鳖子 朴消 枳壳 荆芥 蜈蚣 蝉蜕 连翘 熟地黄 甘草 穿山甲 山海螺 柚 .txt
+E:\pre_enrich\痈疡剂\败毒散,防风 前胡 大山玄参 蒲公英 金银花 穿山甲 赤芍 连翘 甘草 玄参 .txt
+E:\pre_enrich\痈疡剂\败毒流气饮,防风 厚朴 羌活 当归 木香 枳壳 茯苓 独活 甘草 白芷 山海螺 肉桂 .txt
+E:\pre_enrich\痈疡剂\贯众散,贯众 白芷 .txt
+E:\pre_enrich\痈疡剂\贴疮蜂房散,露蜂房 皂荚 蜂蜜 .txt
+E:\pre_enrich\痈疡剂\走马赴筵丹,没药 乳香 硼砂 硇砂 雄黄 轻粉 梅花冰片 .txt
+E:\pre_enrich\痈疡剂\走马赴筵丹,雄黄 巴豆 轻粉 朱砂 百草霜 梅花冰片 .txt
+E:\pre_enrich\痈疡剂\车螯散,土贝母 白芷 .txt
+E:\pre_enrich\痈疡剂\软坚散,浮海石 天南星 山药 昆布 海藻 土贝母 .txt
+E:\pre_enrich\痈疡剂\软硬皂子丸,皂荚子 连翘 玄参 .txt
+E:\pre_enrich\痈疡剂\轻粉丸,鸡子 巴豆 乌骨鸡 轻粉 .txt
+E:\pre_enrich\痈疡剂\辛夷散,糯米 炉甘果 .txt
+E:\pre_enrich\痈疡剂\辰砂膏,甜瓜蒂 朱砂 梅花冰片 .txt
+E:\pre_enrich\痈疡剂\连翘败毒散.txt
+E:\pre_enrich\痈疡剂\追毒丸,浮海石 乳香 没药 巴豆 川乌头 浮石 .txt
+E:\pre_enrich\痈疡剂\追毒化管作脓丸,胡黄连 刺猬皮 麝香 骨碎补 生姜 .txt
+E:\pre_enrich\痈疡剂\追毒膏,鼠 丁香 麝香 斑蝥 槲皮 关白附 天葵子 .txt
+E:\pre_enrich\痈疡剂\追疔夺命汤,蝉蜕 青皮 防风 黄连 细辛 何首乌 羌活 白僵蚕 紫河车 防风 黄精 山佩兰 .txt
+E:\pre_enrich\痈疡剂\追疔夺命汤,金银花 防风 天花粉 羌活 青皮 川芎 桔梗 蝉蜕 赤芍 连翘 泽兰 独活 甘草 甘草节 白芷 细辛 黄连 栀子 白僵蚕 .txt
+E:\pre_enrich\痈疡剂\追疔汤,赤芍 黄连 甘草 甘草节 羌活 独活 青皮 防风 细辛 蝉蜕 八角莲 .txt
+E:\pre_enrich\痈疡剂\追疔飞龙夺命丹,朱砂 雄黄 蟾酥 蜈蚣 轻粉 麝香 梅花冰片 雄黄 朱砂 .txt
+E:\pre_enrich\痈疡剂\追风补肾十漏大金丹,当归 麦门冬 补骨脂 枳壳 白芷 杏仁 人参 鲜地黄 小茴香 鹿茸 川乌头 木香 铁牛钻石 青皮 乌药 肉豆蔻 天麻 乳香 没药 枳实 香附 松节 丁香 硇砂 肉苁蓉 山药 茯苓 附子 厚朴 砂仁 熟地黄 木香 八角茴香 卜芥 .txt
+E:\pre_enrich\痈疡剂\追魂丹,花蕊石 酥 蜈蚣 蟾酥 乳香 粉霜 没药 全蝎 轻粉 白矾 铜绿 寒水石 血竭 梅花冰片 麝香 朱砂 蜗牛 荭草 樟脑 .txt
+E:\pre_enrich\痈疡剂\退疔夺命丹,防风 青皮 羌活 独活 黄连 赤芍 细辛 白僵蚕 蝉蜕 金银花 八角莲 紫河车 甘草 甘草节 黄精 山佩兰 .txt
+E:\pre_enrich\痈疡剂\退管丸,刺猬皮 乳香 血竭 象牙 象皮 没药 露蜂房 胡黄连 .txt
+E:\pre_enrich\痈疡剂\退管丸,露蜂房 凤凰衣 牛黄 人指甲 野猪肉 蕨 .txt
+E:\pre_enrich\痈疡剂\退管验方,水银 白矾 豆腐浆 砒霜 .txt
+E:\pre_enrich\痈疡剂\退肿散,半夏 赤小豆 白芷 川贝母 五倍子 天南星 .txt
+E:\pre_enrich\痈疡剂\透脓散.txt
+E:\pre_enrich\痈疡剂\通肠痔漏丸,防风 茯苓 荆芥 藜 赤芍 独活 黄柏 白术 白鲜皮 百部 羌活 当归 柏子仁 人参 苦参 薏苡仁 天花粉 玄明粉 黄柏 当归 赤芍 白术 柏子仁 羌活 防风 玄明粉 天花粉 雅丽千金藤 刺蒺藜 .txt
+E:\pre_enrich\痈疡剂\通肠痔漏方,槐花 肥皂核 酥 狗肝 .txt
+E:\pre_enrich\痈疡剂\遇仙如意丹,防风 斑蝥 槟榔 郁李仁 甘草 白术 糯米 密陀僧 牛口涎 .txt
+E:\pre_enrich\痈疡剂\遇仙无比丸,防风 斑蝥 槟榔 郁李仁 甘草 白术 糯米 密陀僧 牛口涎 .txt
+E:\pre_enrich\痈疡剂\避寒术,附子 雄黄 泽泻 .txt
+E:\pre_enrich\痈疡剂\避岚气方,心叶荆芥 苍术 .txt
+E:\pre_enrich\痈疡剂\避疫香粉,雄黄 大黄 .txt
+E:\pre_enrich\痈疡剂\避瘟丸,雄黄 鬼箭羽 丹参 赤小豆 .txt
+E:\pre_enrich\痈疡剂\避瘟丹,乳香 血余 没药 穿山甲 麝香 铅丹 马钱子 .txt
+E:\pre_enrich\痈疡剂\避瘟丹,臭牡丹 酒 .txt
+E:\pre_enrich\痈疡剂\避瘟丹,降香 乌藨连 .txt
+E:\pre_enrich\痈疡剂\避瘟丹,降香 乳香 川芎 苍术 甘松 细辛 .txt
+E:\pre_enrich\痈疡剂\酒煎散,杨梅 柳根 梅根 水杨梅 水杨梅根 白芷 金刚散 银叶柳 .txt
+E:\pre_enrich\痈疡剂\酒煮黄连丸,杨梅 柳根 梅根 水杨梅 水杨梅根 白芷 金刚散 银叶柳 .txt
+E:\pre_enrich\痈疡剂\醒消丸.txt
+E:\pre_enrich\痈疡剂\金七,冰 吴茱萸 乳香 当归 轻粉 黄柏 白及 白蔹 黄连 铅丹 梅花冰片 .txt
+E:\pre_enrich\痈疡剂\金刀如圣散,雄黄 朱砂 轻粉 铁棒锤 雪乌 .txt
+E:\pre_enrich\痈疡剂\金宝膏,杏仁 桑柴灰 穿山甲 粉霜 麝香 山海螺 鲜地黄 .txt
+E:\pre_enrich\痈疡剂\金星膏,凤尾草 竹叶 葱白 侧柏叶 大瓦韦 .txt
+E:\pre_enrich\痈疡剂\金砂散,苍耳 硇砂 雄黄 木耳 苍耳子 .txt
+E:\pre_enrich\痈疡剂\金砂散,雄黄 硇砂 .txt
+E:\pre_enrich\痈疡剂\金箍散,白及 白蔹 大黄 黄柏 轻粉 白芷 绿豆粉 菊花 郁金 .txt
+E:\pre_enrich\痈疡剂\金线膏,楸叶 马齿苋 楸木皮 .txt
+E:\pre_enrich\痈疡剂\金绵膏,楸叶 马齿苋 楸木皮 .txt
+E:\pre_enrich\痈疡剂\金蝉补漏丸,乳香 没药 甘草 白矾 五谷虫 .txt
+E:\pre_enrich\痈疡剂\金蟾丸,朱砂 雄黄 轻粉 铁棒锤 海金沙 雪乌 .txt
+E:\pre_enrich\痈疡剂\金银花酒,金银花 .txt
+E:\pre_enrich\痈疡剂\钓疬褪管生肌丹,食盐 水银 绿矾 硇砂 .txt
+E:\pre_enrich\痈疡剂\铁井阑,芙蓉叶 苍耳 玄参 .txt
+E:\pre_enrich\痈疡剂\铁围散,防风 阿胶 半夏 大黄 乳香 木鳖子 没药 黄柏 甘草 甘草节 皂角刺 黄连 铁棒锤 雪乌 .txt
+E:\pre_enrich\痈疡剂\铁圈散,甘草 甘草节 乳香 没药 大黄 黄连 黄柏 天南星 半夏 防风 羌活 铁棒锤 阿胶 皂荚 雪乌 .txt
+E:\pre_enrich\痈疡剂\铁箍散,大黄 芙蓉叶 黄柏 金果榄 冰球子 .txt
+E:\pre_enrich\痈疡剂\铁落饮,防风 阿胶 半夏 大黄 乳香 木鳖子 没药 黄柏 甘草 甘草节 皂角刺 黄连 铁棒锤 雪乌 .txt
+E:\pre_enrich\痈疡剂\铅酒,铅 甘草 .txt
+E:\pre_enrich\痈疡剂\银花解毒汤,金银花 夏枯草 连翘 金榭榴 铅丹 .txt
+E:\pre_enrich\痈疡剂\银花解毒汤.txt
+E:\pre_enrich\痈疡剂\锭子疮药,硫黄 朴消 .txt
+E:\pre_enrich\痈疡剂\长春绿袍散,砂仁 绿矾 胆矾 川芎 茯苓 诃子 酸石榴 百药煎 石榴皮 细辛 花椒 没食子 .txt
+E:\pre_enrich\痈疡剂\长肉生肌药,大黄 雄黄 轻粉 乳香 .txt
+E:\pre_enrich\痈疡剂\闭管丸,槐花 石决明 穿山甲 胡黄连 .txt
+E:\pre_enrich\痈疡剂\防己葶苈丸,杏仁 大果巴戟 广防己 .txt
+E:\pre_enrich\痈疡剂\防风散,防风 牵牛子 .txt
+E:\pre_enrich\痈疡剂\阳和汤.txt
+E:\pre_enrich\痈疡剂\降丹.txt
+E:\pre_enrich\痈疡剂\除根散,石莲 蜘蛛 当归 蝉蜕 白僵蚕 壁虎 大黄 当归 豨莶 蜈蚣 .txt
+E:\pre_enrich\痈疡剂\除痔丸,没药 血竭 露蜂房 蝉蜕 木香 麝香 .txt
+E:\pre_enrich\痈疡剂\雄脑散,樟脑 雄黄 .txt
+E:\pre_enrich\痈疡剂\雄麝汤,荆芥 牛蒡子 牡蛎 白芷 金银花 白僵蚕 栀子 铁牛钻石 茜草 甘草 铧头草 金榭榴 .txt
+E:\pre_enrich\痈疡剂\雄黄丸,雄黄 朱砂 牛黄 硫黄 磁石 麝香 .txt
+E:\pre_enrich\痈疡剂\雄黄丸,雄黄 朱砂 细辛 人参 麝香 芦根 .txt
+E:\pre_enrich\痈疡剂\雌雄散,斑蝥 贯众 鹤虱 甘草 猫肉 .txt
+E:\pre_enrich\痈疡剂\青云生肌膏,水银 桂皮 朱砂 蜂蜡 松香 .txt
+E:\pre_enrich\痈疡剂\青橘连翘饮,青皮 柴胡 桃仁 橘 橘叶 连翘 甘草 皂角刺 栝楼 石蟾蜍 .txt
+E:\pre_enrich\痈疡剂\青蓝汁,竹沥 .txt
+E:\pre_enrich\痈疡剂\青龟丸,羊蹄 茯苓 薏苡仁 穿山甲 人参 软丝藻 当归 瓦松 白芷 柚 慈乌 .txt
+E:\pre_enrich\痈疡剂\顺气消痰饮,防风 半夏 夏枯草 川芎 昆布 枳实 栀子 桔梗 槟榔 茯苓 赤芍 醋 海藻 黄芩 白芷 石燕 黄连 大叶藻 山海螺 .txt
+E:\pre_enrich\痈疡剂\顺经汤,大黄 桂枝 槟榔 当归 川芎 白芍 白芷 桔梗 枳壳 当归 乌药 枳壳 豨莶 酥 .txt
+E:\pre_enrich\痈疡剂\鬼代丹,地龙 乳香 自然铜 无名异 木鳖子 醋 没药 .txt
+E:\pre_enrich\痈疡剂\鬼哭丹,附子 厚朴 天麻 乌药 乳香 肉苁蓉 肉豆蔻 青皮 香附 鹿茸 麦门冬 山药 当归 木香 杏仁 松节 枳壳 枳实 茯苓 丁香 没药 熟地黄 白芷 砂仁 硇砂 小茴香 人参 铁牛钻石 八角茴香 .txt
+E:\pre_enrich\痈疡剂\鲫鱼丸,鲫鱼 巴豆 麻皮 豨莶 小白花苏 .txt
+E:\pre_enrich\痈疡剂\鲫鱼散,鲫鱼 天仙子 .txt
+E:\pre_enrich\痈疡剂\鲮甲散,当归 木通 栝楼 橘 橘叶 穿山甲 栝楼子 皂角刺 .txt
+E:\pre_enrich\痈疡剂\鸡子方,鸡子 轻粉 鸡子 .txt
+E:\pre_enrich\痈疡剂\鸡峰乌金散,阿胶 刺猬皮 枳壳 贯众 皂荚 穿山甲 槐角 水牛角 .txt
+E:\pre_enrich\痈疡剂\鸦珠丸,沉香 沉香 母丁香 珍珠 .txt
+E:\pre_enrich\痈疡剂\鹭鹚藤酒,甘草 木通 甘草 金银花 .txt
+E:\pre_enrich\痈疡剂\鹳骨丸,丁香 羚羊角 鹳骨 狸骨 射干 玄参 升麻 铁牛钻石 沉香 丹参 甘草 人参 沙参 獭肝 连翘 朱砂 土木香 .txt
+E:\pre_enrich\痈疡剂\麦门冬丸,大黄 枳壳 干地黄 麦门冬 木通 人参 五味子 羌活 防风 黄芩 木耳 茯神 天雄 升麻 泽兰 当归 芦根 卵叶寄生 .txt
+E:\pre_enrich\痈疡剂\麦饼,大麦 甘草 .txt
+E:\pre_enrich\痈疡剂\麻虫膏,柚 .txt
+E:\pre_enrich\痈疡剂\黄明胶散,黄明胶 大黄 莽草 细辛 .txt
+E:\pre_enrich\痈疡剂\黄耆散,甘草 皂角刺 巴茅根 荭草 .txt
+E:\pre_enrich\痈疡剂\黄耆汤,石膏 当归 麦门冬 白芍 黄芩 人参 甘草 半夏 生姜 鲜地黄 大枣 淡竹叶 干地黄 .txt
+E:\pre_enrich\痈疡剂\黄耆汤,藜 黄芩 大黄 甘草 甘草 刺蒺藜 紫云英子 .txt
+E:\pre_enrich\痈疡剂\黄耆汤,麦门冬 干地黄 远志 人参 当归 甘草 大枣 生姜 麦门冬 干地黄 桑螵蛸 荸荠 .txt
+E:\pre_enrich\痈疡剂\黄耆白芷膏,大黄 乳香 续断 当归 薤白 白芷 山海螺 鲜地黄 .txt
+E:\pre_enrich\痈疡剂\黄蜡拈,铜绿 松香 苦参 轻粉 硇砂 蜂蜡 .txt
+E:\pre_enrich\痈疡剂\黄连散,黄连 大黄 .txt
+E:\pre_enrich\痈疡剂\黄连解毒汤,黄柏 黄芩 黄连 金银花 .txt
+E:\pre_enrich\痈疡剂\黄金散,藿香 黄柏 黄芩 甘松 甘草 白芷 灵香草 五月霜 .txt
+E:\pre_enrich\痈疡剂\黄鼠膏,鼠 大黄 黄连 .txt
+E:\pre_enrich\痈疡剂\黑白散,黑牵牛 黑牵牛 牵牛子 .txt
+E:\pre_enrich\痈疡剂\鼠疬马刀丸,枳壳 大黄 斑蝥 .txt
+E:\pre_enrich\痈疡剂\龙涎散,龙骨 密陀僧 花蕊石 黄柏 .txt
+E:\pre_enrich\痈疡剂\龙珠膏,马鞭草 海藻 苏木 大枣 .txt
+E:\pre_enrich\痈疡剂\龙芽一醉饮,马鞭草 玄参 .txt
+E:\pre_enrich\痈疡剂\龙骨散,龙骨 白芷 寒水石 铅丹 .txt
+E:\pre_enrich\痈疡剂\龙骨牡蛎汤,马鞭草 玄参 .txt
+E:\pre_enrich\眼病方\地肤子丸,决明子 地肤子 青葙 青葙子 干地黄 茺蔚子 菟丝 菟丝子 萤火 藜 覆盆子 酒 甜瓜 甜瓜子 细辛 车前子 黄连 刺蒺藜 芜菁 .txt
+E:\pre_enrich\眼病方\太乙丹,决明子 防风 羚羊角 菟丝 菟丝子 车前子 芦根 .txt
+E:\pre_enrich\眼病方\枸杞丸,甘菊 羊角藤 巴戟天 .txt
+E:\pre_enrich\眼病方\洗眼光明汤,桑白皮 .txt
+E:\pre_enrich\眼病方\羊肝丸.txt
+E:\pre_enrich\眼病方\补益猪肾丸,附子 肉苁蓉 藜 酒 牛膝 刺蒺藜 蜂蜡 .txt
+E:\pre_enrich\眼病方\补肺款冬花汤,附子 肉苁蓉 藜 酒 牛膝 刺蒺藜 蜂蜡 .txt
+E:\pre_enrich\眼病方\车前子丸,决明子 防风 羚羊角 菟丝 菟丝子 车前子 芦根 .txt
+E:\pre_enrich\祛暑剂\六一散.txt
+E:\pre_enrich\祛暑剂\新加香薷饮.txt
+E:\pre_enrich\祛暑剂\桂苓甘露饮.txt
+E:\pre_enrich\祛暑剂\清暑益气汤.txt
+E:\pre_enrich\祛暑剂\清络饮.txt
+E:\pre_enrich\祛暑剂\益元散.txt
+E:\pre_enrich\祛暑剂\碧玉散.txt
+E:\pre_enrich\祛暑剂\香薷散.txt
+E:\pre_enrich\祛暑剂\鸡苏散.txt
+E:\pre_enrich\祛湿剂\万灵膏,甘遂 樟脑 蓖麻子 火麻仁 .txt
+E:\pre_enrich\祛湿剂\三仁汤.txt
+E:\pre_enrich\祛湿剂\三妙散.txt
+E:\pre_enrich\祛湿剂\三痹汤.txt
+E:\pre_enrich\祛湿剂\三退散,金钱草 冬葵子 鸡内金 海金沙 瞿麦 石韦 .txt
+E:\pre_enrich\祛湿剂\三金汤,金钱草 冬葵子 鸡内金 海金沙 瞿麦 石韦 .txt
+E:\pre_enrich\祛湿剂\下膈散,荆芥 苦参 莪术 龙眼肉 益智仁 .txt
+E:\pre_enrich\祛湿剂\不换金正气散.txt
+E:\pre_enrich\祛湿剂\九制松香膏,松香 肉桂 白芥 白芥子 干姜 芥子 川乌头 铁棒锤 苍术 蓖麻子 血余 凤仙透骨草 闹羊花 .txt
+E:\pre_enrich\祛湿剂\二丑归黄丸,大黄 杜仲 当归 生姜 大枣 赤沙糖 荭草 .txt
+E:\pre_enrich\祛湿剂\二妙散.txt
+E:\pre_enrich\祛湿剂\二黄丹花汤,红花岩黄芪 牡蛎 白茅根 白花蛇舌草 大黄 杜仲 白术 丹参 茯苓 益母草 瞿麦 .txt
+E:\pre_enrich\祛湿剂\五淋散.txt
+E:\pre_enrich\祛湿剂\五皮散.txt
+E:\pre_enrich\祛湿剂\五皮饮.txt
+E:\pre_enrich\祛湿剂\五苓散.txt
+E:\pre_enrich\祛湿剂\交泰散,半夏 肉豆蔻 青皮 香叶 木瓜 藿香 甘草 石菖蒲 山海螺 .txt
+E:\pre_enrich\祛湿剂\仙草汤,大黄 八仙草 薏苡仁 .txt
+E:\pre_enrich\祛湿剂\代温灸膏.txt
+E:\pre_enrich\祛湿剂\假苏散,香附 麦芽 木通 茯苓 荆芥 赤茯苓 瞿麦 山海螺 .txt
+E:\pre_enrich\祛湿剂\健脾活血汤,白术 红花岩黄芪 党参 茯苓 丹参 当归 赤芍 益母草 白扁豆 赤小豆 石韦 大腹皮 莲子心 .txt
+E:\pre_enrich\祛湿剂\健脾补肾固精汤,红花岩黄芪 党参 白术 山药 菟丝子 熟地黄 白芍 山茱萸 车前子 芡实 金樱子 甘草 .txt
+E:\pre_enrich\祛湿剂\健脾补肾固精汤,红花岩黄芪 党参 白术 山药 菟丝子 熟地黄 白芍 车前子 芡实 金樱子 甘草 .txt
+E:\pre_enrich\祛湿剂\八仙茶,木香 母丁香 丁香 荔枝 杜仲 菟丝子 木鳖子 甘草 小茴香 附子 沉香 诃子 锁阳 大青盐 熟地黄 栀子 蜂蜜 .txt
+E:\pre_enrich\祛湿剂\八仙酒,五加皮 白术 何首乌 当归 续断 杜仲 .txt
+E:\pre_enrich\祛湿剂\八正散.txt
+E:\pre_enrich\祛湿剂\八珍袋泡茶,红花岩黄芪 桂枝 母草 茯苓 败酱 酱 益母草 大叶苣荬菜 山苦荬 .txt
+E:\pre_enrich\祛湿剂\六和汤.txt
+E:\pre_enrich\祛湿剂\利胆排石汤,姜黄 威灵仙 鸡内金 木香 柴胡 虎杖 大黄 .txt
+E:\pre_enrich\祛湿剂\加减不换金正气散,半夏 厚朴 苍术 茯苓 藿香 甘草 白芷 砂仁 神曲 人参 山海螺 .txt
+E:\pre_enrich\祛湿剂\加味桃红四物汤,桃仁 红花 川芎 当归 熟地黄 赤芍 丹参 益母草 泽兰 甘草 .txt
+E:\pre_enrich\祛湿剂\加味温胆汤,白术 大黄 半夏 竹茹 枳实 茯苓 生姜 甘草 山海螺 .txt
+E:\pre_enrich\祛湿剂\加味补阳还五汤,当归 桃仁 红花 红花岩黄芪 益母草 土茯苓 赤芍 地龙 牛膝 山药 杜仲 续断 徐长卿 .txt
+E:\pre_enrich\祛湿剂\加味青蒿鳖甲汤,鳖甲 青蒿 牡丹皮 蝉蜕 半枝莲 紫花地丁 猪苓 薏苡仁 地龙 丹参 藿香 佩兰 荷叶 荆芥 豨莶 .txt
+E:\pre_enrich\祛湿剂\化毒除湿汤,金银花 枳壳 赤芍 通草 泽兰 牡丹皮 当归 薏苡仁 .txt
+E:\pre_enrich\祛湿剂\北芪注射液,红花岩黄芪 .txt
+E:\pre_enrich\祛湿剂\十三太保丸,独活 川乌头 铁棒锤 麻黄 细辛 马钱子 天麻 防风 白芷 雄黄 朱砂 穿山甲 雪乌 .txt
+E:\pre_enrich\祛湿剂\厚朴散,厚朴 肉豆蔻 草豆蔻 .txt
+E:\pre_enrich\祛湿剂\参归汤,人参 甘草 草豆蔻 当归 甘草 鲜地黄 柴胡 升麻 熟地黄 人参 吊灯花 干地黄 .txt
+E:\pre_enrich\祛湿剂\参萸汤,山药 山茱萸 丹参 白术 桂枝 五味子 葶苈子 桔梗 桔梗 龙骨 枳壳 荡皮参 .txt
+E:\pre_enrich\祛湿剂\双萸散,吴茱萸 山茱萸 木鳖子 狗脊 红升麻 花叶狗牙七 .txt
+E:\pre_enrich\祛湿剂\吴茱萸丸,吴茱萸 甘遂 葶苈子 .txt
+E:\pre_enrich\祛湿剂\四倍汤,赤石脂 石菖蒲 牡蛎 人参 食盐 .txt
+E:\pre_enrich\祛湿剂\四妙汤.txt
+E:\pre_enrich\祛湿剂\四苓散.txt
+E:\pre_enrich\祛湿剂\培肾元煎,熟地黄 当归 山药 枸杞子 附子 白术 茯苓 炮姜 人参 附子 豨莶 .txt
+E:\pre_enrich\祛湿剂\大神术汤,甘草 白芷 石膏 细辛 知母 苍术 羌活 防风 川芎 黄芩 枳壳 羌活 枳实 .txt
+E:\pre_enrich\祛湿剂\大黄丸,大黄 黄柏 黄芩 黄连 .txt
+E:\pre_enrich\祛湿剂\大黄泻毒汤,附子 半枝莲 大黄 桂枝 牡蛎 玄明粉 .txt
+E:\pre_enrich\祛湿剂\大黄甘遂汤.txt
+E:\pre_enrich\祛湿剂\如神汤,厚朴 高良姜 甘草 生姜 .txt
+E:\pre_enrich\祛湿剂\威灵仙丸,威灵仙 木瓜 鹿角胶 枫香脂 .txt
+E:\pre_enrich\祛湿剂\宁哮饮,半夏 地龙 杏仁 桃仁 茯苓 补骨脂 远志 沙参 麻黄 甘草 白果 细辛 五味子 山海螺 酥 .txt
+E:\pre_enrich\祛湿剂\实脾饮.txt
+E:\pre_enrich\祛湿剂\宣痹汤.txt
+E:\pre_enrich\祛湿剂\宫方感应丸,枳壳 巴豆 酒 荜澄茄 杏仁 肉豆蔻 干姜 百草霜 金狮藤 铁牛钻石 三棱 丁香 姜黄 槟榔 白豆蔻 生姜 蜂蜡 土木香 .txt
+E:\pre_enrich\祛湿剂\平胃散.txt
+E:\pre_enrich\祛湿剂\强肾丸,白术 熟地黄 丹参 山药 防风 太子参 当归 枸杞子 山茱萸 茯苓 巴戟天 桑寄生 淫羊藿 杜仲 金樱子 芡实 雷公藤 大枣 银紫丹参 荭草 .txt
+E:\pre_enrich\祛湿剂\当归拈痛散.txt
+E:\pre_enrich\祛湿剂\必效散,枳实 栀子 草龙 龙胆 甘草 金丝梅 山海螺 .txt
+E:\pre_enrich\祛湿剂\必效散,葶苈子 龙胆 黄芩 金钟茵陈 厚叶素馨 .txt
+E:\pre_enrich\祛湿剂\急肾汤,麻黄 白花蛇舌草 金银花 连翘 茯苓 泽泻 猪苓 头巾草 韩信草 .txt
+E:\pre_enrich\祛湿剂\愈疸汤,地骨皮 砂仁 大枣 .txt
+E:\pre_enrich\祛湿剂\慢肾灵口服液,桂枝 母草 茯苓 败酱 酱 益母草 大叶苣荬菜 山苦荬 .txt
+E:\pre_enrich\祛湿剂\抵圣散,赤芍 槟榔 白芍 .txt
+E:\pre_enrich\祛湿剂\攒风散,杏仁 麻黄 甘草 慈乌 .txt
+E:\pre_enrich\祛湿剂\木瓜分气丸,木瓜 橘 姜黄 黑牵牛 莪术 莱菔子 山海螺 莱菔 .txt
+E:\pre_enrich\祛湿剂\木香散,木香 藿香 人参 .txt
+E:\pre_enrich\祛湿剂\柏术丸,川牛膝 木瓜 苍术 酒 牛膝 黄柏 .txt
+E:\pre_enrich\祛湿剂\柴平汤.txt
+E:\pre_enrich\祛湿剂\柴胡三金汤,金钱草 大黄 威灵仙 丹参 鸡内金 木香 枳实 柴胡 郁金 黄芩 白芍 .txt
+E:\pre_enrich\祛湿剂\柴胡厚朴汤,厚朴 柴胡 槟榔 橘 茯苓 生姜 酥 紫苏叶 .txt
+E:\pre_enrich\祛湿剂\柴苓栀子汤,柴胡 黄芩 人参 半夏 白术 茯苓 猪苓 泽泻 栀子 柴胡 茯苓 山海螺 .txt
+E:\pre_enrich\祛湿剂\栀子仁散,栀子 山海螺 茵陈蒿 .txt
+E:\pre_enrich\祛湿剂\栀子柏皮汤.txt
+E:\pre_enrich\祛湿剂\栀子酒,栀子 茵陈蒿 .txt
+E:\pre_enrich\祛湿剂\桃仁膏,桃仁 杏仁 巴豆 朱砂 .txt
+E:\pre_enrich\祛湿剂\槟榔散,槟榔 赤芍 白芍 .txt
+E:\pre_enrich\祛湿剂\水煮金花汤,生姜 .txt
+E:\pre_enrich\祛湿剂\沉香散,当归 沉香 滑石 王不留行 甘草 瞿麦 石韦 细辛 黄连 芜菁 酸模 .txt
+E:\pre_enrich\祛湿剂\沉香散,沉香 茯苓 甘草 丁香 藿香 木香 木香 沉香 肉桂 .txt
+E:\pre_enrich\祛湿剂\治疸神饮,兰香草 山海螺 .txt
+E:\pre_enrich\祛湿剂\治黄神丹,厚朴 椒目 苍术 甘草 山海螺 绿矾 .txt
+E:\pre_enrich\祛湿剂\泽泻散.txt
+E:\pre_enrich\祛湿剂\泽泻汤.txt
+E:\pre_enrich\祛湿剂\活血健脾汤,白术 半夏 泽泻 茯苓 女贞子 紫花地丁 益母草 冬虫夏草 鸡内金 水蛭 红花岩黄芪 .txt
+E:\pre_enrich\祛湿剂\消炎利胆散,鸡内金 川楝子 木通 木香 柴胡 栀子 沉香 郁金 甘草 金丝梅 延胡索 .txt
+E:\pre_enrich\祛湿剂\消石效灵散,三棱 莪术 青礞石 浮海石 消石 绿矾 王不留行 穿山甲 三棱 莪术 大黄 木香 枳实 金荞麦 鸡内金 雪药 .txt
+E:\pre_enrich\祛湿剂\消石散,金钱草 大黄 山楂 鸡内金 柴胡 郁金 .txt
+E:\pre_enrich\祛湿剂\消食丸,白术 附子 香附 三棱 莪术 神曲 枳壳 槟榔 乌梅 丁香 山海螺 .txt
+E:\pre_enrich\祛湿剂\清浊肾复汤,红花岩黄芪 巴戟天 白茅根 山药 白术 鹿角胶 山茱萸 木通 肉桂 砂仁 .txt
+E:\pre_enrich\祛湿剂\温阳利水汤,附子 肉桂 红花岩黄芪 党参 白术 茯苓 木香 葶苈子 益母草 金樱子 枸杞子 丹参 白芍 芡实 .txt
+E:\pre_enrich\祛湿剂\温阳活血汤,红花岩黄芪 丹参 车前草 夏枯草 党参 当归 猪苓 柏子仁 酸枣仁 桂枝 茯苓 泽泻 生姜 .txt
+E:\pre_enrich\祛湿剂\湿热型胆石汤,金钱草 鸡内金 延胡索 木香 柴胡 栀子 虎杖 溪黄草 石菖蒲 金丝梅 山海螺 .txt
+E:\pre_enrich\祛湿剂\牢牙赴筵散,附子 附子 香附 高良姜 食盐 细辛 .txt
+E:\pre_enrich\祛湿剂\独妙丹,劲直蒿 山海螺 .txt
+E:\pre_enrich\祛湿剂\独活寄生汤.txt
+E:\pre_enrich\祛湿剂\猪肚丸,川楝子 母丁香 莲子 丁香 猪肚 八角茴香 木蝴蝶 .txt
+E:\pre_enrich\祛湿剂\猪苓汤.txt
+E:\pre_enrich\祛湿剂\甘甜丸,甘遂 细辛 花椒 葶苈子 .txt
+E:\pre_enrich\祛湿剂\甘露消毒丹.txt
+E:\pre_enrich\祛湿剂\甚应膏,黄明胶 骨碎补 生姜 .txt
+E:\pre_enrich\祛湿剂\益母地黄益肾汤,山药 益母草 红花岩黄芪 熟地黄 泽泻 山茱萸 牡丹皮 茯苓 紫苏叶 半边旗 半边莲 .txt
+E:\pre_enrich\祛湿剂\益气养阴汤,党参 北沙参 厚朴 当归 枳实 枸杞子 沙参 石斛 车前草 白芍 熟地黄 红花岩黄芪 .txt
+E:\pre_enrich\祛湿剂\益气利湿汤,地榆 党参 红花岩黄芪 茯苓 甘草 白术 滑石 车前子 白茅根 .txt
+E:\pre_enrich\祛湿剂\益气活血汤,党参 白术 薏苡仁 当归 泽兰 丹参 益母草 枸杞子 红花岩黄芪 .txt
+E:\pre_enrich\祛湿剂\益肾活血汤,茯苓 熟地黄 桑寄生 白茅根 当归 益母草 牡丹皮 红花岩黄芪 .txt
+E:\pre_enrich\祛湿剂\真武汤.txt
+E:\pre_enrich\祛湿剂\石杏膏,石韦 滑石 .txt
+E:\pre_enrich\祛湿剂\石韦散,冬葵子 滑石 瞿麦 石韦 木奶果 .txt
+E:\pre_enrich\祛湿剂\石韦散,石韦 滑石 .txt
+E:\pre_enrich\祛湿剂\硼砂丸,蒲公英 芦根 大黄 青蒿 .txt
+E:\pre_enrich\祛湿剂\秦皮散,秦艽 北丝石竹 商陆 .txt
+E:\pre_enrich\祛湿剂\秦艽丸,秦艽 秦艽 茵陈蒿 槟榔 商陆 栀子 橘 葶苈子 .txt
+E:\pre_enrich\祛湿剂\秦艽散,秦艽 旋覆花 赤茯苓 甘草 秦艽 甘草 .txt
+E:\pre_enrich\祛湿剂\绛矾丸,厚朴 橘 莪术 三棱 甘草 黄连 莎草 .txt
+E:\pre_enrich\祛湿剂\羌活桂归酒,当归 狗脊 蚕沙 羌活 桂枝 秦艽 防风 续断 附子 杜仲 川芎 桑枝 生姜 大枣 红升麻 花叶狗牙七 .txt
+E:\pre_enrich\祛湿剂\羌活汤,羌活 防风 升麻 柴胡 藁本 苍术 羌活 白术 防风 .txt
+E:\pre_enrich\祛湿剂\羌活胜湿汤,羌活 独活 防风 升麻 柴胡 藁本 苍术 川芎 蔓荆子 甘草 .txt
+E:\pre_enrich\祛湿剂\羌活胜湿汤.txt
+E:\pre_enrich\祛湿剂\羌活除湿汤,升麻 羌活 川芎 苍术 独活 甘草 .txt
+E:\pre_enrich\祛湿剂\肉苁蓉丸,附子 肉苁蓉 干地黄 槟榔 酒 牛膝 甘草 石斛 细辛 黄连 卜芥 肉桂 .txt
+E:\pre_enrich\祛湿剂\肾劳汤,半枝莲 大黄 鱼腥草 鸡内金 母草 益母草 车前子 慈乌 牵牛子 .txt
+E:\pre_enrich\祛湿剂\肾劳汤,大黄 红花岩黄芪 车前子 何首乌 半枝莲 鱼腥草 益母草 鸡内金 牵牛子 .txt
+E:\pre_enrich\祛湿剂\肾着汤,羌活 香附 川芎 木香 苍术 茯苓 黄芩 甘草 白术 白芍 大腹皮 山海螺 .txt
+E:\pre_enrich\祛湿剂\肾着汤.txt
+E:\pre_enrich\祛湿剂\肾衰汤,大黄 红花岩黄芪 茯苓 益母草 枳实 甘草 茯苓 甘草 半边旗 半边莲 .txt
+E:\pre_enrich\祛湿剂\胃苓汤.txt
+E:\pre_enrich\祛湿剂\胆道排石汤.txt
+E:\pre_enrich\祛湿剂\胆龙散,地龙 羊胆 葶苈子 龙葵 蟾蜍 浙贝母 熊胆 麻黄 甘草 .txt
+E:\pre_enrich\祛湿剂\芪仙益母汤,红花岩黄芪 淫羊藿 益母草 白茅根 蝉蜕 泽泻 车前子 .txt
+E:\pre_enrich\祛湿剂\芪淫苁蓉汤,葶苈子 白术 红花岩黄芪 淫羊藿 茯苓 丹参 党参 蟾酥 当归 桂枝 郁金 猪苓 泽泻 红花 黄芩 板蓝根 吴茱萸 桃仁 枳壳 干姜 当归 .txt
+E:\pre_enrich\祛湿剂\苁蓉丸,附子 肉苁蓉 山药 槟榔 牛膝 甘草 石斛 细辛 黄连 阴地蕨 肉桂 .txt
+E:\pre_enrich\祛湿剂\苓桂术甘汤.txt
+E:\pre_enrich\祛湿剂\苦胆蛋,鸡子 猪肉 .txt
+E:\pre_enrich\祛湿剂\茯苓戎盐汤,茯苓 白术 大青盐 .txt
+E:\pre_enrich\祛湿剂\茯苓桂甘大枣汤,茯苓 白术 大青盐 .txt
+E:\pre_enrich\祛湿剂\茵陈五苓散,大黄 茯苓 泽泻 猪苓 白术 山海螺 栀子 .txt
+E:\pre_enrich\祛湿剂\茵陈五苓散,苍术 茯苓 赤茯苓 泽泻 滑石 猪苓 甘草 白术 山海螺 肉桂 .txt
+E:\pre_enrich\祛湿剂\茵陈五苓散,青皮 苍术 龙胆 泽泻 猪苓 黄芩 黄连 厚叶素馨 山海螺 .txt
+E:\pre_enrich\祛湿剂\茵陈五苓散.txt
+E:\pre_enrich\祛湿剂\茵陈四逆汤.txt
+E:\pre_enrich\祛湿剂\茵陈栝楼散,栝楼 茵陈蒿 木通 栀子 石膏 大黄 栝楼皮 .txt
+E:\pre_enrich\祛湿剂\茵陈汤,栀子 黄柏 山海螺 茵陈蒿 .txt
+E:\pre_enrich\祛湿剂\茵陈蒿汤.txt
+E:\pre_enrich\祛湿剂\荆黄汤,防风 大黄 荆芥 .txt
+E:\pre_enrich\祛湿剂\药酒,鹿茸 当归 酒 酥 淫羊藿 仙茅 芜菁 酸模 .txt
+E:\pre_enrich\祛湿剂\菟丝石脂散,土瓜 菟丝 菟丝子 酒 牡蛎 白石脂 肉桂 .txt
+E:\pre_enrich\祛湿剂\萆丸,肉苁蓉 鹿茸 杜仲 茯苓 菟丝 菟丝子 狗脊 益智仁 红升麻 羊角藤 .txt
+E:\pre_enrich\祛湿剂\萆薢分清饮.txt
+E:\pre_enrich\祛湿剂\葶苈膏,昆布 椒目 海藻 牛黄 麝香 肉桂 梅花冰片 .txt
+E:\pre_enrich\祛湿剂\蒲公英汤,蒲公英 芦根 大黄 青蒿 .txt
+E:\pre_enrich\祛湿剂\藿朴夏苓汤.txt
+E:\pre_enrich\祛湿剂\藿香养胃汤,茯苓 藿香 香薷 茯苓 .txt
+E:\pre_enrich\祛湿剂\藿香散,藿香 香薷 茯苓 茯苓 .txt
+E:\pre_enrich\祛湿剂\藿香正气散.txt
+E:\pre_enrich\祛湿剂\蚕矢汤.txt
+E:\pre_enrich\祛湿剂\蠲痹汤.txt
+E:\pre_enrich\祛湿剂\裘氏慢肾简验方（裘沛然）,牡蛎 红花岩黄芪 黄柏 泽泻 土茯苓 黑大豆 大枣 .txt
+E:\pre_enrich\祛湿剂\豁痰汤,半夏 香附 川芎 枳壳 栀子 桔梗 苍术 赤芍 海桐皮 黄芩 甘草 山海螺 .txt
+E:\pre_enrich\祛湿剂\赤小豆散,赤小豆 丁香 麝香 甜瓜蒂 .txt
+E:\pre_enrich\祛湿剂\赤龙丹,连翘 红根 大黄 大黄 山茶根 龙葵 商陆 峨眉石凤丹 .txt
+E:\pre_enrich\祛湿剂\连朴饮.txt
+E:\pre_enrich\祛湿剂\逐寒趁痛散,麻黄 藿香 羌活 细辛 白术 茯苓 大果巴戟 甘草 肉桂 .txt
+E:\pre_enrich\祛湿剂\通痹汤,当归 丹参 鸡血藤 海风藤 凤仙透骨草 独活 钻地风 香附 .txt
+E:\pre_enrich\祛湿剂\金液丹,硫黄 胡椒 蜂蜡 .txt
+E:\pre_enrich\祛湿剂\金石散,大黄 鱼脑石 鸡内金 郁金 .txt
+E:\pre_enrich\祛湿剂\金葵散,冬葵子 .txt
+E:\pre_enrich\祛湿剂\防己茯苓汤.txt
+E:\pre_enrich\祛湿剂\防己黄芪汤.txt
+E:\pre_enrich\祛湿剂\附子汤.txt
+E:\pre_enrich\祛湿剂\除湿热和血汤,大果巴戟 独活 茯苓 杜仲 松节 茄根 木瓜 苍耳子 枸杞子 秦艽 桑枝 牛膝 狗脊 续断 伸筋草 酒 广防己 .txt
+E:\pre_enrich\祛湿剂\除湿酒,续断 木瓜 杜仲 松节 枸杞子 桑枝 苍耳 苍耳子 茄根 酒 牛膝 狗脊 独活 秦艽 伸筋草 大果巴戟 广防己 .txt
+E:\pre_enrich\祛湿剂\集宝疗痹膏,半夏 大黄 羌活 肉桂 当归 松香 桃仁 独活 生姜 白芷 硫黄 红花 铁棒锤 雪乌 .txt
+E:\pre_enrich\祛湿剂\香附子丸,附子 香附 巴豆 枳壳 .txt
+E:\pre_enrich\祛湿剂\香鲫膏,鲫鱼 慈乌 .txt
+E:\pre_enrich\祛湿剂\鲤鱼汤,鲤鱼 .txt
+E:\pre_enrich\祛湿剂\鸡鸣散.txt
+E:\pre_enrich\祛湿剂\麻黄连翘赤小豆汤.txt
+E:\pre_enrich\祛湿剂\黄疸丸,小麦 .txt
+E:\pre_enrich\祛湿剂\黄疸散,瓠子 .txt
+E:\pre_enrich\祛湿剂\黄疸汤,茵陈蒿 吴茱萸 香附 川芎 苍术 白术 木通 猪苓 .txt
+E:\pre_enrich\祛湿剂\黄病神丹,厚朴 椒目 苍术 甘草 山海螺 绿矾 .txt
+E:\pre_enrich\祛湿剂\黄芩滑石汤.txt
+E:\pre_enrich\祛湿剂\黄芪川芎南星汤,白术 川芎 桑螵蛸 芡实 红花岩黄芪 忍冬藤 丹参 水蛭 地龙 土丁桂 天南星 .txt
+E:\pre_enrich\祛湿剂\龙胆汤,龙胆 秦艽 升麻 .txt
+E:\pre_enrich\祛痰剂（中药）\一味僵蚕散,白僵蚕 槟榔 .txt
+E:\pre_enrich\祛痰剂（中药）\一味白术酒,白僵蚕 槟榔 .txt
+E:\pre_enrich\祛痰剂（中药）\丁香二陈汤,茯苓 半夏 甘草 藿香 丁香 山海螺 .txt
+E:\pre_enrich\祛痰剂（中药）\三子养亲汤.txt
+E:\pre_enrich\祛痰剂（中药）\二母丸,知母 川贝母 百药煎 .txt
+E:\pre_enrich\祛痰剂（中药）\二陈汤.txt
+E:\pre_enrich\祛痰剂（中药）\二麻四仁汤,麻黄根 麻黄 杏仁 白果 款冬花 百部 麻黄根 郁李仁 土茯苓 忍冬藤 车前草 甘草 蜂蜜 .txt
+E:\pre_enrich\祛痰剂（中药）\五参饮,党参 北沙参 丹参 当归 苦参 沙参 玄参 甘松 甘草 五味子 大枣 酸枣仁 .txt
+E:\pre_enrich\祛痰剂（中药）\五圣丹,天南星 半夏 甘草 杏仁 山海螺 食盐 .txt
+E:\pre_enrich\祛痰剂（中药）\五子温胆汤,半夏 枳实 芥子 茯苓 莱菔 莱菔子 葶苈子 甘草 白芥 白芥子 竹茹 五味子 山海螺 酥 .txt
+E:\pre_enrich\祛痰剂（中药）\五汁饮,荸荠 甘蔗 竹沥 骨碎补 生姜 .txt
+E:\pre_enrich\祛痰剂（中药）\人参饮,橘 生姜 人参 .txt
+E:\pre_enrich\祛痰剂（中药）\内金丸,鸡内金 砒石 铅丹 .txt
+E:\pre_enrich\祛痰剂（中药）\冷哮丸.txt
+E:\pre_enrich\祛痰剂（中药）\加味半夏茯苓汤,半夏 甘草 细辛 人参 山海螺 茯苓 .txt
+E:\pre_enrich\祛痰剂（中药）\十味温胆汤.txt
+E:\pre_enrich\祛痰剂（中药）\千金散,食盐 藜 .txt
+E:\pre_enrich\祛痰剂（中药）\半夏天麻汤,橘 升麻 地骨皮 款冬花 半夏 川贝母 柴胡 杏仁 桑白皮 麦门冬 马兜铃 甘草 青皮 骨碎补 .txt
+E:\pre_enrich\祛痰剂（中药）\半夏散,升麻 地骨皮 款冬花 橘 半夏 川贝母 柴胡 杏仁 桑白皮 麦门冬 马兜铃 甘草 青皮 骨碎补 .txt
+E:\pre_enrich\祛痰剂（中药）\半夏白术天麻汤.txt
+E:\pre_enrich\祛痰剂（中药）\南木香丸,木香 枳壳 槟榔 金狮藤 鼻血雷 .txt
+E:\pre_enrich\祛痰剂（中药）\咳逆丸,花椒 .txt
+E:\pre_enrich\祛痰剂（中药）\大下汤,当归 黄连 枳壳 大黄 芒消 火麻仁 蜂蜜 .txt
+E:\pre_enrich\祛痰剂（中药）\定喘膏,半夏 吴茱萸 芥子 麻黄 白芥 白芥子 白矾 .txt
+E:\pre_enrich\祛痰剂（中药）\定喘膏,半夏 杏仁 桔梗 麻黄 生姜 紫菀 细辛 人参 蜂蜜 .txt
+E:\pre_enrich\祛痰剂（中药）\定痫丸.txt
+E:\pre_enrich\祛痰剂（中药）\宣中降逆汤,刀豆 半夏 旋覆花 枇杷 枇杷叶 沉香 代赭石 .txt
+E:\pre_enrich\祛痰剂（中药）\导气丸,木香 枳壳 槟榔 火麻仁 .txt
+E:\pre_enrich\祛痰剂（中药）\导气丸,附子 半夏 木香 茯苓 赤茯苓 白附子 紫苏叶 金狮藤 鼻血雷 .txt
+E:\pre_enrich\祛痰剂（中药）\导痰汤.txt
+E:\pre_enrich\祛痰剂（中药）\小儿化痰丸,钩藤 全蝎 胆星 朱砂 桔梗 薄荷 雄黄 天竹黄 .txt
+E:\pre_enrich\祛痰剂（中药）\小半夏汤.txt
+E:\pre_enrich\祛痰剂（中药）\小半夏茯苓汤,半夏 茯苓 黄芩 甘草 山海螺 .txt
+E:\pre_enrich\祛痰剂（中药）\小陷胸汤.txt
+E:\pre_enrich\祛痰剂（中药）\振心复脉汤（魏汉林）,桂枝 太子参 大枣 龙骨 牡蛎 茯苓 茯神 远志 珍珠母 豨莶 .txt
+E:\pre_enrich\祛痰剂（中药）\断根散,海螵蛸 .txt
+E:\pre_enrich\祛痰剂（中药）\暖阳汤,白术 肉苁蓉 附子 .txt
+E:\pre_enrich\祛痰剂（中药）\朱砂饼子,巴豆 朱砂 水银 .txt
+E:\pre_enrich\祛痰剂（中药）\柏花丸,冰 款冬花 百合 川贝母 梅花冰片 .txt
+E:\pre_enrich\祛痰剂（中药）\柴胡陷胸汤.txt
+E:\pre_enrich\祛痰剂（中药）\柿蒂酒,柿蒂 .txt
+E:\pre_enrich\祛痰剂（中药）\柿蒂饮,柿蒂 .txt
+E:\pre_enrich\祛痰剂（中药）\槟榔橘红散,槟榔 橘红 .txt
+E:\pre_enrich\祛痰剂（中药）\止嗽散.txt
+E:\pre_enrich\祛痰剂（中药）\汉防己膏,洋金花 泽兰 款冬花 消石 鹿梨 .txt
+E:\pre_enrich\祛痰剂（中药）\沉香降气丸,附子 半夏 乌药 青皮 香附 木香 枳壳 枳实 沉香 茯苓 荜澄茄 生姜 白术 白豆蔻 砂仁 黄连 山海螺 芜菁 .txt
+E:\pre_enrich\祛痰剂（中药）\沙参清肺汤,阿胶 地骨皮 乌梅 罂粟 罂粟壳 杏仁 桑白皮 沙参 甘草 白皮 知母 .txt
+E:\pre_enrich\祛痰剂（中药）\涤痰汤.txt
+E:\pre_enrich\祛痰剂（中药）\清气化痰丸.txt
+E:\pre_enrich\祛痰剂（中药）\温胆汤.txt
+E:\pre_enrich\祛痰剂（中药）\猪肚羹,猪肚 人参 生姜 芦根 橘 山海螺 .txt
+E:\pre_enrich\祛痰剂（中药）\生半夏丸,半夏 槟榔 丁香 .txt
+E:\pre_enrich\祛痰剂（中药）\痰顶,雄黄 半夏 .txt
+E:\pre_enrich\祛痰剂（中药）\白术散,橘 白术 人参 桑根 白皮 半夏 山海螺 桑白皮 .txt
+E:\pre_enrich\祛痰剂（中药）\礞石滚痰丸.txt
+E:\pre_enrich\祛痰剂（中药）\立定散,皂荚 半夏 杏仁 骨碎补 巴豆 .txt
+E:\pre_enrich\祛痰剂（中药）\竹茹汤,半夏 藿香 甘草 竹茹 山海螺 葛根 .txt
+E:\pre_enrich\祛痰剂（中药）\紫粉丸,针砂 醋 荭草 .txt
+E:\pre_enrich\祛痰剂（中药）\胡桃丸,胡桃仁 杜仲 桃仁 木蝴蝶 补骨脂 .txt
+E:\pre_enrich\祛痰剂（中药）\胡椒丸,半夏 胡椒 丁香 .txt
+E:\pre_enrich\祛痰剂（中药）\苓甘五味姜辛汤.txt
+E:\pre_enrich\祛痰剂（中药）\茯苓丸.txt
+E:\pre_enrich\祛痰剂（中药）\茱萸陈皮丸,苍术 吴茱萸 山海螺 .txt
+E:\pre_enrich\祛痰剂（中药）\菖蒲散,石菖蒲 丁香 人参 木香 檀香 山大刀 芦根 .txt
+E:\pre_enrich\祛痰剂（中药）\菖蒲散,茯苓 石菖蒲 远志 蒲黄 龙骨 .txt
+E:\pre_enrich\祛痰剂（中药）\蔷薇散煎,蔷薇根 .txt
+E:\pre_enrich\祛痰剂（中药）\藿香散,藿香 半夏 茯苓 生姜 丁香 藿香 半夏 山海螺 .txt
+E:\pre_enrich\祛痰剂（中药）\贝母瓜蒌散.txt
+E:\pre_enrich\祛痰剂（中药）\通幽润燥汤,升麻 大黄 当归 枳壳 桃仁 火麻仁 红花 .txt
+E:\pre_enrich\祛痰剂（中药）\通肠散,枳壳 当归 大黄 黑芝麻 牛膝 .txt
+E:\pre_enrich\祛痰剂（中药）\金水六君煎.txt
+E:\pre_enrich\祛痰剂（中药）\镇逆汤,代赭石 竹茹 枇杷叶 .txt
+E:\pre_enrich\祛痰剂（中药）\青金丹,五味子 天南星 人参 半夏 款冬花 杏仁 青黛 百药煎 五味子 白僵蚕 白矾 诃子 皂荚 .txt
+E:\pre_enrich\祛痰剂（中药）\香枳汤  ,枳壳 防风 槟榔 甘草 甘草 防风 .txt
+E:\pre_enrich\祛痰剂（中药）\黄连温胆汤.txt
+E:\pre_enrich\祛痰剂（中药）\黄金丸,橘 葶苈子 半夏 干姜 大黄 大枣 青皮 .txt
+E:\pre_enrich\祛痰剂（中药）\龙胆截喘汤,地龙 胆星 栝楼 枇杷叶 桔梗 防风 甘草 杏仁 天南星 .txt
+E:\pre_enrich\经产剂\三味痛经膏,梅花冰片 五灵脂 郁金 梅花冰片 .txt
+E:\pre_enrich\经产剂\两地汤,白芍 大山玄参 地骨皮 阿胶 墨旱莲 女贞子 海螵蛸 慈乌 .txt
+E:\pre_enrich\经产剂\乌茜汤,地榆 马齿 马齿苋 苋 茜草 荠菜 蒲黄 甘草 慈乌 海螵蛸 .txt
+E:\pre_enrich\经产剂\乌金散,墨 鲤鱼 鲤鱼皮 延胡索 当归 蒲黄 没药 琥珀 小麦 麝香 肉桂 慈乌 .txt
+E:\pre_enrich\经产剂\乌金散,鲤鱼鳞 鲤鱼 当归 水蛭 虻虫 琥珀 麝香 肉桂 血余 .txt
+E:\pre_enrich\经产剂\二灰散,血余 驴肉 .txt
+E:\pre_enrich\经产剂\保产无忧方.txt
+E:\pre_enrich\经产剂\保胎秘方（因连彦）,阿胶 杜仲 桑寄生 艾叶 茯苓 菟丝 菟丝子 黄芩 白术 糯米 人参 续断 .txt
+E:\pre_enrich\经产剂\健脾益肾汤,党参 红花岩黄芪 薏苡仁 芡实 蛇床子 杜仲 大叶苣荬菜 白头翁 山苦荬 .txt
+E:\pre_enrich\经产剂\兔脑散,兔脑 .txt
+E:\pre_enrich\经产剂\八圣丹,藜 续断 覆盆子 菟丝子 芡实 莲须 刺蒺藜 枸杞子 .txt
+E:\pre_enrich\经产剂\八汁汤,藜 续断 覆盆子 菟丝子 芡实 莲须 刺蒺藜 枸杞子 .txt
+E:\pre_enrich\经产剂\养血和血汤,当归 白芍 枸杞子 川芎 香附 甘草 .txt
+E:\pre_enrich\经产剂\加减膈下逐瘀汤,胡椒 当归 赤芍 红花 枳壳 延胡索 五灵脂 牡丹皮 香附 益母草 枳壳 .txt
+E:\pre_enrich\经产剂\加味益母散,山楂 桃仁 母草 荆芥 蒲黄 甘草 益母草 红花 铅丹 当归 .txt
+E:\pre_enrich\经产剂\化瘀膏,铅 铅丹 威灵仙 干漆 沉香 蒲黄 藤黄 虻虫 血竭 赤芍 没药 麝香 露蜂房 荭草 .txt
+E:\pre_enrich\经产剂\十珍汤,人参 白术 当归 肉苁蓉 熟地黄 麦门冬 五味子 砂仁 川芎 木香 甘草 茯苓 白芍 半夏 肉桂 龙骨 牡蛎 骨碎补 山海螺 .txt
+E:\pre_enrich\经产剂\千金保孕方,糯米 杜仲 续断 .txt
+E:\pre_enrich\经产剂\升阳举经汤,党参 升麻 当归 柴胡 栀子 甘草 白术 白芍 山海螺 骨碎补 .txt
+E:\pre_enrich\经产剂\参熊丸,熊胆 人参 .txt
+E:\pre_enrich\经产剂\变通逍遥散（戴慧芬）,当归 白芍 茯苓 香附 佛手柑 薄荷 柴胡 甘草 干姜 .txt
+E:\pre_enrich\经产剂\和荣汤,阿胶 大枣 当归 桂枝 莲房 甘草 荸荠 白芍 .txt
+E:\pre_enrich\经产剂\四制香附丸,香附 当归 酒 醋 .txt
+E:\pre_enrich\经产剂\回元汤,干姜 当归 鸭嘴癀 蜂蜜 .txt
+E:\pre_enrich\经产剂\固本止血汤,黄柏 白术 熟地黄 墨旱莲 白芍 女贞子 地骨皮 地榆 续断 三七 豨莶 .txt
+E:\pre_enrich\经产剂\固胎丸,白术 黄芩 当归 当归 杜仲 砂仁 食盐 柚 .txt
+E:\pre_enrich\经产剂\固胎汤（曹家辉）,党参 野芝麻 .txt
+E:\pre_enrich\经产剂\地黄酒,酒 生姜 山海螺 鲜地黄 .txt
+E:\pre_enrich\经产剂\培育汤,升麻 太子参 石莲 山药 杜仲 桑寄生 芡实 苎麻根 菟丝 菟丝子 麻根 续断 山茱萸 .txt
+E:\pre_enrich\经产剂\大黄蛰虫丸.txt
+E:\pre_enrich\经产剂\天麻汤,天麻 诃子 木香 芸薹子 .txt
+E:\pre_enrich\经产剂\女服紫石英丸,辛夷 石斛 续断 当归 禹余粮 细辛 厚朴 卷柏 干姜 柏子仁 川乌头 川芎 海螵蛸 牡丹皮 蛇眼草 桑寄生 山药 吴茱萸 人参 天门冬 九眼独活 雄黄 .txt
+E:\pre_enrich\经产剂\子宫丸.txt
+E:\pre_enrich\经产剂\子宫内灸丸,麝香 皂荚 .txt
+E:\pre_enrich\经产剂\孕Ⅰ+孕Ⅱ方（蔡小荪）,黄精 鹿角 鹿角霜 桂枝 茯苓 丁香 牛膝 狗脊 紫石英 仙茅 女贞子 毛野丁香叶 .txt
+E:\pre_enrich\经产剂\安胎合剂,党参 续断 山药 杜仲 桑寄生 菟丝 菟丝子 白术 慈乌 何首乌 .txt
+E:\pre_enrich\经产剂\安胎散,砂仁 甘草 黄芩 白术 续断 当归 白芍 .txt
+E:\pre_enrich\经产剂\安胎止血汤,熟地黄 白芍 党参 菟丝子 桑寄生 杜仲 当归 山茱萸 阿胶 墨旱莲 苎麻根 山药 甘草 .txt
+E:\pre_enrich\经产剂\安胎铁罩散,白药子 白芷 .txt
+E:\pre_enrich\经产剂\安胎防漏汤,党参 杜仲 棉花 棉花根 菟丝 菟丝子 熟地黄 甘草 白术 白芍 磨盘草 .txt
+E:\pre_enrich\经产剂\安胎饮,阿胶 艾叶 .txt
+E:\pre_enrich\经产剂\安荣汤,甘草 甘草 白术 川芎 当归 木香 桂枝 黄芩 黄连 白术 人参 川芎 当归 .txt
+E:\pre_enrich\经产剂\宣郁通经汤,香附 柴胡 郁金 栀子 牡丹皮 黄芩 延胡索 白芍 白芥子 甘草 新疆延胡索 .txt
+E:\pre_enrich\经产剂\宫外孕Ⅱ号.txt
+E:\pre_enrich\经产剂\宫外孕方.txt
+E:\pre_enrich\经产剂\宫外孕汤,大黄 丹参 川楝子 桃仁 赤芍 穿山甲 牡丹皮 .txt
+E:\pre_enrich\经产剂\宫血灵,贯众 山楂 红花 地榆 益母草 茜草 墨旱莲 三七 .txt
+E:\pre_enrich\经产剂\寿胎丸.txt
+E:\pre_enrich\经产剂\寿胎丸方（施瑞兰）,阿胶 太子参 山药 桑寄生 菟丝 菟丝子 甘草 白术 白芍 续断 .txt
+E:\pre_enrich\经产剂\少腹逐瘀汤.txt
+E:\pre_enrich\经产剂\崩漏丸,当归 羌活 藁本 防风 肉桂 白术 柴胡 人参 熟地黄 川芎 细辛 白芍 红花 独活 附子 甘草 桃仁 .txt
+E:\pre_enrich\经产剂\崩漏止血散,杏仁 赤石脂 鸡冠花 牡蛎 贯众 香附 当归 木耳 .txt
+E:\pre_enrich\经产剂\川芎散,糯米 杜仲 续断 .txt
+E:\pre_enrich\经产剂\川芎葱白汤,川芎 葱白 .txt
+E:\pre_enrich\经产剂\干地黄汤,防风 干地黄 当归 茯苓 甘草 细辛 人参 肉桂 荸荠 .txt
+E:\pre_enrich\经产剂\干姜甘草汤,细辛 干地黄 当归 人参 防风 茯苓 甘草 荸荠 肉桂 .txt
+E:\pre_enrich\经产剂\开郁四物汤,当归 熟地黄 蒲黄 地榆 人参 白术 升麻 香附 白芍 川芎 当归 .txt
+E:\pre_enrich\经产剂\当归汤,当归 荷叶 荷叶蒂 三七 肉桂 .txt
+E:\pre_enrich\经产剂\忽鹿麻散,木香 益母草 诃子 .txt
+E:\pre_enrich\经产剂\朱鸡蛋,朱砂 鸡子 .txt
+E:\pre_enrich\经产剂\桂枝茯苓丸.txt
+E:\pre_enrich\经产剂\桃花散,海螵蛸 朱砂 慈乌 .txt
+E:\pre_enrich\经产剂\止血汤,党参 当归 栀子 茜草 远志 小蓟 白芍 喜树 墨旱莲 .txt
+E:\pre_enrich\经产剂\永固孕汤,川芎 白芍 糯米 黄芩 人参 黄柏 白术 山海螺 常山 .txt
+E:\pre_enrich\经产剂\济阴丹,白芍 益母草 川芎 当归 香附 砂仁 熟地黄 黄芩 白术 骨碎补 柚 .txt
+E:\pre_enrich\经产剂\清宫解毒饮,茯苓 土茯苓 鸡血藤 忍冬藤 薏苡仁 丹参 车前草 益母草 甘草 .txt
+E:\pre_enrich\经产剂\清海汤,熟地黄 北沙参 女贞子 山茱萸 牡丹皮 白芍 白术 熟地黄 白芍 .txt
+E:\pre_enrich\经产剂\清热化瘀汤,马鞭草 当归 赤芍 仙鹤草 花蕊石 茜草 .txt
+E:\pre_enrich\经产剂\清热散结汤,蒲公英 金榭榴 大叶苣荬菜 金银花 黄柏 大黄 土茯苓 茵陈蒿 穿山甲 皂角刺 川芎 山苦荬 .txt
+E:\pre_enrich\经产剂\清盆汤,延胡索 忍冬藤 柴胡 蒲公英 白皮 车前子 大血藤 鸡血藤 .txt
+E:\pre_enrich\经产剂\清神返魂汤,川芎 当归 桃仁 姜炭 荆芥 人参 肉桂 .txt
+E:\pre_enrich\经产剂\清经散,牡丹皮 地骨皮 白芍 青蒿 黄柏 熟地黄 茯苓 .txt
+E:\pre_enrich\经产剂\清经汤.txt
+E:\pre_enrich\经产剂\清胃散毒汤,姜炭 肉桂 川芎 当归 桃仁 荆芥 人参 .txt
+E:\pre_enrich\经产剂\清魂散,苏木 人参 .txt
+E:\pre_enrich\经产剂\清魂散,荆芥 川芎 当归 白芍 甘草 人参 当归 白芍 人参 山佩兰 .txt
+E:\pre_enrich\经产剂\清魂膏,酒 .txt
+E:\pre_enrich\经产剂\温冲丸,附子 肉桂 鹿角 鹿角胶 山药 川芎 当归 木香 柴胡 桃仁 补骨脂 紫石英 白芍 胡桃仁 豨莶 .txt
+E:\pre_enrich\经产剂\温经汤.txt
+E:\pre_enrich\经产剂\熟附丸,附子 川芎 当归 木贼 龙骨 赤石脂 乌骨麻 鹿茸草 .txt
+E:\pre_enrich\经产剂\理冲汤,红花岩黄芪 党参 三棱 莪术 鸡内金 白术 山药 知母 天花粉 .txt
+E:\pre_enrich\经产剂\理冲汤.txt
+E:\pre_enrich\经产剂\生化汤.txt
+E:\pre_enrich\经产剂\生瓜散,丝瓜 丝瓜花 地梢瓜 芫花 .txt
+E:\pre_enrich\经产剂\田七痛散,蒲黄 醋 五灵脂 川芎 延胡索 小茴香 木香 冰 峨参 梅花冰片 .txt
+E:\pre_enrich\经产剂\田七痛经散（张玉珍  罗颂平）,蒲黄 醋 五灵脂 川芎 小茴香 木香 延胡索 冰 峨参 梅花冰片 .txt
+E:\pre_enrich\经产剂\益气养血止崩汤,阿胶 党参 川芎 当归 母草 茯苓 甘草 白术 益母草 白芍 山海螺 熟地黄 .txt
+E:\pre_enrich\经产剂\益气固冲止崩汤,地榆 香附 黄芩 红花岩黄芪 党参 白芍 海螵蛸 续断 阿胶 甘草 甘草 慈乌 .txt
+E:\pre_enrich\经产剂\益气固冲汤（李启文）,阿胶 党参 升麻 地榆 蒲黄 白头翁 白术 大枣 山海螺 .txt
+E:\pre_enrich\经产剂\益气固肾止崩汤,龙骨 贯众 党参 红花岩黄芪 海螵蛸 熟地黄 续断 茜草 阿胶 三七 慈乌 .txt
+E:\pre_enrich\经产剂\益气固肾汤,升麻 女贞子 荆芥 覆盆子 白芍 喜树 墨旱莲 .txt
+E:\pre_enrich\经产剂\益气固胎汤,党参 山药 杜仲 柏子仁 桑寄生 茯苓 白术 大枣 荭草 .txt
+E:\pre_enrich\经产剂\益气摄血汤,大枣 荆芥 黄芩 甘草 白术 红花岩黄芪 .txt
+E:\pre_enrich\经产剂\益肾化瘀汤,没药 乳香 熟地黄 巴戟天 淫羊藿 菟丝子 枸杞子 当归 赤芍 川牛膝 香附 甘草 .txt
+E:\pre_enrich\经产剂\益肾固胎汤,阿胶 党参 续断 桑寄生 菟丝 菟丝子 黄芩 白术 何首乌 山海螺 杜衡 .txt
+E:\pre_enrich\经产剂\益肾安胎饮,阿胶 党参 女贞子 山药 菟丝 菟丝子 甘草 白术 白芍 续断 .txt
+E:\pre_enrich\经产剂\神效未沤麻散,当归 橘 茯神 赤芍 甘草 山海螺 血余 .txt
+E:\pre_enrich\经产剂\经痛饮,当归 延胡索 新疆延胡索 .txt
+E:\pre_enrich\经产剂\续断地榆煎,阿胶 地榆 丹参 续断 鹿茸 川芎 干地黄 当归 柏子仁 甘草 小蓟 水牛角 赤石脂 .txt
+E:\pre_enrich\经产剂\育肾健脾安胎汤（蔡小荪）,菟丝子 桑寄生 苎麻根 杜仲 党参 白术 茯苓 续断 .txt
+E:\pre_enrich\经产剂\胡荽煎,黄芩 白术 莲子 砂仁 甘草 柚 .txt
+E:\pre_enrich\经产剂\胡连丸,白术 砂仁 柚 莲子 .txt
+E:\pre_enrich\经产剂\胶艾汤.txt
+E:\pre_enrich\经产剂\艾胶汤,阿胶 艾叶 .txt
+E:\pre_enrich\经产剂\艾附暖宫丸.txt
+E:\pre_enrich\经产剂\芎归益母丸,川芎 益母草 当归 川芎 .txt
+E:\pre_enrich\经产剂\芎归葱白汤,益母草 当归 川芎 .txt
+E:\pre_enrich\经产剂\苎根止崩汤,地榆 墨 墨旱莲 苎麻根 蒲黄 麻根 甘草 红皮 茜草 .txt
+E:\pre_enrich\经产剂\血崩神效方,阿胶 地榆 川芎 当归 茯苓 黄芩 甘草 白术 白芍 山海螺 .txt
+E:\pre_enrich\经产剂\血晕饮,山楂 川芎 五灵脂 当归 益母草 .txt
+E:\pre_enrich\经产剂\补肾固胎汤,阿胶 党参 续断 杜仲 桑寄生 菟丝 菟丝子 覆盆子 甘草 白芍 山海螺 熟地黄 .txt
+E:\pre_enrich\经产剂\调经种子神验秘方,茯苓 白芍 川芎 熟地黄 牡丹皮 吴茱萸 延胡索 香附 当归 .txt
+E:\pre_enrich\经产剂\车   前子散,麝香 墨 鲤鱼 鲤鱼皮 墨 延胡索 当归 蒲黄 没药 琥珀 小麦 肉桂 松香 .txt
+E:\pre_enrich\经产剂\转胎方,续断 当归 川芎 白芍 熟地黄 党参 白术 枳壳 豨莶 .txt
+E:\pre_enrich\经产剂\速效固崩汤,马齿苋 墨旱莲 益母草 地榆 三七 .txt
+E:\pre_enrich\经产剂\金莲种玉丹,金草 山海螺 .txt
+E:\pre_enrich\经产剂\阿胶散,阿胶 当归 甘草 .txt
+E:\pre_enrich\经产剂\阿胶散,阿胶 甘草 当归 .txt
+E:\pre_enrich\经产剂\黄叶汤,黄芩 黄柏 黄连 黄芩 .txt
+E:\pre_enrich\经产剂\黄耆汤,人参 当归 白芍 甘草 细辛 甘草 防风 山海螺 .txt
+E:\pre_enrich\耳鼻咽喉病方\丝瓜根绿豆汤,丝瓜根 绿豆 .txt
+E:\pre_enrich\耳鼻咽喉病方\辛夷散.txt
+E:\pre_enrich\耳鼻咽喉病方\通鼻消炎球,鹅不食草 苍耳子 白芷 黄芩 .txt
+E:\pre_enrich\补益剂\一贯煎.txt
+E:\pre_enrich\补益剂\丁香二陈汤,茯苓 半夏 甘草 藿香 丁香 山海螺 .txt
+E:\pre_enrich\补益剂\七味白术散.txt
+E:\pre_enrich\补益剂\七香丸,丁香 甘草 香附 麦芽 砂仁 藿香 甘松 乌药 山海螺 丽江青木香 .txt
+E:\pre_enrich\补益剂\万安丸,桃仁 肉苁蓉 槟榔 木香 当归 天麻 肉桂 沉香 白附子 阿魏 安息香 羌活 芦根 金钱白花蛇 .txt
+E:\pre_enrich\补益剂\万安丸,草苁蓉 五味子 杜仲 赤石脂 泽泻 山茱萸 羊角藤 附子 牡丹皮 菟丝 菟丝子 牛膝 茯苓 干地黄 肉桂 .txt
+E:\pre_enrich\补益剂\三参养心汤,人参 丹参 苦参 当归 川芎 白芍 玄参 木香 酸枣仁 甘草 .txt
+E:\pre_enrich\补益剂\三胶三黄丸,阿胶 丹参 黄精 续断 黄柏 鹿角胶 红花岩黄芪 .txt
+E:\pre_enrich\补益剂\举元煎.txt
+E:\pre_enrich\补益剂\久疟饮,白术 生姜 当归 .txt
+E:\pre_enrich\补益剂\九物金锁丹,巴戟天 莲花 鸡肝 龙齿 莲子心 肉苁蓉 卜芥 金草 原蚕蛾 .txt
+E:\pre_enrich\补益剂\二仙汤.txt
+E:\pre_enrich\补益剂\二至丸.txt
+E:\pre_enrich\补益剂\五仙丸,天仙子 五灵脂 .txt
+E:\pre_enrich\补益剂\五气丹,酥 秋石 铅 牛乳 山药 荭草 .txt
+E:\pre_enrich\补益剂\人参养荣汤.txt
+E:\pre_enrich\补益剂\人参胡桃汤.txt
+E:\pre_enrich\补益剂\人参蛤蚧散.txt
+E:\pre_enrich\补益剂\人参黄老汤,人参 白术 甘草 当归 茯苓 山海螺 .txt
+E:\pre_enrich\补益剂\众妙丸,附子 吴茱萸 肉豆蔻 鹿茸 茯苓 菟丝 菟丝子 酒 五味子 人参 钟乳石 卜芥 .txt
+E:\pre_enrich\补益剂\何人饮.txt
+E:\pre_enrich\补益剂\保元汤.txt
+E:\pre_enrich\补益剂\保真丸,山药 川楝子 川牛膝 杜仲 柏子仁 沉香 茯苓 菟丝 远志 酒 酥 牛膝 甘草 益智仁 五味子 人参 羊角藤 食盐 .txt
+E:\pre_enrich\补益剂\健肾宝,鹿茸 枸杞子 紫河车 丹参 荡皮参 .txt
+E:\pre_enrich\补益剂\健脾养胃丸,茯苓 白芍 人参 白术 当归 麦芽 木香 山药 枳实 山海螺 半夏 .txt
+E:\pre_enrich\补益剂\八仙丹,朱砂 磁石 赤石脂 代赭石 禹余粮 禹余粮 乳香 没药 石灰 五味子 .txt
+E:\pre_enrich\补益剂\八宝妆丸,鹿茸 鹿角 鹿角霜 菟丝 菟丝子 铅丹 小茴香 .txt
+E:\pre_enrich\补益剂\八珍汤.txt
+E:\pre_enrich\补益剂\六君子汤.txt
+E:\pre_enrich\补益剂\养血安神汤,太子参 丹参 川芎 当归 苦参 甘草 五味子 .txt
+E:\pre_enrich\补益剂\养阴降糖片,党参 川芎 枸杞子 葛根 虎杖 牡丹皮 玄参 玉 玉竹 知母 五味子 山海螺 红花岩黄芪 .txt
+E:\pre_enrich\补益剂\凌阳子木香丸,胡桃仁 山茱萸 木香 桃仁 茯苓 莲花 菟丝 菟丝子 酒 木蝴蝶 莲须 .txt
+E:\pre_enrich\补益剂\加减复脉汤.txt
+E:\pre_enrich\补益剂\加减菊花茶调散,菊花 川芎 白芷 细辛 蜈蚣 全蝎 白僵蚕 钩藤 白芍 甘草 甘草 柚 .txt
+E:\pre_enrich\补益剂\加味养元粉,山楂 山药 条参 芡实 花椒 茯苓 .txt
+E:\pre_enrich\补益剂\加味半夏茯苓汤,半夏 甘草 细辛 人参 山海螺 茯苓 .txt
+E:\pre_enrich\补益剂\加味坎离丸,黄柏 白芍 知母 当归 川芎 熟地黄 土草果 食盐 .txt
+E:\pre_enrich\补益剂\加味左归饮,全蝎 肉苁蓉 山药 川芎 茯苓 蝉蜕 白芷 细辛 五味子 枸杞子 熟地黄 .txt
+E:\pre_enrich\补益剂\加味当归六黄汤,当归 牡蛎 五味子 大枣 酸枣仁 .txt
+E:\pre_enrich\补益剂\加味炙甘草汤,生姜 人参 鲜地黄 桂枝 阿胶 麦门冬 火麻仁 大枣 苦参 茵陈蒿 甘草 干地黄 .txt
+E:\pre_enrich\补益剂\加味琼玉膏,天门冬 麦门冬 枸杞子 茯苓 白术 人参 山海螺 鲜地黄 .txt
+E:\pre_enrich\补益剂\加味虎潜丸,锁阳 山药 当归 酒 酥 牛膝 黄柏 五味子 人参 枸杞子 荸荠 .txt
+E:\pre_enrich\补益剂\加味补阴丸,五味子 山茱萸 黄柏 知母 人参 枸杞子 天门冬 锁阳 白芍 当归 牛膝 杜仲 木蝴蝶 沉香 熟地黄 干姜 二色内风消 食盐 .txt
+E:\pre_enrich\补益剂\十全大补汤.txt
+E:\pre_enrich\补益剂\十六味地黄丸,山楂 麦芽 人参 白术 茯苓 山药 薏苡仁 芡实 莲子 甘草 砂仁 黄连 泽泻 白芍 连翘 山海螺 .txt
+E:\pre_enrich\补益剂\十补丸.txt
+E:\pre_enrich\补益剂\千金保孕方,糯米 杜仲 续断 .txt
+E:\pre_enrich\补益剂\升提汤,升麻 山药 柴胡 桔梗 白术 人参 吴茱萸 .txt
+E:\pre_enrich\补益剂\升阳泻湿汤,人参 白术 升麻 吴茱萸 .txt
+E:\pre_enrich\补益剂\升阳益胃汤.txt
+E:\pre_enrich\补益剂\升陷汤.txt
+E:\pre_enrich\补益剂\半夏百合汤,半夏 乌药 香附 干姜 黄芩 甘草 百合 黄连 大枣 荭草 .txt
+E:\pre_enrich\补益剂\参苓白术散.txt
+E:\pre_enrich\补益剂\参茵汤,人参 苦参 茵陈蒿 琥珀 丹参 荡皮参 .txt
+E:\pre_enrich\补益剂\右归丸.txt
+E:\pre_enrich\补益剂\右归饮.txt
+E:\pre_enrich\补益剂\和荣汤,阿胶 大枣 当归 桂枝 莲房 甘草 荸荠 白芍 .txt
+E:\pre_enrich\补益剂\咳逆丸,花椒 .txt
+E:\pre_enrich\补益剂\噙化丸,青黛 香附 马兜铃 杏仁 诃子 海粉 栀子 栝楼 .txt
+E:\pre_enrich\补益剂\四制白术散,牡蛎 白术 石斛 .txt
+E:\pre_enrich\补益剂\四君子汤.txt
+E:\pre_enrich\补益剂\四圣丸,麋角 茯苓 紫河车 人参 .txt
+E:\pre_enrich\补益剂\四物汤.txt
+E:\pre_enrich\补益剂\团参汤,生姜 白术 当归 茯苓 甘草 鹿梨 .txt
+E:\pre_enrich\补益剂\固胎丸,白术 黄芩 当归 当归 杜仲 砂仁 食盐 柚 .txt
+E:\pre_enrich\补益剂\圣愈汤.txt
+E:\pre_enrich\补益剂\地黄丸,肉苁蓉 干漆 菟丝 菟丝子 蛇床子 补骨脂 远志 酒 牛膝 石斛 人参 山海螺 肉桂 .txt
+E:\pre_enrich\补益剂\大养脾丸,麦芽 人参 神曲 木香 肉豆蔻 沉香 白扁豆 青皮 红豆 砂仁 白豆蔻 石莲 草果 厚朴 丁香 木香 神曲 大枣 山海螺 .txt
+E:\pre_enrich\补益剂\大补元煎.txt
+E:\pre_enrich\补益剂\大补阴丸.txt
+E:\pre_enrich\补益剂\大造丸,山药 蚤休 .txt
+E:\pre_enrich\补益剂\天仙饼,天仙子 鹿梨 .txt
+E:\pre_enrich\补益剂\安嗽汤,地龙 鱼腥草 杏仁 桔梗 款冬花 浙贝母 甘草 白前 .txt
+E:\pre_enrich\补益剂\安胎散,砂仁 甘草 黄芩 白术 续断 当归 白芍 .txt
+E:\pre_enrich\补益剂\安胎铁罩散,白药子 白芷 .txt
+E:\pre_enrich\补益剂\安胎饮,阿胶 艾叶 .txt
+E:\pre_enrich\补益剂\宣中降逆汤,刀豆 半夏 旋覆花 枇杷 枇杷叶 沉香 代赭石 .txt
+E:\pre_enrich\补益剂\宫方七香丸,砂仁 白豆蔻 香附 木香 丁香 檀香 甘松 丁香树皮 橘红 三棱 莪术 海桐皮 .txt
+E:\pre_enrich\补益剂\封髓丹,砂仁 黄柏 甘草 甘草 .txt
+E:\pre_enrich\补益剂\封髓丹.txt
+E:\pre_enrich\补益剂\射干汤,人参 白术 当归 麦芽 木香 山药 枳实 茯苓 白芍 酒 山海螺 半夏 .txt
+E:\pre_enrich\补益剂\小半夏茯苓汤,半夏 茯苓 黄芩 甘草 山海螺 .txt
+E:\pre_enrich\补益剂\小补阴丸,鳖甲 熟地黄 人参 黄柏 .txt
+E:\pre_enrich\补益剂\山芋丸,鹿茸 茯苓 干地黄 卜芥 石斛 牛膝 五味子 续断 巴戟天 山茱萸 人参 肉桂 泽泻 杜仲 蛇床子 远志 菟丝子 天雄 覆盆子 肉苁蓉 山药 .txt
+E:\pre_enrich\补益剂\川芎散,糯米 杜仲 续断 .txt
+E:\pre_enrich\补益剂\川芎止痛散,全蝎 天麻 川芎 荜茇 蜈蚣 .txt
+E:\pre_enrich\补益剂\川芎止痛汤,防风 全蝎 天麻 川芎 荆芥 蜈蚣 细辛 柚 .txt
+E:\pre_enrich\补益剂\川芎葱白汤,川芎 葱白 .txt
+E:\pre_enrich\补益剂\左归丸.txt
+E:\pre_enrich\补益剂\左归饮.txt
+E:\pre_enrich\补益剂\延寿补益汤,白芍 人参 当归 知母 甘草 柴胡 五味子 熟地黄 杜仲 牛膝 白术 当归 白芍 甘草 山海螺 蜂蜜 .txt
+E:\pre_enrich\补益剂\异功散.txt
+E:\pre_enrich\补益剂\归脾汤.txt
+E:\pre_enrich\补益剂\当归膏,当归 白芍 鲜地黄 白木 莲子 人参 甘草 枸杞子 茯苓 当归 甘草 山药 山海螺 .txt
+E:\pre_enrich\补益剂\当归补血汤.txt
+E:\pre_enrich\补益剂\心痛汤,川芎 丹参 五味子 薤白 大山玄参 莱菔子 红花岩黄芪 枳壳 山楂 淫羊藿 川芎 豨莶 .txt
+E:\pre_enrich\补益剂\掌胃膏,肉豆蔻 青皮 香叶 木香 枇杷 枇杷叶 沉香 茯苓 草豆蔻 藿香 丁香 甘草 白术 白豆蔻 砂仁 人参 山海螺 石荠苎 .txt
+E:\pre_enrich\补益剂\收宫散,党参 胡椒 白芍 金珠柳 肉桂 .txt
+E:\pre_enrich\补益剂\敛汗育心汤,麦门冬 当归 茯神 沙参 牡蛎 甘草 知母 白芍 大枣 酸枣仁 .txt
+E:\pre_enrich\补益剂\断汗汤,牡蛎 牡蛎 白术 防风 龙骨 麻黄 蜂蜜 .txt
+E:\pre_enrich\补益剂\既济丹,朱砂 灵砂 阳起石 磁石 鹿茸 茯神 沉香 朱砂 钟乳石 .txt
+E:\pre_enrich\补益剂\月华丸.txt
+E:\pre_enrich\补益剂\朱雀丸.txt
+E:\pre_enrich\补益剂\朱雀交泰丸,茯神 沉香 黄连 肉桂 香附 .txt
+E:\pre_enrich\补益剂\朱雀汤,雀 赤小豆 赤茯苓 人参 大枣 紫石英 远志 丹参 小麦 甘草 甘草 .txt
+E:\pre_enrich\补益剂\朱鸡蛋,朱砂 鸡子 .txt
+E:\pre_enrich\补益剂\杞菊地黄汤.txt
+E:\pre_enrich\补益剂\枸杞子丸,五味子 干地黄 附子 覆盆子 枸杞子 人参 茯神 山药 菟丝子 肉苁蓉 石斛 山茱萸 芦根 肉桂 .txt
+E:\pre_enrich\补益剂\枸杞煎丸,枸杞子 .txt
+E:\pre_enrich\补益剂\柿蒂酒,柿蒂 .txt
+E:\pre_enrich\补益剂\柿蒂饮,柿蒂 .txt
+E:\pre_enrich\补益剂\桂苓甘味合附子都气丸,半夏 山药 桂枝 补骨脂 远志 甘草 白术 五味子 杜衡 茯苓 .txt
+E:\pre_enrich\补益剂\桑麻丸.txt
+E:\pre_enrich\补益剂\梅花三黄汤,乌梅 天花粉 红花岩黄芪 黄精 黄连 .txt
+E:\pre_enrich\补益剂\止汗粉,麻黄根 白术 栝楼 牡蛎 蒲葵叶 .txt
+E:\pre_enrich\补益剂\正气汤,黄柏 知母 甘草 .txt
+E:\pre_enrich\补益剂\永固孕汤,川芎 白芍 糯米 黄芩 人参 黄柏 白术 山海螺 常山 .txt
+E:\pre_enrich\补益剂\沉香丸,刀豆 沉香 菟丝 菟丝子 五味子 .txt
+E:\pre_enrich\补益剂\沉香固元散,沉香 木香 沉香 小茴香 丁香 乌药 木香 川芎 羊角藤 兰花参 .txt
+E:\pre_enrich\补益剂\沉香鳖甲丹,大黄 鳖甲 当归 沉香 草龙 龙胆 酥 黄连 山飘儿草 草本威灵仙 .txt
+E:\pre_enrich\补益剂\法制姜附丸,附子 香附 神曲 砂仁 干姜 荜茇 丁香树皮 胡椒 海桐皮 .txt
+E:\pre_enrich\补益剂\泰山磐石散.txt
+E:\pre_enrich\补益剂\泻肾汤,芒消 黑大豆 白矾 .txt
+E:\pre_enrich\补益剂\活胃散,党参 川芎 枸杞子 葛根 虎杖 牡丹皮 玄参 玉 玉竹 知母 五味子 山海螺 红花岩黄芪 .txt
+E:\pre_enrich\补益剂\活血续命散,白芍 柏子仁 当归 续断 .txt
+E:\pre_enrich\补益剂\济生肾气丸.txt
+E:\pre_enrich\补益剂\济阴丹,白芍 益母草 川芎 当归 香附 砂仁 熟地黄 黄芩 白术 骨碎补 柚 .txt
+E:\pre_enrich\补益剂\消毒饮,胡桃仁 山茱萸 木香 桃仁 茯苓 莲花 菟丝 菟丝子 酒 木蝴蝶 莲须 .txt
+E:\pre_enrich\补益剂\消渴固本汤,金樱子 牡蛎 黄柏 知母 天花粉 山茱萸 .txt
+E:\pre_enrich\补益剂\消风汤,川芎 荆芥 防风 羌活 薄荷 细辛 .txt
+E:\pre_enrich\补益剂\滋阴益肾丸,山药 当归 枸杞子 菟丝 菟丝子 酒 酥 熟地黄 牛膝 黄柏 白术 知母 白芍 .txt
+E:\pre_enrich\补益剂\炙甘草汤.txt
+E:\pre_enrich\补益剂\煮附丸,附子 兰花参 .txt
+E:\pre_enrich\补益剂\牡蛎散,牡蛎 麻黄根 梅花冰片 赤石脂 .txt
+E:\pre_enrich\补益剂\牡蛎粉,牡蛎 .txt
+E:\pre_enrich\补益剂\猪肚糜方,地骨皮 麦门冬 猪肚 人参 .txt
+E:\pre_enrich\补益剂\猪胰蛇蜗散,猪胰 水蛇 蜗牛 地龙 .txt
+E:\pre_enrich\补益剂\玉华散,桑白皮 天门冬 百部 半夏 紫菀 杏仁 川贝母 百合 甘草 人参 马兜铃 骨碎补 .txt
+E:\pre_enrich\补益剂\玉泉丸.txt
+E:\pre_enrich\补益剂\玉竹膏,玉 玉竹 .txt
+E:\pre_enrich\补益剂\琥珀丸,木香 沉香 茯苓 丁香 琥珀 小茴香 枳壳 没药 熟地黄 甘草 木通 当归 琥珀 八角茴香 山海螺 .txt
+E:\pre_enrich\补益剂\生脉散.txt
+E:\pre_enrich\补益剂\白花散,龙骨 .txt
+E:\pre_enrich\补益剂\白龙散,龙骨 .txt
+E:\pre_enrich\补益剂\百合地黄汤.txt
+E:\pre_enrich\补益剂\益气安胎饮,党参 续断 苎麻根 莲房 菟丝 菟丝子 麻根 甘草 白术 糯米 白芍 .txt
+E:\pre_enrich\补益剂\益气滋阴汤,川芎 当归 红花岩黄芪 丹参 黄精 金瓜 天花粉 .txt
+E:\pre_enrich\补益剂\益气聪明汤.txt
+E:\pre_enrich\补益剂\益胃汤.txt
+E:\pre_enrich\补益剂\益脑吹鼻地榆散,党参 续断 苎麻根 莲房 菟丝 菟丝子 麻根 甘草 白术 糯米 白芍 .txt
+E:\pre_enrich\补益剂\盗汗正气汤,黄柏 知母 甘草 .txt
+E:\pre_enrich\补益剂\盗汗汤,当归 牡蛎 白芍 大山玄参 大枣 .txt
+E:\pre_enrich\补益剂\知柏地黄汤.txt
+E:\pre_enrich\补益剂\石斛夜光丸.txt
+E:\pre_enrich\补益剂\石韦散,冬葵子 滑石 瞿麦 石韦 木奶果 .txt
+E:\pre_enrich\补益剂\秘丹,肉桂 当归 苍术 白芍 大高良姜 .txt
+E:\pre_enrich\补益剂\秘传三意酒,枸杞子 大钱麻 山海螺 .txt
+E:\pre_enrich\补益剂\秘传加味四物汤,川芎 当归 熟地黄 黄柏 白术 知母 人参 白芍 鲜地黄 干地黄 .txt
+E:\pre_enrich\补益剂\糖尿康,太子参 丹参 黄精 山药 木瓜 水蛭 猪苓 红花岩黄芪 .txt
+E:\pre_enrich\补益剂\羊肉饼,羊肉 生姜 .txt
+E:\pre_enrich\补益剂\肉苁蓉丸,肉苁蓉 石斛 枸杞子 远志 续断 天雄 干姜 菟丝子 麋角 干地黄 鹿梨 .txt
+E:\pre_enrich\补益剂\肉苁蓉丸,防风 附子 肉苁蓉 杜仲 菟丝 菟丝子 蛇床子 远志 酒 五味子 羊角藤 巴戟天 .txt
+E:\pre_enrich\补益剂\育精汤,何首乌 韭子 当归 熟地黄 菟丝子 磨盘草 淫羊藿 川牛膝 .txt
+E:\pre_enrich\补益剂\肾气丸.txt
+E:\pre_enrich\补益剂\胡桃丸,胡桃仁 杜仲 桃仁 木蝴蝶 补骨脂 .txt
+E:\pre_enrich\补益剂\胡芦巴丸,天雄 鹿茸 硫黄 川芎 当归 牡蛎 赤石脂 附子 川乌头 沉香 酸枣仁 柏子仁 羊角藤 补骨脂 龙骨 小茴香 泽泻 巴戟天 .txt
+E:\pre_enrich\补益剂\胡荽煎,黄芩 白术 莲子 砂仁 甘草 柚 .txt
+E:\pre_enrich\补益剂\胡连丸,白术 砂仁 柚 莲子 .txt
+E:\pre_enrich\补益剂\腽肭脐丸,海狗肾 鹿角胶 鹿角霜 麋茸 熟地黄 乳香 没药 当归 牛膝 草苁蓉 小茴香 沉香 朱砂 麝香 菟丝 菟丝子 附子 天雄 羊角藤 钟乳石 .txt
+E:\pre_enrich\补益剂\腽肭脐丸,海狗肾 麋茸 当归 茯神 朱砂 牛膝 五味子 羊角藤 大青盐 附子 菟丝子 鹿茸 阳起石 沉香 草苁蓉 巴戟天 .txt
+E:\pre_enrich\补益剂\腽肭脐丸,阳起石 附子 鹿茸 鹿角 鹿角胶 麋茸 沉香 菟丝 菟丝子 酒 五味子 麝香 钟乳石 兰花参 .txt
+E:\pre_enrich\补益剂\艾胶汤,阿胶 艾叶 .txt
+E:\pre_enrich\补益剂\芍药甘草汤.txt
+E:\pre_enrich\补益剂\芎归益母丸,川芎 益母草 当归 川芎 .txt
+E:\pre_enrich\补益剂\芎归葱白汤,益母草 当归 川芎 .txt
+E:\pre_enrich\补益剂\芩连芍药汤,草苁蓉 菟丝子 天雄 枸杞子 石斛 远志 续断 干姜 麋角 熟地黄 鹿梨 .txt
+E:\pre_enrich\补益剂\苁蓉丸,天雄 续断 麋角 干姜 枸杞子 菟丝 菟丝子 远志 酒 酥 熟地黄 石斛 鹿梨 草苁蓉 .txt
+E:\pre_enrich\补益剂\茯苓丸,阿胶 麦门冬 干地黄 干姜 当归 茯苓 远志 泽泻 独活 甘草 白术 人参 肉桂 山药 .txt
+E:\pre_enrich\补益剂\茯苓戎盐汤,茯苓 白术 大青盐 .txt
+E:\pre_enrich\补益剂\茯苓桂甘大枣汤,茯苓 白术 大青盐 .txt
+E:\pre_enrich\补益剂\茴香丸,地龙 川乌头 川楝子 旋覆花 橘 山海螺 小茴香 .txt
+E:\pre_enrich\补益剂\莲枣麦豆汤,莲子 大枣 浮小麦 .txt
+E:\pre_enrich\补益剂\虎潜丸.txt
+E:\pre_enrich\补益剂\血分丸,当归 杜仲 柴胡 酒 牛膝 甘草 白术 知母 五味子 人参 白芍 山海螺 蜂蜜 .txt
+E:\pre_enrich\补益剂\补中益气汤.txt
+E:\pre_enrich\补益剂\补益降糖丸,枸杞子 人参 山茱萸 红花岩黄芪 .txt
+E:\pre_enrich\补益剂\补肺阿胶汤.txt
+E:\pre_enrich\补益剂\补肾丸,杜仲 酒 酥 牛膝 黄柏 五味子 山海螺 .txt
+E:\pre_enrich\补益剂\补肾汤,芒消 白矾 黑大豆 .txt
+E:\pre_enrich\补益剂\解邪丹,朱砂 雄黄 雌黄 八角莲 芜荑 鬼箭羽 藜芦 桃儿七 .txt
+E:\pre_enrich\补益剂\调元粉,山药 芡实 花椒 黑芝 黑芝麻 大枣 落花生 .txt
+E:\pre_enrich\补益剂\调和大补羹,茯苓 山药 芡实 .txt
+E:\pre_enrich\补益剂\还少丹,何首乌 牛膝 鲜地黄 肉苁蓉 黄柏 补骨脂 车前子 菟丝子 人参 五味子 山药 柏子仁 当归 黑大豆 干地黄 .txt
+E:\pre_enrich\补益剂\都气丸.txt
+E:\pre_enrich\补益剂\镇痛汤,当归 川芎 白僵蚕 牛膝 白芷 白芍 细辛 .txt
+E:\pre_enrich\补益剂\镇逆汤,代赭石 竹茹 枇杷叶 .txt
+E:\pre_enrich\补益剂\长寿散,半夏 天麻 木香 薏苡仁 甘草 白扁豆 糯米 人参 全蝎 蜂蜜 .txt
+E:\pre_enrich\补益剂\长春牢牙散,升麻 川芎 藜 诃子 丁香 甘松 细辛 五倍子 麝香 刺蒺藜 大青盐 .txt
+E:\pre_enrich\补益剂\防风散,川芎 人参 防风 .txt
+E:\pre_enrich\补益剂\阿胶散,阿胶 当归 甘草 .txt
+E:\pre_enrich\补益剂\阿胶散,阿胶 甘草 当归 .txt
+E:\pre_enrich\补益剂\降糖丸,大黄 黄精 茯苓 葛根 甘草 白术 五味子 黄连 丹参 荡皮参 .txt
+E:\pre_enrich\补益剂\青蛾丸,附子 天麻 木瓜 菟丝 菟丝子 酒 牛膝 五味子 大青盐 山梗菜 .txt
+E:\pre_enrich\补益剂\香砂六君子汤.txt
+E:\pre_enrich\补益剂\鹿柏固本丸,天门冬 鹿角 鹿角霜 麦门冬 酒 熟地黄 黄柏 壶卢 食盐 .txt
+E:\pre_enrich\补益剂\鹿血丸,天门冬 麦门冬 山茱萸 山药 当归 枸杞子 茯苓 酒 酥 泽泻 熟地黄 牛膝 牡丹皮 黄柏 知母 五味子 人参 食盐 鲜地黄 .txt
+E:\pre_enrich\补益剂\麝香保心丸,麝香 .txt
+E:\pre_enrich\补益剂\麦味地黄汤.txt
+E:\pre_enrich\补益剂\黄耆散,木通 葛根 .txt
+E:\pre_enrich\补益剂\黄连茯苓丸,茯苓 黄连 木蝴蝶 补骨脂 .txt
+E:\pre_enrich\补益剂\黄连阿胶汤.txt
+E:\pre_enrich\补益剂\龟鹿二仙胶.txt
+E:\pre_enrich\表里双解剂\五积散.txt
+E:\pre_enrich\表里双解剂\厚朴七物汤.txt
+E:\pre_enrich\表里双解剂\大柴胡汤.txt
+E:\pre_enrich\表里双解剂\柴胡桂枝干姜汤.txt
+E:\pre_enrich\表里双解剂\石膏汤.txt
+E:\pre_enrich\表里双解剂\葛根黄芩黄连汤.txt
+E:\pre_enrich\表里双解剂\防风通圣散.txt
+E:\pre_enrich\解毒剂（中药）\万应痢疾丸,木香 苍术 枳壳 小木通 莪术 三棱 陈仓米 厚朴 甘草 白豆蔻 食盐 骨碎补 .txt
+E:\pre_enrich\解毒剂（中药）\不换金散,橘 罂粟 罂粟壳 甘草 山海螺 蜂蜜 .txt
+E:\pre_enrich\解毒剂（中药）\东风散,山楂 青皮 当归 枳壳 槟榔 黄芩 白芍 厚朴 豨莶 .txt
+E:\pre_enrich\解毒剂（中药）\乌龙丸,巴豆 杏子 .txt
+E:\pre_enrich\解毒剂（中药）\乳香散,罂粟 罂粟壳 诃子 白梅 大枣 .txt
+E:\pre_enrich\解毒剂（中药）\六陈汤,乌梅 青皮 干姜 甘草 铁棒锤 雪乌 .txt
+E:\pre_enrich\解毒剂（中药）\养脏汤,厚朴 木香 枳壳 槟榔 茯苓 诃子 甘草 白术 黄连 山海螺 荸荠 .txt
+E:\pre_enrich\解毒剂（中药）\养脾汤,厚朴 木香 枳壳 槟榔 茯苓 诃子 甘草 白术 黄连 山海螺 荸荠 .txt
+E:\pre_enrich\解毒剂（中药）\养阴清痢饮,当归 木香 枳壳 槟榔 莱菔 莱菔子 酒 甘草 车前子 白芍 山海螺 .txt
+E:\pre_enrich\解毒剂（中药）\剪金丹,白术 人参 黄芩 大黄 沉香 .txt
+E:\pre_enrich\解毒剂（中药）\加减养脏汤,山药 木香 枳壳 茯苓 酒 白术 神曲 白芍 山楂 白扁豆 .txt
+E:\pre_enrich\解毒剂（中药）\加减导气汤,白芍 厚朴 枳壳 黄连 大黄 槟榔 青皮 丽江青木香 骨碎补 .txt
+E:\pre_enrich\解毒剂（中药）\加味平胃散,陈仓米 厚朴 干姜 苍术 泽泻 黄芩 甘草 白芍 猪肉 .txt
+E:\pre_enrich\解毒剂（中药）\加味滞下丸,升麻 吴茱萸 乌梅 槐花 酒 醋 滑石 甘草 白扁豆 红曲 白芍 黄连 莲子 葛根 .txt
+E:\pre_enrich\解毒剂（中药）\加味香连丸,大黄 木香 槟榔 酒 黄连 .txt
+E:\pre_enrich\解毒剂（中药）\加味香连丸,木香 枳壳 槟榔 酒 黄连 吴茱萸 山海螺 .txt
+E:\pre_enrich\解毒剂（中药）\化铁丹,肉桂 胡椒 青皮 香附 麦芽 木香 枳壳 橘 橘红 沉香 草果 荜澄茄 莪术 丁香 三棱 白蔻 益智仁 砂仁 红豆 石荠苎 缬草 .txt
+E:\pre_enrich\解毒剂（中药）\四分散,大黄 羌活 杏仁 苍术 甘草 山海螺 川乌头 .txt
+E:\pre_enrich\解毒剂（中药）\四宝丹,胡黄连 巴豆 黄连 .txt
+E:\pre_enrich\解毒剂（中药）\四神散,干姜 当归 黄柏 黄连 .txt
+E:\pre_enrich\解毒剂（中药）\大归芍汤,黄连 莱菔子 车前子 槟榔 厚朴 枳壳 甘草 当归 黄芩 白芍 山楂 大黄 .txt
+E:\pre_enrich\解毒剂（中药）\如圣散,地榆 槟榔 橘 甘草 山海螺 .txt
+E:\pre_enrich\解毒剂（中药）\如圣汤,乌梅 罂粟 罂粟壳 当归 橘 甘草 千年艾 蜂蜜 .txt
+E:\pre_enrich\解毒剂（中药）\如圣针头丸,木香 巴豆 淡豆豉 .txt
+E:\pre_enrich\解毒剂（中药）\如圣饮,乌梅 罂粟 罂粟壳 当归 橘 甘草 千年艾 蜂蜜 .txt
+E:\pre_enrich\解毒剂（中药）\如神丸,黄芩 甘草 白术 .txt
+E:\pre_enrich\解毒剂（中药）\妙应丸,铅丹 巴豆 .txt
+E:\pre_enrich\解毒剂（中药）\定痛黑子丸,蜂蜡 杏仁 巴豆 砂仁 .txt
+E:\pre_enrich\解毒剂（中药）\宣胃散,白芍 黄芩 黄连 木香 枳壳 槟榔 甘草 .txt
+E:\pre_enrich\解毒剂（中药）\宣胃解毒汤,泽泻 甘草 白芍 黄连 枳壳 茯苓 青皮 槟榔 木香 .txt
+E:\pre_enrich\解毒剂（中药）\导气汤,升麻 厚朴 山楂 枳壳 槟榔 甘草 神曲 黄连 荸荠 白芍 .txt
+E:\pre_enrich\解毒剂（中药）\封脐膏,地榆 大黄 当归 木香 枳实 槐花 槟榔 黄柏 黄芩 生姜 铅丹 牛口涎 .txt
+E:\pre_enrich\解毒剂（中药）\小香连丸,香薷 黄连 千年艾 苦参 铁牛钻石 甘草 槟榔 乌药 山海螺 土木香 .txt
+E:\pre_enrich\解毒剂（中药）\山楂饮,山楂 荭草 赤沙糖 .txt
+E:\pre_enrich\解毒剂（中药）\归芍汤,白芍 当归 桔梗 枳壳 木香 槟榔 甘草 .txt
+E:\pre_enrich\解毒剂（中药）\当归导滞汤,当归 枳壳 槟榔 莱菔 莱菔子 甘草 车前子 白芍 .txt
+E:\pre_enrich\解毒剂（中药）\当归活血丸,枳壳 槟榔 甘草 车前子 当归 白芍 莱菔子 .txt
+E:\pre_enrich\解毒剂（中药）\忍冬散,金银花 .txt
+E:\pre_enrich\解毒剂（中药）\惺惺散,黄连 滑石 白芍 槟榔 木香 枳壳 黄连 甘草 .txt
+E:\pre_enrich\解毒剂（中药）\救阴煎,枳壳 木香 当归 白芍 车前子 巴戟天 甘草 槟榔 山海螺 .txt
+E:\pre_enrich\解毒剂（中药）\断痢丸,木鳖子 .txt
+E:\pre_enrich\解毒剂（中药）\木瓜汤,木瓜 木香 .txt
+E:\pre_enrich\解毒剂（中药）\木香丸,木香 淡豆豉 巴豆 .txt
+E:\pre_enrich\解毒剂（中药）\木香交加散,藿香 .txt
+E:\pre_enrich\解毒剂（中药）\木香槟榔丸,大黄 木香 槟榔 .txt
+E:\pre_enrich\解毒剂（中药）\杜仲汤,杜仲 甘草 肉桂 .txt
+E:\pre_enrich\解毒剂（中药）\桂心半夏汤,半夏 肉桂 .txt
+E:\pre_enrich\解毒剂（中药）\桂枝芍药汤,半夏 肉桂 .txt
+E:\pre_enrich\解毒剂（中药）\椿根散,白皮 松花 地榆 荷叶蒂 橘叶巴戟 .txt
+E:\pre_enrich\解毒剂（中药）\止痢神丸,酒 黄连 罂粟壳 .txt
+E:\pre_enrich\解毒剂（中药）\治痢丸子,地榆 香附 当归 木香 枳壳 槟榔 黄柏 黄芩 侧柏叶 黄连 山海螺 罂粟壳 .txt
+E:\pre_enrich\解毒剂（中药）\治痢神效丸,鸡子 阿魏 蜂蜡 .txt
+E:\pre_enrich\解毒剂（中药）\治痢绝妙丸,金樱花 罂粟 罂粟壳 醋 .txt
+E:\pre_enrich\解毒剂（中药）\治脾胃积膏,鸡子 阿魏 蜂蜡 .txt
+E:\pre_enrich\解毒剂（中药）\泻痢圣饼子,轻粉 硫黄 铅丹 铅粉 .txt
+E:\pre_enrich\解毒剂（中药）\泻痢膏,赤石脂 诃子 罂粟壳 干姜 .txt
+E:\pre_enrich\解毒剂（中药）\泽泻汤,厚朴 青皮 当归 木香 泽泻 滑石 黄芩 甘草 白芍 铅丹 山楂 .txt
+E:\pre_enrich\解毒剂（中药）\济世丹,胡椒 巴豆 丁香 .txt
+E:\pre_enrich\解毒剂（中药）\济阴丸,香附 茯苓 黄芩 香附 川芎 当归 白芍 熟地黄 阿胶 益母草 熟地黄 当归 白术 阿胶 川芎 半夏 白芍 杜仲 牡丹皮 续断 延胡索 没药 甘草 吴茱萸 小茴香 山海螺 .txt
+E:\pre_enrich\解毒剂（中药）\淳于丸,大黄 车前子 白芍 莱菔 莱菔子 .txt
+E:\pre_enrich\解毒剂（中药）\清热化滞汤,吴茱萸 枳壳 茯苓 黄芩 甘草 白芍 黄连 山海螺 .txt
+E:\pre_enrich\解毒剂（中药）\滞下丸,黄连 滑石 白芍 槟榔 木香 枳壳 甘草 .txt
+E:\pre_enrich\解毒剂（中药）\独凡丸,白矾 .txt
+E:\pre_enrich\解毒剂（中药）\独圣散,白矾 .txt
+E:\pre_enrich\解毒剂（中药）\理中加石膏汤,石膏 干姜 甘草 白术 人参 .txt
+E:\pre_enrich\解毒剂（中药）\甘草绿豆汤.txt
+E:\pre_enrich\解毒剂（中药）\生地黄汤,陈仓米 厚朴 干姜 苍术 泽泻 黄芩 甘草 白芍 猪肉 .txt
+E:\pre_enrich\解毒剂（中药）\痢疾万应丸,苍术 杏仁 大黄 大黄 甘草 羌活 川乌头 山海螺 乌药 .txt
+E:\pre_enrich\解毒剂（中药）\痢疾丸,石榴皮 鸦片 鸦胆子 人参 沉香 阳起石 .txt
+E:\pre_enrich\解毒剂（中药）\痢疾丸,酒 厚朴 甘草 杏仁 川乌头 羌活 枳壳 枳壳 甘草 骨碎补 大黄 .txt
+E:\pre_enrich\解毒剂（中药）\痢疾立验神方,香附 木香 栀子 赤芍 连翘 车前子 黄连 山海螺 .txt
+E:\pre_enrich\解毒剂（中药）\石脂神砂丹,干姜 赤石脂 朱砂 附子 .txt
+E:\pre_enrich\解毒剂（中药）\石韦汤,山楂 青皮 当归 枳壳 槟榔 黄芩 白芍 厚朴 豨莶 .txt
+E:\pre_enrich\解毒剂（中药）\立效丸,乌梅 黄连 木香 当归 青蒿子 枳壳 莱菔 五倍子 .txt
+E:\pre_enrich\解毒剂（中药）\管仲散,黄连 管仲 甘草 骆驼蓬 .txt
+E:\pre_enrich\解毒剂（中药）\粟壳饮,罂粟 罂粟壳 当归 木香 枳壳 诃子 甘草 白僵蚕 人参 白芍 山海螺 .txt
+E:\pre_enrich\解毒剂（中药）\糯米干姜汤,糯米 干姜 甘草 人参 .txt
+E:\pre_enrich\解毒剂（中药）\紫霞丹,红曲 厚朴 木通 .txt
+E:\pre_enrich\解毒剂（中药）\罂榆汤,罂粟壳 赤芍 甘草 地榆 蜂蜜 山海螺 .txt
+E:\pre_enrich\解毒剂（中药）\罂粟汤,罂粟 罂粟壳 甘草 蜂蜜 .txt
+E:\pre_enrich\解毒剂（中药）\肉豆蔻汤,肉豆蔻 人参 吴茱萸 肉桂 .txt
+E:\pre_enrich\解毒剂（中药）\胡椒汤,吴茱萸 肉豆蔻 胡椒 干姜 人参 肉桂 .txt
+E:\pre_enrich\解毒剂（中药）\膏药,砒石 大枣 巴豆 .txt
+E:\pre_enrich\解毒剂（中药）\芍药散,黄连 赤芍 白芍 .txt
+E:\pre_enrich\解毒剂（中药）\芩术汤,黄芩 甘草 白术 .txt
+E:\pre_enrich\解毒剂（中药）\芩荷引竭煎,山楂 当归 枳实 槟榔 沉香 荷叶 荷叶蒂 莱菔 莱菔子 酥 三叶海棠 .txt
+E:\pre_enrich\解毒剂（中药）\芩连芍药汤,厚朴 山楂 木通 枳壳 槟榔 茯苓 黄芩 甘草 黄连 山海螺 荸荠 .txt
+E:\pre_enrich\解毒剂（中药）\芩连芍药汤,木香 枳壳 槟榔 黄芩 甘草 白芍 黄连 .txt
+E:\pre_enrich\解毒剂（中药）\苍术防风汤,苍术 防风 黄连 木香 厚朴 枳壳 甘草 山海螺 .txt
+E:\pre_enrich\解毒剂（中药）\苍莎导痰丸,苍术 防风 黄连 木香 厚朴 枳壳 甘草 山海螺 .txt
+E:\pre_enrich\解毒剂（中药）\苦酒絮裹足方,酒 醋 .txt
+E:\pre_enrich\解毒剂（中药）\药梅,木通 木香 薄荷 酒 黄芩 砂仁 乌梅 酥 .txt
+E:\pre_enrich\解毒剂（中药）\药梅,砂仁 甘草 川木通 黄芩 防风 乌梅 .txt
+E:\pre_enrich\解毒剂（中药）\蜀椒汤,乌梅 .txt
+E:\pre_enrich\解毒剂（中药）\补血荡邪汤,当归 白芍 枳壳 槟榔 甘草 .txt
+E:\pre_enrich\解毒剂（中药）\豁脾煎,厚朴 当归 木香 苍术 茯苓 赤芍 神曲 山楂 豨莶 .txt
+E:\pre_enrich\解毒剂（中药）\赵氏加味六子丸,麦门冬 山茱萸 甘草 藜 覆盆子 菟丝子 川牛膝 原蚕蛾 五味子 蛇床子 车前子 补骨脂 肉苁蓉 刺蒺藜 木蝴蝶 .txt
+E:\pre_enrich\解毒剂（中药）\车前汤,车前草 玫瑰花 大黄 .txt
+E:\pre_enrich\解毒剂（中药）\金丝膏,乳香 松香 铅丹 蜂蜡 .txt
+E:\pre_enrich\解毒剂（中药）\镇国将军丸,大黄 吴茱萸 一颗针 .txt
+E:\pre_enrich\解毒剂（中药）\附子汤,附子 生姜 .txt
+E:\pre_enrich\解毒剂（中药）\靖乱汤,白芍 木香 白芍 车前子 黄连 甘草 枳壳 木通 茯苓 .txt
+E:\pre_enrich\解毒剂（中药）\香粟饮子,白豆蔻 丁香 罂粟壳 甘草 乳香 甘草 皂荚子 .txt
+E:\pre_enrich\解毒剂（中药）\香连丸,地榆 木香 枳壳 枳实 槐角 槟榔 黄连 山海螺 柑皮 .txt
+E:\pre_enrich\解毒剂（中药）\香连丸,木香 黄连 蛇眼草 甘草 .txt
+E:\pre_enrich\解毒剂（中药）\驻车丸,黄连 干姜 当归 阿胶 乌梅 .txt
+E:\pre_enrich\解毒剂（中药）\黄连丸,阿胶 黄连 .txt
+E:\pre_enrich\解毒剂（中药）\黄连泻心汤,木香 枳壳 槟榔 甘草 白芍 黄连 柚 黄芩 .txt
+E:\pre_enrich\解毒剂（中药）\黄连芍药汤,木香 枳壳 槟榔 甘草 白芍 黄连 柚 黄芩 .txt
+E:\pre_enrich\解毒剂（中药）\黄金汤,白扁豆 谷芽 茯苓 黑大豆 甘草 白芍 生姜 金银花 扁豆花 五谷虫 .txt
+E:\pre_enrich\解毒剂（中药）\黑灵丹,三棱 莪术 青皮 连翘 牵牛子 干姜 槟榔 百草霜 砂仁 肉豆蔻 肉桂 龙珠果 .txt
+E:\pre_enrich\解表剂\七七散,皂荚 半夏 黄精 骨碎补 .txt
+E:\pre_enrich\解表剂\万安散,紫苏叶 桔梗 白芷 半夏 甘草 前胡 藁本 葛根 附子 香附 骨碎补 山海螺 .txt
+E:\pre_enrich\解表剂\万应灵膏,防风 乳香 川牛膝 当归 荆芥 藜 赤芍 没药 牛膝 独活 黄柏 甘草 白芷 金银花 铁棒锤 .txt
+E:\pre_enrich\解表剂\万病无忧散,桔梗 川芎 前胡 苍术 甘草 独活 枳壳 .txt
+E:\pre_enrich\解表剂\万金散,桔梗 川芎 前胡 苍术 甘草 独活 枳壳 .txt
+E:\pre_enrich\解表剂\三奇汤,乌梅 罂粟壳 .txt
+E:\pre_enrich\解表剂\三拗汤.txt
+E:\pre_enrich\解表剂\三枝膏,茯苓 肉桂 白术 .txt
+E:\pre_enrich\解表剂\三生丸,胡桃仁 生姜 杏仁 .txt
+E:\pre_enrich\解表剂\三神汁,赤沙糖 蜂蜜 莱菔 .txt
+E:\pre_enrich\解表剂\三苓散,茯苓 肉桂 白术 .txt
+E:\pre_enrich\解表剂\九制松香膏,松香 肉桂 白芥 白芥子 干姜 芥子 川乌头 铁棒锤 苍术 蓖麻子 血余 凤仙透骨草 闹羊花 .txt
+E:\pre_enrich\解表剂\九味羌活汤.txt
+E:\pre_enrich\解表剂\乳香中黄膏,防风 地龙 大黄 乳香 当归 槐枝 苍术 苦参 蓖麻子 藁本 血竭 赤芍 没药 玄参 白芷 铁棒锤 雪乌 .txt
+E:\pre_enrich\解表剂\乳香饼子,乳香 没药 血竭 .txt
+E:\pre_enrich\解表剂\二母汤,知母 川贝母 白芥子 杏仁 酥 .txt
+E:\pre_enrich\解表剂\五子桃仁真武汤,附子 枸杞子 桃仁 茯苓 菟丝 菟丝子 覆盆子 生姜 白术 红花 车前子 五味子 白芍 .txt
+E:\pre_enrich\解表剂\五子桃仁真武汤,附子 菟丝子 枸杞子 覆盆子 车前子 桃仁 白术 白芍 五味子 红花 茯苓 生姜 .txt
+E:\pre_enrich\解表剂\人参固本酒,人参 天门冬 麦门冬 枸杞子 何首乌 当归 萹蓄 杜衡 .txt
+E:\pre_enrich\解表剂\人参安肺汤,乌梅 杏仁 枳壳 桑白皮 麻黄 甘草 白皮 五味子 人参 .txt
+E:\pre_enrich\解表剂\人参散,人参 甘草 麻黄 桔梗 茯苓 .txt
+E:\pre_enrich\解表剂\人参散,橘 茯苓 白术 人参 山海螺 .txt
+E:\pre_enrich\解表剂\人参散,罂粟壳 桔梗 人参 甘草 乌梅 甘草 紫菀 蜂蜜 葶苈子 .txt
+E:\pre_enrich\解表剂\人参杏子汤,人参 半夏 茯苓 白芍 桂枝 干姜 细辛 甘草 五味子 杏仁 .txt
+E:\pre_enrich\解表剂\人参润肺丸,人参 山药 莲子 款冬花 蛤壳 杏仁 大枣 土瓜狼毒 荭草 .txt
+E:\pre_enrich\解表剂\人参补肺散,防风 桑白皮 麻黄 白术 白皮 人参 大果巴戟 广防己 .txt
+E:\pre_enrich\解表剂\人参饮,人参 荆芥 甘草 防风 葛根 肉桂 五加皮 桔梗 白芍 麻黄 川芎 柴胡 山海螺 .txt
+E:\pre_enrich\解表剂\仓卒散,金丝梅 栀子 .txt
+E:\pre_enrich\解表剂\仓瘭散.txt
+E:\pre_enrich\解表剂\兜铃丸,马兜铃 半夏 杏仁 巴豆 .txt
+E:\pre_enrich\解表剂\全痘汤,防风 半夏 乌药 青皮 川芎 枳壳 枳实 桔梗 槟榔 茯苓 甘草 附子 香附 木香 香附 甘草 酥 山海螺 .txt
+E:\pre_enrich\解表剂\八仙丸,巴豆 大枣 天南星 半夏 小果皂角 甘草 款冬花 白矾 巴豆 杏仁 .txt
+E:\pre_enrich\解表剂\八宝丹,人参 半夏 茯苓 白芍 桂枝 干姜 细辛 甘草 五味子 杏仁 .txt
+E:\pre_enrich\解表剂\八宝饮,阿胶 罂粟 罂粟壳 桑白皮 桔梗 橘 橘红 款冬花 蚌粉 白皮 百合 人参 蜂蜜 .txt
+E:\pre_enrich\解表剂\再造散.txt
+E:\pre_enrich\解表剂\凤髓汤,杏仁 山药 牛髓 胡桃仁 蜂蜜 .txt
+E:\pre_enrich\解表剂\加减无比山药汤,山药 熟地黄 菟丝子 肉苁蓉 牛膝 杜仲 泽泻 茯苓 山茱萸 巴戟天 赤石脂 五味子 .txt
+E:\pre_enrich\解表剂\加减真武汤,地肤子 白茅根 附子 白术 红花岩黄芪 白芍 树花 益母草 生姜 沙参 .txt
+E:\pre_enrich\解表剂\加减葳蕤汤.txt
+E:\pre_enrich\解表剂\加减香砂六君子汤,半夏 木香 砂仁 茯苓 白术 甘草 山海螺 .txt
+E:\pre_enrich\解表剂\加减香苏散,附子 香附 紫苏梗 甘草 山海螺 .txt
+E:\pre_enrich\解表剂\加味五虫汤,蝉蜕 地龙 乌蛇皮 蜇虫 茯苓 益母草 白茅根 乌蛇膏 .txt
+E:\pre_enrich\解表剂\加味六味地黄汤,山茱萸 熟地黄 黄精 红花岩黄芪 桑寄生 淫羊藿 杜仲 枸杞子 丹参 红花 大枣 .txt
+E:\pre_enrich\解表剂\加味失笑散,姜黄 木通 蒲黄 赤芍 酒 没药 卤碱 食盐 .txt
+E:\pre_enrich\解表剂\千捶膏,松香 蓖麻子 火麻仁 .txt
+E:\pre_enrich\解表剂\千金丸,天南星 半夏 白矾 .txt
+E:\pre_enrich\解表剂\千金解毒丸,松香 蓖麻子 火麻仁 .txt
+E:\pre_enrich\解表剂\升麻葛根汤.txt
+E:\pre_enrich\解表剂\半提丹,珍珠 红升丹 .txt
+E:\pre_enrich\解表剂\华盖散,乌梅 杏仁 茯苓 麻黄 甘草 知母 五味子 人参 桑白皮 葶苈子 .txt
+E:\pre_enrich\解表剂\华盖散,麻黄 甘草 杏仁 .txt
+E:\pre_enrich\解表剂\华盖散.txt
+E:\pre_enrich\解表剂\参苏饮.txt
+E:\pre_enrich\解表剂\参莲汤,莲子 人参 .txt
+E:\pre_enrich\解表剂\参连菖蒲汤,人参 人参 黄连 石菖蒲 石莲子 骨碎补 生姜 .txt
+E:\pre_enrich\解表剂\参香散,莲子 人参 人参 .txt
+E:\pre_enrich\解表剂\双鸳汤,杏仁 梨 甘草 砂仁 鹅肉 .txt
+E:\pre_enrich\解表剂\含膏丸,葶苈子 知母 川贝母 .txt
+E:\pre_enrich\解表剂\吸药仙丹,甘草 鹅管石 寒水石 白附子 白矾 孩儿茶 款冬花 消石 青礞石 .txt
+E:\pre_enrich\解表剂\和胃散,柴胡 白及 石斛 红花岩黄芪 .txt
+E:\pre_enrich\解表剂\噙化丸,雅丽千金藤 硼砂 青黛 北豆根 .txt
+E:\pre_enrich\解表剂\噙漱方,千年艾 花椒 大枣 .txt
+E:\pre_enrich\解表剂\四宝丸,款冬花 白矾 知母 川贝母 .txt
+E:\pre_enrich\解表剂\坠涎丸,附子 半夏 天南星 白僵蚕 白矾 白附子 乌头附子尖 川乌头 .txt
+E:\pre_enrich\解表剂\壮水制阳汤,绿豆 绿豆皮 当归 沙参 泽泻 牛膝 黄柏 秦艽 仙茅 白芍 铅丹 大山玄参 .txt
+E:\pre_enrich\解表剂\复方黄瓜藤片,黄瓜藤 海带根 .txt
+E:\pre_enrich\解表剂\大半夏丸,半夏 生姜 丽江青木香 青皮 .txt
+E:\pre_enrich\解表剂\大白术汤,白术 防风 羌活 川芎 黄芩 细辛 白芷 知母 甘草 枳实 石膏 .txt
+E:\pre_enrich\解表剂\大羌活汤.txt
+E:\pre_enrich\解表剂\大铁箍散,芙蓉叶 木鳖子 白芷 黄柏 寒水石 大黄 紫荆皮 赤小豆 白蔹 白及 防风 川贝母 羌活 大黄 猪肉 .txt
+E:\pre_enrich\解表剂\大青龙汤.txt
+E:\pre_enrich\解表剂\天门冬煎,天门冬 杏仁 厚朴 杜仲 苦参 附子 干姜 川乌头 人参 蜈蚣 肉桂 .txt
+E:\pre_enrich\解表剂\天麻丸,半夏 天麻 半夏 天南星 雄黄 .txt
+E:\pre_enrich\解表剂\太和丸,白术 莲子 山楂 枳实 半夏 神曲 香附 木香 龙眼肉 人参 白豆蔻 茯苓 山药 当归 白芍 黄连 骨碎补 山海螺 .txt
+E:\pre_enrich\解表剂\太极丹,五倍子 .txt
+E:\pre_enrich\解表剂\夺命救痢饮,枳实 枳实 大黄 槟榔 甘草 当归 白芍 车前子 荞麦 .txt
+E:\pre_enrich\解表剂\宁嗽丸,栝楼子 花椒 椒目 栝楼 .txt
+E:\pre_enrich\解表剂\宁肺散,延胡索 .txt
+E:\pre_enrich\解表剂\安中散,延胡索 大高良姜 肉桂 .txt
+E:\pre_enrich\解表剂\安胃散,党参 丹参 香附 干姜 蒲公英 甘草 神曲 草乌头 黄花独蒜 .txt
+E:\pre_enrich\解表剂\定嗽化痰方,黄芩 滑石 川贝母 天南星 玄明粉 芜菁 芥菜 .txt
+E:\pre_enrich\解表剂\宣毒发表汤.txt
+E:\pre_enrich\解表剂\射干煎,附子 干姜 桑根 款冬花 芫花根 芫花 甘草 白皮 竹沥 紫菀 细辛 射干 饴糖 徐长卿 .txt
+E:\pre_enrich\解表剂\射干麻黄汤.txt
+E:\pre_enrich\解表剂\小青龙加石膏汤.txt
+E:\pre_enrich\解表剂\小青龙汤.txt
+E:\pre_enrich\解表剂\少阳丹,苍术 地骨皮 鹿梨 桑椹子 .txt
+E:\pre_enrich\解表剂\川芎丸,川芎 白术 藁本 苍术 .txt
+E:\pre_enrich\解表剂\归芪调经汤,当归 生姜 大枣 淫羊藿 菟丝子 当归 红花岩黄芪 .txt
+E:\pre_enrich\解表剂\恒山散,金银花 川贝母 当归 红花 乳香 没药 熟地黄 麻黄 防风 天花粉 赤芍 白芷 牛膝 地龙 穿山甲 石决明 血竭 雄黄 防风 麻黄 赤芍 当归 .txt
+E:\pre_enrich\解表剂\恒山橘皮散,没药 乳香 木鳖子 血竭 轻粉 不灰木 五灵脂 海桐皮 松香 蜂蜡 麝香 铅丹 鳢鱼 .txt
+E:\pre_enrich\解表剂\持圣散,麻黄 甘草 附子 白术 五味子 橘 山海螺 肉桂 .txt
+E:\pre_enrich\解表剂\振中丸,党参 半夏 吴茱萸 干姜 木香 薤白 黄芩 甘草 砂仁 五灵脂 白芍 黄连 .txt
+E:\pre_enrich\解表剂\救胃煎,枳壳 甘草 白芍 黄连 玉竹 杏仁 桔梗 石膏 天花粉 黄芩 厚朴 .txt
+E:\pre_enrich\解表剂\旋覆花代赭石汤,雄黄 铅丹 硇砂 .txt
+E:\pre_enrich\解表剂\暖胃膏,牛皮 乳香 没药 生姜 黄明胶 .txt
+E:\pre_enrich\解表剂\替针丸,雀 乳香 没药 .txt
+E:\pre_enrich\解表剂\有腐生肌散,甘草 硼砂 朱砂 梅花冰片 石膏 甘草 .txt
+E:\pre_enrich\解表剂\杏仁汤,麻黄 杏仁 杏仁 .txt
+E:\pre_enrich\解表剂\杏酥散,前胡 半夏 杏仁 柴胡 桔梗 款冬花 麻黄 白皮 五味子 人参 蜂蜜 .txt
+E:\pre_enrich\解表剂\杏酪汤,杏仁 阿胶 .txt
+E:\pre_enrich\解表剂\柴葛解肌汤.txt
+E:\pre_enrich\解表剂\桂枝加厚朴杏子汤.txt
+E:\pre_enrich\解表剂\桂枝加芍药附子汤.txt
+E:\pre_enrich\解表剂\桂枝加葛根汤.txt
+E:\pre_enrich\解表剂\桂枝加附子汤.txt
+E:\pre_enrich\解表剂\桂枝汤.txt
+E:\pre_enrich\解表剂\桂枝甘草汤.txt
+E:\pre_enrich\解表剂\桂浆,大麦 麦芽 蜂蜜 赤茯苓 肉桂 杏仁 .txt
+E:\pre_enrich\解表剂\桂苓散,茯苓 肉桂 .txt
+E:\pre_enrich\解表剂\桃仁丸,桃仁 杏仁 款冬花 川贝母 桃仁 .txt
+E:\pre_enrich\解表剂\桃杏膏,杏仁 桃仁 生姜 胡桃仁 .txt
+E:\pre_enrich\解表剂\桃红散,滑石 乳香 轻粉 寒水石 铅粉 赤小豆 .txt
+E:\pre_enrich\解表剂\桃红散,铅 铅粉 冰 石膏 赤石脂 轻粉 梅花冰片 红药子 .txt
+E:\pre_enrich\解表剂\桑寄生汤,橘 桑白皮 紫菀 百合 桔梗 半夏 人参 知母 川贝母 阿胶 天南星 甘草 木香 山海螺 钟乳石 .txt
+E:\pre_enrich\解表剂\桑白皮汤,白皮 甘草 钟乳石 阿胶 .txt
+E:\pre_enrich\解表剂\桑菊饮.txt
+E:\pre_enrich\解表剂\梅翁汤,大青 大青叶 野菊 野菊花 鱼腥草 岗梅根 梅根 水翁花 菊花 连翘 倒扣草 金银花 .txt
+E:\pre_enrich\解表剂\梅苏丸,乌梅 木瓜 甘草 白檀 白梅 紫苏叶 麝香 .txt
+E:\pre_enrich\解表剂\椒杏丸,胡椒 杏仁 .txt
+E:\pre_enrich\解表剂\楸叶膏,楸叶 .txt
+E:\pre_enrich\解表剂\槐花金银酒,槐花 金银花 .txt
+E:\pre_enrich\解表剂\止咳平喘膏,大黄 丹参 葶苈子 麻黄 黄芩 细辛 .txt
+E:\pre_enrich\解表剂\止嗽丹,干姜 白矾 肉桂 皂荚 .txt
+E:\pre_enrich\解表剂\止嗽散,半夏 食盐 .txt
+E:\pre_enrich\解表剂\止嗽烟筒,雄黄 鹅管石 艾叶 款冬花 .txt
+E:\pre_enrich\解表剂\水仙散,五谷虫 .txt
+E:\pre_enrich\解表剂\沉香槟榔汤,桑根 槟榔 沉香 茯苓 赤茯苓 白皮 人参 桑白皮 .txt
+E:\pre_enrich\解表剂\治嗽含膏丸,巴豆 知母 川贝母 葶苈子 .txt
+E:\pre_enrich\解表剂\法制半夏,半夏 .txt
+E:\pre_enrich\解表剂\泽兰散,肉苁蓉 鹿茸 当归 甘草 泽兰 禹余粮 防风 石膏 白芷 干地黄 赤石脂 藁本 白术 柏子仁 干姜 芜荑 细辛 厚朴 人参 人参 白术 当归 肉桂 .txt
+E:\pre_enrich\解表剂\泽泻饮,防风 厚朴 石膏 肉苁蓉 鹿茸 干地黄 干姜 当归 柏子仁 芜荑 藁本 赤石脂 泽兰 甘草 白术 白芷 禹余粮 细辛 人参 肉桂 .txt
+E:\pre_enrich\解表剂\济生肾气汤,山药 车前子 熟地黄 山茱萸 当归 茯苓 牡丹皮 泽泻 牛膝 桂枝 附子 红花岩黄芪 .txt
+E:\pre_enrich\解表剂\海螵蛸散,马兜铃 木香 浮石 海螵蛸 牡蛎 牵牛子 .txt
+E:\pre_enrich\解表剂\消毒救苦散,大黄 黄芩 黄连 黄柏 芙蓉叶 白及 红花 赤小豆 白芷 朴消 雄黄 雄黄 大蓟 半夏 天南星 当归 .txt
+E:\pre_enrich\解表剂\消痰止嗽膏,猪肉 .txt
+E:\pre_enrich\解表剂\消肿散,雄黄 半夏 大黄 天花粉 芙蓉叶 牡蛎 黄柏 白及 白芷 白蔹 铁棒锤 雪乌 .txt
+E:\pre_enrich\解表剂\润肺止嗽膏,桔梗 细辛 蜂蜜 生姜 紫菀 麻黄 杏仁 诃子 .txt
+E:\pre_enrich\解表剂\润肺豁痰宁嗽汤,半夏 当归 桔梗 款冬花 茯苓 酒 熟地黄 黄柏 黄芩 甘草 知母 紫菀 天门冬 山海螺 .txt
+E:\pre_enrich\解表剂\清咽宁肺汤,桔梗 栀子 黄芩 桑白皮 甘草 前胡 知母 川贝母 .txt
+E:\pre_enrich\解表剂\清嗽止渴抑火化饮膏,前胡 天花粉 桑叶 橘 橘红 茯苓 谷芽 赤茯苓 甘草 甘菊 神曲 竹茹 酥 紫苏叶 .txt
+E:\pre_enrich\解表剂\清肺汤,桔梗 茯苓 薄荷 甘草 白术 细辛 山海螺 天南星 .txt
+E:\pre_enrich\解表剂\清金丸,黄芩 .txt
+E:\pre_enrich\解表剂\清金散,茯苓 杏仁 橘红 五味子 桔梗 甘草 四叶细辛 .txt
+E:\pre_enrich\解表剂\清金降火汤,半夏 茯苓 桔梗 枳壳 川贝母 前胡 杏仁 黄芩 石膏 栝楼子 甘草 山海螺 .txt
+E:\pre_enrich\解表剂\清金饮,杏仁 桔梗 橘 橘红 茯苓 甘草 五味子 四叶细辛 .txt
+E:\pre_enrich\解表剂\烟筒喘嗽方,金精石 耳草 款冬花 甘草 白芷 人参 云母 苍耳 .txt
+E:\pre_enrich\解表剂\煨鲫鱼方,鲫鱼 .txt
+E:\pre_enrich\解表剂\熨胃丸,厚朴 干姜 香果树 豨莶 .txt
+E:\pre_enrich\解表剂\牛髓汤,杏仁 山药 牛髓 胡桃仁 蜂蜜 .txt
+E:\pre_enrich\解表剂\牢牙赴筵散,附子 附子 香附 高良姜 食盐 细辛 .txt
+E:\pre_enrich\解表剂\玉液汤,天南星 半夏 .txt
+E:\pre_enrich\解表剂\理气活血汤,木香 川芎 香附 丹参 赤芍 延胡索 甘草 .txt
+E:\pre_enrich\解表剂\理胃汤,枳壳 厚朴 砂仁 青皮 延胡索 花椒 大高良姜 香附 神曲 新疆延胡索 .txt
+E:\pre_enrich\解表剂\甘柏散,黄柏 甘草 白矾 .txt
+E:\pre_enrich\解表剂\生姜五味子汤,五味子 生姜 紫菀 半夏 吴茱萸 款冬花 细辛 附子 茯苓 甘草 肉桂 .txt
+E:\pre_enrich\解表剂\生肌散,人参 铅丹 乳香 .txt
+E:\pre_enrich\解表剂\生肌散,冰 龙骨 血竭 轻粉 海螵蛸 寒水石 朱砂 梅花冰片 .txt
+E:\pre_enrich\解表剂\生肌散,孩儿茶 象皮 海螵蛸 珍珠 寒水石 荭草 虾蟆 .txt
+E:\pre_enrich\解表剂\生肌散,梅花冰片 朱砂 石膏 当归 龙骨 炉甘石 .txt
+E:\pre_enrich\解表剂\生肌散,龙骨 防风 甘草 金银花 功劳木 .txt
+E:\pre_enrich\解表剂\生肌膏,冰 乳香 没药 珍珠 人参 铅丹 孩儿茶 .txt
+E:\pre_enrich\解表剂\生肌膏,附子 大黄 川芎 当归 木鳖子 苍术 苦参 赤小豆 赤芍 独活 黄柏 白芷 白蔹 白附子 广东土牛膝 蓖麻子 .txt
+E:\pre_enrich\解表剂\疏解清肺饮,前胡 杏仁 桔梗 荆芥 甘草 神曲 桑白皮 蜂蜜 .txt
+E:\pre_enrich\解表剂\疮方通神乳香膏,乳香 木鳖子 血竭 没药 轻粉 不灰木 五灵脂 海桐皮 松香 蜂蜡 麝香 铅丹 鳢鱼 .txt
+E:\pre_enrich\解表剂\疮科保安丸,防风 雄黄 地龙 乳香 血竭 赤芍 没药 牛膝 麻黄 白芷 石决明 红花 金银花 天花粉 .txt
+E:\pre_enrich\解表剂\痹症汤,香附 当归 川芎 木瓜 薏苡仁 附子 熟地黄 .txt
+E:\pre_enrich\解表剂\白芷散,滑石 .txt
+E:\pre_enrich\解表剂\白龙丸,滑石 .txt
+E:\pre_enrich\解表剂\百合汤,桑根 款冬花 甘草 白皮 百合 人参 桑白皮 葶苈子 .txt
+E:\pre_enrich\解表剂\百解绿蜡丸,桔梗 百部 紫菀 款冬花 川贝母 .txt
+E:\pre_enrich\解表剂\百部紫菀丸,桔梗 百部 紫菀 款冬花 川贝母 .txt
+E:\pre_enrich\解表剂\皂荚煎,半夏 天南星 杏仁 皂荚 .txt
+E:\pre_enrich\解表剂\皂荚豉汤,皂荚 .txt
+E:\pre_enrich\解表剂\益气化浊汤,大黄 地榆 红花岩黄芪 淫羊藿 白术 茯苓 熟地黄 山茱萸 车前子 牡丹皮 益母草 连翘 益智仁 .txt
+E:\pre_enrich\解表剂\益胃煎,大黄 姜黄 乌药 高良姜 沉香 蒲公英 郁金 酒 甘草 石斛 神曲 黄连 铅丹 牡丹皮 .txt
+E:\pre_enrich\解表剂\真珠丸,半夏 天南星 白矾 .txt
+E:\pre_enrich\解表剂\石南丸,槟榔 石韦 .txt
+E:\pre_enrich\解表剂\石脂泽兰散,泽兰 禹余粮 干地黄 赤石脂 肉苁蓉 鹿茸 川芎 藁本 白术 柏子仁 肉桂 甘草 当归 干姜 防风 石膏 白芷 厚朴 芜荑 细辛 人参 .txt
+E:\pre_enrich\解表剂\石莲子散,石莲子 石菖蒲 人参 .txt
+E:\pre_enrich\解表剂\石莲散,石莲 .txt
+E:\pre_enrich\解表剂\石韦散,冬葵子 滑石 瞿麦 石韦 木奶果 .txt
+E:\pre_enrich\解表剂\石韦散,槟榔 石韦 .txt
+E:\pre_enrich\解表剂\神健散,半夏 川芎 当归 旋覆花 杏仁 枳壳 柴胡 桑白皮 桔梗 茯苓 泽泻 甘草 白术 白皮 人参 铅丹 .txt
+E:\pre_enrich\解表剂\神效贴凹散,当归 橘 赤芍 橘红 人参 川芎 蛇眼草 地骨皮 五加皮 乳香 没药 粽粑叶 甘草 .txt
+E:\pre_enrich\解表剂\神秘陷脉散,人参 川芎 蛇眼草 地骨皮 五加皮 乳香 没药 人参 当归 赤芍 橘 橘红 白芍 粽粑叶 甘草 .txt
+E:\pre_enrich\解表剂\神验丹,乳香 木香 朱砂 没药 .txt
+E:\pre_enrich\解表剂\神验白散,白附子 附子 半夏 干姜 天南星 皂荚 皂荚子 .txt
+E:\pre_enrich\解表剂\秘传三仙丹,槐角 白矾 .txt
+E:\pre_enrich\解表剂\秘传拔毒丹,乳香 白矾 雄黄 硼砂 朱砂 雌黄 血竭 硇砂 没药 砒霜 斑蝥 巴豆 .txt
+E:\pre_enrich\解表剂\秘传生肌散,孩儿茶 松香 赤石脂 黄柏 黄连 .txt
+E:\pre_enrich\解表剂\竹叶柳蒡汤.txt
+E:\pre_enrich\解表剂\紫苏散,半夏 厚朴 款冬花 甘草 知母 五味子 人参 骨碎补 川贝母 .txt
+E:\pre_enrich\解表剂\紫苏饮,款冬花 大果巴戟 川贝母 .txt
+E:\pre_enrich\解表剂\紫菀七味汤,紫菀 五味子 麻黄 杏仁 干姜 甘草 肉桂 .txt
+E:\pre_enrich\解表剂\紫菀丸,紫菀 甘草 半夏 人参 紫菀 附子 款冬花 半夏 杏仁 细辛 肉桂 干姜 甘草 .txt
+E:\pre_enrich\解表剂\紫菀牙上丸,紫菀 干姜 附子 款冬花 细辛 肉桂 .txt
+E:\pre_enrich\解表剂\紫金丸,雌黄 .txt
+E:\pre_enrich\解表剂\红玉锭子,轻粉 白矾 砒霜 麝香 铅丹 梅花冰片 .txt
+E:\pre_enrich\解表剂\红膏药,松香 铅丹 蜂蜡 银朱 .txt
+E:\pre_enrich\解表剂\红膏药,银朱 松香 铅丹 .txt
+E:\pre_enrich\解表剂\约荣煎,铅丹 银朱 .txt
+E:\pre_enrich\解表剂\缓肝利肺化痰丸,石斛 橘红 款冬花 浙贝母 牡丹皮 丹参 郁金 桔梗 知母 甘草 茯苓 泽泻 桑白皮 .txt
+E:\pre_enrich\解表剂\羊肺汤,羊肺 干姜 款冬花 甘草 白前 紫菀 细辛 五味子 肉桂 .txt
+E:\pre_enrich\解表剂\羌活桂归酒,当归 狗脊 蚕沙 羌活 桂枝 秦艽 防风 续断 附子 杜仲 川芎 桑枝 生姜 大枣 红升麻 花叶狗牙七 .txt
+E:\pre_enrich\解表剂\羚虎丸,甘草 谷芽 桑叶 前胡 橘红 天花粉 甘菊 赤茯苓 神曲 竹茹 酥 .txt
+E:\pre_enrich\解表剂\胃安汤,半夏 吴茱萸 麦芽 茯苓 蒲公英 薏苡仁 郁金 白术 白花蛇舌草 砂仁 黄连 佛手柑 .txt
+E:\pre_enrich\解表剂\胃疡平散,瓦楞子 鹿角霜 海螵蛸 浙贝母 白芍 砂仁 甘草 铁牛钻石 蒲公英 鸡内金 三七 土木香 .txt
+E:\pre_enrich\解表剂\胜金散,降香 当归 芜菁 .txt
+E:\pre_enrich\解表剂\胡桃散,生姜 人参 .txt
+E:\pre_enrich\解表剂\脱烂散,雄黄 铅丹 硇砂 .txt
+E:\pre_enrich\解表剂\膏子药,白芍 天门冬 麦门冬 黄柏 知母 白术 石菖蒲 甘草 当归 蜂蜜 .txt
+E:\pre_enrich\解表剂\膏药,当归 杏仁 柳枝 柚 黑芝麻 .txt
+E:\pre_enrich\解表剂\苓甘味姜辛汤,芦根 楮茎 漏芦 苦参 刺蒺藜 枳实 .txt
+E:\pre_enrich\解表剂\苦参散,枳实 楮茎 芦根 苦参 藜 漏芦 刺蒺藜 .txt
+E:\pre_enrich\解表剂\茯苓利膈汤,桔梗 茯苓 荆芥 牛蒡子 甘草 .txt
+E:\pre_enrich\解表剂\茯苓戎盐汤,茯苓 白术 大青盐 .txt
+E:\pre_enrich\解表剂\茯苓桂甘大枣汤,茯苓 白术 大青盐 .txt
+E:\pre_enrich\解表剂\茯苓甘草五味姜辛汤,荆芥 茯苓 牛蒡子 桔梗 甘草 .txt
+E:\pre_enrich\解表剂\茯苓茱萸丸,吴茱萸 茯苓 黄连 芜菁 荸荠 .txt
+E:\pre_enrich\解表剂\茶糕,吴茱萸 茯苓 黄连 芜菁 荸荠 .txt
+E:\pre_enrich\解表剂\荆防败毒散,防风 前胡 桔梗 荆芥 薄荷 蝉蜕 连翘 甘草 天花粉 .txt
+E:\pre_enrich\解表剂\荆防败毒散.txt
+E:\pre_enrich\解表剂\葛根汤,桔梗 栀子 黄芩 桑白皮 甘草 前胡 知母 川贝母 知母 甘草 .txt
+E:\pre_enrich\解表剂\葛根汤.txt
+E:\pre_enrich\解表剂\葛根黄连汤,附子 干姜 款冬花 紫菀 细辛 肉桂 .txt
+E:\pre_enrich\解表剂\葱白七味饮.txt
+E:\pre_enrich\解表剂\葱豉桔梗汤.txt
+E:\pre_enrich\解表剂\葱豉汤.txt
+E:\pre_enrich\解表剂\葳蕤汤.txt
+E:\pre_enrich\解表剂\葶苈方,葶苈子 知母 川贝母 .txt
+E:\pre_enrich\解表剂\蒌矾散,栝楼 白矾 石蟾蜍 .txt
+E:\pre_enrich\解表剂\薏苡仁汤,厚朴 麦门冬 茯苓 薏苡仁 熟地黄 甘草 白术 肉桂 骨碎补 .txt
+E:\pre_enrich\解表剂\薏苡仁汤,桔梗 甘草 薏苡仁 甘草 .txt
+E:\pre_enrich\解表剂\薯蓣丸.txt
+E:\pre_enrich\解表剂\虫糖散,五谷虫 .txt
+E:\pre_enrich\解表剂\蠲痹秦艽汤,防风 续断 羌活 肉桂 当归 杜仲 苍术 薏苡仁 牛膝 独活 黄柏 秦艽 五加皮 白芍 大果巴戟 广防己 .txt
+E:\pre_enrich\解表剂\补肺丸,杏仁 山海螺 .txt
+E:\pre_enrich\解表剂\补阴丸,天门冬 肉苁蓉 山药 当归 菟丝 菟丝子 酒 酥 黄柏 知母 枸杞子 熟地黄 .txt
+E:\pre_enrich\解表剂\观音茶,山药 莲子 黑芝麻 .txt
+E:\pre_enrich\解表剂\解噤丸,黄连 .txt
+E:\pre_enrich\解表剂\解肌汤,荆芥 麻黄 苍术 羌活 甘草 .txt
+E:\pre_enrich\解表剂\诃子散,诃子 麻黄 诃子 杏仁 大果巴戟 .txt
+E:\pre_enrich\解表剂\调经琥珀汤,刘寄奴 延胡索 当归 莪术 蒲黄 三棱 甘菊 白芍 肉桂 熟地黄 .txt
+E:\pre_enrich\解表剂\调降汤,半夏 青皮 木香 枳壳 槟榔 茯苓 甘草 白豆蔻 砂仁 紫苏叶 山海螺 葶苈子 .txt
+E:\pre_enrich\解表剂\贝母散,川贝母 阿胶 甘草 甘草 .txt
+E:\pre_enrich\解表剂\贝母散,知母 石膏 川贝母 .txt
+E:\pre_enrich\解表剂\败毒散.txt
+E:\pre_enrich\解表剂\赤茯苓汤,茯苓 甘草 五味子 人参 橘 人参 赤茯苓 槟榔 五味子 桑根 白皮 甘草 山海螺 桑白皮 .txt
+E:\pre_enrich\解表剂\越婢加术汤.txt
+E:\pre_enrich\解表剂\越婢汤.txt
+E:\pre_enrich\解表剂\辰砂丸,朱砂 白矾 天南星 白附子 半夏 雪里见 黄精 .txt
+E:\pre_enrich\解表剂\选奇汤.txt
+E:\pre_enrich\解表剂\通痹汤,当归 丹参 鸡血藤 海风藤 凤仙透骨草 独活 钻地风 香附 .txt
+E:\pre_enrich\解表剂\金水六君子汤,党参 茯苓 山海螺 当归 .txt
+E:\pre_enrich\解表剂\镇心降压片,山楂 梧桐叶 珍珠 白僵蚕 .txt
+E:\pre_enrich\解表剂\防风荆芥汤,防风 荆芥 苍耳子 大枣 生姜 黄精 .txt
+E:\pre_enrich\解表剂\阳春玉液,鹿茸 鹿角胶 党参 淫羊藿 红花岩黄芪 巴戟天 枸杞子 天门冬 蛇床子 熟地黄 .txt
+E:\pre_enrich\解表剂\阿胶汤,五灵脂 阿胶 桑根 白皮 甘草 知母 五灵脂 阿胶 桑根 白皮 甘草 知母 川贝母 桑白皮 .txt
+E:\pre_enrich\解表剂\阿胶汤,阿胶 桑根 甘草 白皮 知母 五灵脂 川贝母 桑白皮 .txt
+E:\pre_enrich\解表剂\除湿热和血汤,大果巴戟 独活 茯苓 杜仲 松节 茄根 木瓜 苍耳子 枸杞子 秦艽 桑枝 牛膝 狗脊 续断 伸筋草 酒 广防己 .txt
+E:\pre_enrich\解表剂\除湿酒,续断 木瓜 杜仲 松节 枸杞子 桑枝 苍耳 苍耳子 茄根 酒 牛膝 狗脊 独活 秦艽 伸筋草 大果巴戟 广防己 .txt
+E:\pre_enrich\解表剂\除痹汤,附子 党参 川芎 当归 枳壳 桂枝 淫羊藿 秦艽 五加皮 红花岩黄芪 .txt
+E:\pre_enrich\解表剂\雄黄丸,雄黄 雌黄 巴豆 半夏 雄黄 .txt
+E:\pre_enrich\解表剂\集宝疗痹膏,半夏 大黄 羌活 肉桂 当归 松香 桃仁 独活 生姜 白芷 硫黄 红花 铁棒锤 雪乌 .txt
+E:\pre_enrich\解表剂\雪煎,麻黄 杏仁 大黄 .txt
+E:\pre_enrich\解表剂\青血丸,莲子 .txt
+E:\pre_enrich\解表剂\青龙散,麻黄 .txt
+E:\pre_enrich\解表剂\飞龙夺命丹,玄精石 白矾 绿矾 消石 硼砂 硇砂 .txt
+E:\pre_enrich\解表剂\香灵散,木香 没药 香附 五灵脂 乳香 荜茇 沉香 吴茱萸 铁牛钻石 山海螺 土木香 .txt
+E:\pre_enrich\解表剂\香苏散.txt
+E:\pre_enrich\解表剂\香连丸,乌梅 木香 苍术 黄连 白矾 .txt
+E:\pre_enrich\解表剂\香连煎,木香 没药 香附 五灵脂 乳香 荜茇 沉香 吴茱萸 铁牛钻石 山海螺 土木香 .txt
+E:\pre_enrich\解表剂\马兜铃饮,马兜铃 肉桂 葶苈子 .txt
+E:\pre_enrich\解表剂\马前散,母丁香 丁香 麝香 木鳖子 .txt
+E:\pre_enrich\解表剂\马齿苋汤,马齿 马齿苋 杏仁 苋 麻黄 甘草 蜂蜜 .txt
+E:\pre_enrich\解表剂\鸡鸣丸,阿胶 半夏 天门冬 麦门冬 旋覆花 杏仁 桔梗 款冬花 葶苈子 酒 甘草 白皮 知母 人参 山海螺 骨碎补 .txt
+E:\pre_enrich\解表剂\麦冬汤,轻粉 白矾 砒霜 麝香 铅丹 梅花冰片 .txt
+E:\pre_enrich\解表剂\麦门冬汤,黄芩 黄连 .txt
+E:\pre_enrich\解表剂\麻杏石甘汤.txt
+E:\pre_enrich\解表剂\麻杏苡甘汤.txt
+E:\pre_enrich\解表剂\麻黄五味子汤,半夏 干姜 杏仁 麻黄 甘草 细辛 五味子 肉桂 .txt
+E:\pre_enrich\解表剂\麻黄加术汤.txt
+E:\pre_enrich\解表剂\麻黄升麻汤.txt
+E:\pre_enrich\解表剂\麻黄吴茱萸汤,半夏 干姜 杏仁 麻黄 甘草 细辛 五味子 肉桂 .txt
+E:\pre_enrich\解表剂\麻黄散,阿胶 干姜 杏仁 麻黄 甘草 .txt
+E:\pre_enrich\解表剂\麻黄桂枝汤,麻黄 桂枝 葛根 白芍 甘草 .txt
+E:\pre_enrich\解表剂\麻黄汤.txt
+E:\pre_enrich\解表剂\麻黄附子甘草汤.txt
+E:\pre_enrich\解表剂\麻黄附子细辛汤.txt
+E:\pre_enrich\解表剂\黄芪益母汤,红花岩黄芪 益母草 茯苓 白茅根 板蓝根 泽泻 杜仲 山海螺 半边莲 .txt
+E:\pre_enrich\驱虫剂（中药）\下膈散,荆芥 苦参 莪术 龙眼肉 益智仁 .txt
+E:\pre_enrich\驱虫剂（中药）\乌梅丸,乌梅 人参 桂枝 干姜 附子 花椒 当归 茯苓 附子 .txt
+E:\pre_enrich\驱虫剂（中药）\乌梅丸.txt
+E:\pre_enrich\驱虫剂（中药）\伐木丸.txt
+E:\pre_enrich\驱虫剂（中药）\化积丸,使君子 芦荟 槟榔 大黄 木香 黑牵牛 使君子 芜荑 芦荟 .txt
+E:\pre_enrich\驱虫剂（中药）\化虫丸,大黄 木香 槟榔 黑牵牛 使君子 芜荑 芦荟 .txt
+E:\pre_enrich\驱虫剂（中药）\化虫丸.txt
+E:\pre_enrich\驱虫剂（中药）\四苓五皮汤,桑白皮 地骨皮 茯苓皮 生姜皮 大腹皮 苍术 青皮 车前子 泽泻 猪苓 白术 山海螺 .txt
+E:\pre_enrich\驱虫剂（中药）\复原通气散,榧子 苍术 白术 绿矾 .txt
+E:\pre_enrich\驱虫剂（中药）\复方雷榧丸,榧子 苍术 白术 绿矾 .txt
+E:\pre_enrich\驱虫剂（中药）\巴豆白膏,巴豆 桃仁 .txt
+E:\pre_enrich\驱虫剂（中药）\布袋丸.txt
+E:\pre_enrich\驱虫剂（中药）\榧子贯众汤,榧子 槟榔 贯众 大血藤 鸡血藤 .txt
+E:\pre_enrich\驱虫剂（中药）\槟榔煎,酸石榴 石榴根 槟榔 桑白皮 .txt
+E:\pre_enrich\驱虫剂（中药）\治虫丸,胡黄连 槟榔 神曲 郁金 半夏 白术 山海螺 .txt
+E:\pre_enrich\驱虫剂（中药）\治蛔结丸,白芍 胡黄连 槟榔 蛇眼草 柑皮 肉豆蔻 山海螺 .txt
+E:\pre_enrich\驱虫剂（中药）\珊瑚紫金膏,芜荑 橘 贯众 槟榔 当归 鹤虱 山海螺 芜菁 .txt
+E:\pre_enrich\驱虫剂（中药）\理中安蛔汤.txt
+E:\pre_enrich\驱虫剂（中药）\石榴散,槟榔 酸石榴 石榴根 干漆 海鳗 鹤虱 .txt
+E:\pre_enrich\驱虫剂（中药）\秦皮汤,蚕蛹 .txt
+E:\pre_enrich\驱虫剂（中药）\绿豆汁,绿豆 广东土牛膝 .txt
+E:\pre_enrich\驱虫剂（中药）\肥儿丸.txt
+E:\pre_enrich\驱虫剂（中药）\胡椒宣气丸,厚朴 羌活 藿香 木香 骨碎补 巴豆 .txt
+E:\pre_enrich\驱虫剂（中药）\芫花散,桃仁 芫花 海鳗 .txt
+E:\pre_enrich\驱虫剂（中药）\芫花散,芜荑 芫花 海鳗 桃仁 海鳗 芜荑 .txt
+E:\pre_enrich\驱虫剂（中药）\蚕蛹汁方,蚕蛹 .txt
+E:\pre_enrich\驱虫剂（中药）\蜜香丸,密陀僧 麝香 硫黄 铅粉 蜂蜜 .txt
+E:\pre_enrich\驱虫剂（中药）\贯仲汤.txt
+E:\pre_enrich\驱虫剂（中药）\贯众散,鹤虱 当归 槟榔 橘 芜荑 贯众 山海螺 芜菁 .txt
+E:\pre_enrich\驱虫剂（中药）\连梅安蛔汤.txt
+E:\pre_enrich\驱虫剂（中药）\追虫丸,木香 槟榔 金狮藤 桑白皮 .txt
+E:\pre_enrich\驱虫剂（中药）\追虫丸,鹤虱 槟榔 芜荑 铅粉 使君子 .txt
+E:\pre_enrich\驱虫剂（中药）\追魂汤,鹤虱 槟榔 芜荑 铅粉 使君子 .txt
+E:\pre_enrich\驱虫剂（中药）\高良姜散,胡椒 高良姜 桑白皮 苦楝子 .txt
+E:\pre_enrich\驱虫剂（中药）\高良姜汤,胡椒 高良姜 桑白皮 苦楝子 .txt
